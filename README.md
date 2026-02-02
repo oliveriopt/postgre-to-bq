@@ -9,10 +9,10 @@ postgre-to-bq-test
 Use **psycopg2** to connect and fetch data
 Load into **pandas** DataFrame
 Push directly to BigQuery using bq load or API
-Best for: Small-to-medium datasets, simple ETLs
+*Best for: Small-to-medium datasets, simple ETLs*
 
 **-> Staging via GCS:**
 Export to CSV/Parquet locally
 Upload to GCS
 Load into BigQuery from GCS
-Best for: Large datasets, incremental loads, or when network stability is a concern
+*Best for: Large datasets, incremental loads, or when network stability is a concern*
