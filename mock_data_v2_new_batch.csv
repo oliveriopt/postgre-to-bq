@@ -1,0 +1,501 @@
+user_id,full_name,email,total_spend,signup_date,region,product_category,payment_method,is_active,device_type,loyalty_score
+180d528c,Sofia Rossi,sofia.rossi.728@example.com,9031.55,2026-10-30,EMEA,Home & Garden,Crypto,False,Tablet,94
+7cec822f,Marco Kim,marco.kim.334@example.com,8767.06,2026-11-11,APAC,Fashion,Apple Pay,False,Desktop,94
+19b1796e,Sofia Tanaka,sofia.tanaka.115@example.com,3704.64,2027-03-22,Europe,Fashion,Credit Card,True,Tablet,57
+d968c064,Sofia Kowalski,sofia.kowalski.429@example.com,7593.26,2026-11-27,APAC,Fashion,Credit Card,False,Smart Watch,92
+a738572b,Valentina Schmidt,valentina.schmidt.965@example.com,7234.6,2027-05-15,APAC,Home & Garden,Crypto,False,Mobile,52
+747a99f0,Ana Tanaka,ana.tanaka.624@example.com,6824.33,2026-11-02,APAC,Automotive,Crypto,False,Tablet,60
+5d397fc3,Leo Müller,leo.müller.980@example.com,6837.56,2026-12-25,North America,Home & Garden,PayPal,True,Desktop,83
+719078cd,Lucas Silva,lucas.silva.168@example.com,6203.79,2027-04-02,North America,Home & Garden,Apple Pay,False,Desktop,74
+e525461f,Diego Kowalski,diego.kowalski.989@example.com,9918.71,2026-08-05,EMEA,Home & Garden,PayPal,False,Tablet,79
+9e30da42,Lucas Tanaka,lucas.tanaka.607@example.com,6589.68,2026-06-28,EMEA,Fashion,Bank Transfer,False,Mobile,86
+67a7dd52,Ana Rossi,ana.rossi.517@example.com,9010.1,2026-11-15,North America,Home & Garden,Crypto,False,Smart Watch,94
+6580fa84,Sofia Schmidt,sofia.schmidt.322@example.com,4614.2,2026-09-29,LATAM,Home & Garden,Credit Card,True,Tablet,92
+72da2524,Leo Rossi,leo.rossi.708@example.com,9043.84,2027-02-28,APAC,Books,Credit Card,False,Smart Watch,96
+0cc9e943,Elena Dubois,elena.dubois.981@example.com,995.93,2027-03-16,APAC,Automotive,Bank Transfer,True,Mobile,98
+ceed6b94,Ana Tanaka,ana.tanaka.392@example.com,7248.78,2027-04-20,EMEA,Automotive,PayPal,True,Desktop,61
+da2d9b9f,Diego Rossi,diego.rossi.404@example.com,8008.3,2027-03-16,EMEA,Home & Garden,PayPal,False,Mobile,62
+abeead3a,Sofia Rossi,sofia.rossi.512@example.com,5254.44,2027-05-26,EMEA,Books,PayPal,False,Mobile,59
+ed5bc077,Ana Kim,ana.kim.742@example.com,8373.45,2027-02-08,APAC,Books,PayPal,True,Smart Watch,76
+ddc4e75d,Elena Dubois,elena.dubois.643@example.com,6486.82,2026-12-16,LATAM,Automotive,Bank Transfer,False,Smart Watch,66
+b528a011,Diego Müller,diego.müller.792@example.com,6572.77,2027-02-22,EMEA,Fashion,Crypto,False,Desktop,68
+a5cc1f05,Valentina Rossi,valentina.rossi.779@example.com,9402.21,2027-02-20,LATAM,Books,PayPal,False,Tablet,53
+b2da50cf,Valentina Dubois,valentina.dubois.165@example.com,4753.07,2026-06-23,North America,Automotive,Bank Transfer,False,Desktop,90
+d2acadd9,Diego Rossi,diego.rossi.428@example.com,5459.66,2026-09-18,North America,Electronics,Crypto,False,Smart Watch,86
+ea677425,Elena Müller,elena.müller.405@example.com,8236.72,2026-07-13,EMEA,Home & Garden,Crypto,True,Mobile,87
+6b04c2c2,Leo Silva,leo.silva.114@example.com,1133.74,2026-08-05,Europe,Books,Credit Card,False,Mobile,58
+959c90af,Lucas Kowalski,lucas.kowalski.396@example.com,6730.44,2027-03-05,LATAM,Books,Bank Transfer,False,Mobile,83
+fc370496,Elena Müller,elena.müller.890@example.com,614.93,2026-06-13,EMEA,Home & Garden,Apple Pay,True,Mobile,88
+5f061748,Diego Dubois,diego.dubois.634@example.com,1616.2,2026-06-02,APAC,Books,Crypto,False,Desktop,73
+b5b5ba1c,Sofia Silva,sofia.silva.808@example.com,4031.69,2026-06-01,Europe,Automotive,PayPal,False,Mobile,84
+63951b73,Diego Tanaka,diego.tanaka.869@example.com,4276.73,2027-01-03,LATAM,Electronics,Apple Pay,False,Desktop,58
+42d38e49,Diego Rossi,diego.rossi.485@example.com,6792.01,2026-11-23,EMEA,Home & Garden,Credit Card,True,Desktop,82
+cb3ef26a,Ana Tanaka,ana.tanaka.373@example.com,8731.08,2027-05-10,LATAM,Fashion,Credit Card,False,Smart Watch,73
+3b485e36,Leo Rossi,leo.rossi.145@example.com,6872.93,2027-05-22,North America,Home & Garden,Apple Pay,False,Desktop,54
+f590a740,Leo Schmidt,leo.schmidt.783@example.com,9974.33,2026-09-28,North America,Books,Apple Pay,True,Mobile,61
+d726b864,Marco Kim,marco.kim.581@example.com,4063.41,2027-04-02,LATAM,Automotive,Crypto,True,Desktop,57
+f39465ad,Sofia Rossi,sofia.rossi.348@example.com,8042.39,2027-03-02,EMEA,Home & Garden,Credit Card,True,Desktop,50
+8a77602b,Diego Kim,diego.kim.360@example.com,6893.0,2027-01-02,LATAM,Automotive,Apple Pay,False,Mobile,54
+4ff008bd,Sofia Schmidt,sofia.schmidt.143@example.com,3814.92,2026-09-09,APAC,Books,Crypto,False,Desktop,91
+2ed13df3,Sofia Rossi,sofia.rossi.252@example.com,2232.02,2026-09-23,Europe,Home & Garden,Credit Card,False,Desktop,66
+436eb979,Diego Kowalski,diego.kowalski.829@example.com,7183.16,2026-09-14,Europe,Fashion,Crypto,False,Tablet,95
+46a59978,Marco Tanaka,marco.tanaka.725@example.com,1217.74,2027-01-13,APAC,Fashion,Credit Card,True,Desktop,90
+024b9325,Marco Rossi,marco.rossi.683@example.com,6658.08,2026-10-17,EMEA,Books,Crypto,True,Desktop,78
+1d3ea1f9,Ana Schmidt,ana.schmidt.193@example.com,8870.22,2026-07-03,APAC,Electronics,Bank Transfer,False,Mobile,68
+71bc4c03,Sofia Tanaka,sofia.tanaka.903@example.com,5531.35,2027-03-18,EMEA,Fashion,Bank Transfer,False,Tablet,84
+e25f1bad,Sofia Silva,sofia.silva.915@example.com,9214.51,2027-01-07,LATAM,Home & Garden,PayPal,False,Mobile,72
+d96e2e34,Ana Kim,ana.kim.926@example.com,4964.1,2026-09-09,North America,Books,Apple Pay,True,Smart Watch,70
+a4645f3a,Diego Dubois,diego.dubois.503@example.com,3965.85,2026-11-26,Europe,Home & Garden,Crypto,True,Smart Watch,61
+98ebd09d,Lucas Silva,lucas.silva.818@example.com,3736.94,2026-12-16,APAC,Fashion,PayPal,True,Mobile,66
+262243cd,Ana Rossi,ana.rossi.672@example.com,7547.26,2027-05-25,APAC,Electronics,Bank Transfer,True,Smart Watch,82
+b94cfe95,Lucas Dubois,lucas.dubois.624@example.com,6822.61,2026-12-21,North America,Electronics,Crypto,False,Desktop,97
+6f5ddc1c,Diego Kim,diego.kim.890@example.com,3473.82,2027-04-20,EMEA,Electronics,PayPal,True,Desktop,53
+a0f4e4f5,Sofia Dubois,sofia.dubois.655@example.com,9926.21,2027-05-23,Europe,Electronics,Credit Card,True,Tablet,55
+5318d7a3,Leo Dubois,leo.dubois.492@example.com,7079.17,2026-10-10,Europe,Books,Crypto,True,Tablet,95
+60e0d813,Elena Kowalski,elena.kowalski.217@example.com,8990.13,2026-10-07,EMEA,Fashion,Bank Transfer,True,Desktop,83
+dddeb356,Lucas Müller,lucas.müller.363@example.com,6905.21,2027-01-30,North America,Automotive,Bank Transfer,True,Tablet,98
+17e77e79,Leo Kowalski,leo.kowalski.378@example.com,2253.78,2026-10-17,EMEA,Fashion,Bank Transfer,True,Smart Watch,88
+afeb5470,Marco Silva,marco.silva.873@example.com,4831.06,2027-03-10,Europe,Home & Garden,PayPal,True,Tablet,78
+a37f61e7,Leo Müller,leo.müller.309@example.com,9253.63,2026-08-12,LATAM,Fashion,Crypto,False,Smart Watch,100
+a55720a3,Lucas Rossi,lucas.rossi.292@example.com,9399.28,2026-10-17,EMEA,Books,Apple Pay,False,Smart Watch,52
+dbbfeb8f,Elena Schmidt,elena.schmidt.560@example.com,4023.14,2027-03-14,North America,Electronics,Bank Transfer,True,Smart Watch,51
+6de7230d,Ana Kim,ana.kim.426@example.com,9313.57,2027-03-05,North America,Books,Apple Pay,False,Desktop,90
+d4e3f4e6,Marco Kowalski,marco.kowalski.146@example.com,690.07,2026-07-16,APAC,Automotive,Crypto,True,Smart Watch,75
+cc18d93f,Marco Müller,marco.müller.135@example.com,6156.16,2027-05-19,Europe,Automotive,PayPal,True,Mobile,77
+64ab87fa,Marco Tanaka,marco.tanaka.612@example.com,1248.64,2026-12-07,Europe,Electronics,Bank Transfer,False,Mobile,54
+83a7c57c,Lucas Tanaka,lucas.tanaka.664@example.com,800.23,2026-07-09,Europe,Fashion,Credit Card,True,Smart Watch,86
+1330d34a,Sofia Dubois,sofia.dubois.985@example.com,8737.55,2027-03-10,APAC,Home & Garden,Apple Pay,False,Desktop,69
+1d149726,Valentina Rossi,valentina.rossi.734@example.com,5768.71,2026-12-28,LATAM,Books,Credit Card,True,Smart Watch,75
+66a433e6,Elena Kim,elena.kim.774@example.com,708.11,2026-08-21,North America,Home & Garden,Credit Card,False,Desktop,71
+0a71e971,Sofia Schmidt,sofia.schmidt.227@example.com,2430.0,2027-04-25,Europe,Automotive,Bank Transfer,False,Desktop,74
+d21a3303,Elena Kim,elena.kim.648@example.com,6163.46,2027-04-13,APAC,Books,Apple Pay,True,Tablet,90
+a1b87ebf,Lucas Silva,lucas.silva.935@example.com,7916.57,2027-05-22,North America,Electronics,Credit Card,False,Tablet,69
+340ff3bc,Elena Schmidt,elena.schmidt.640@example.com,4147.85,2026-12-29,Europe,Electronics,Apple Pay,True,Desktop,67
+fbd49291,Ana Kim,ana.kim.863@example.com,6702.46,2026-10-21,APAC,Electronics,Credit Card,False,Smart Watch,94
+2b7259d6,Ana Müller,ana.müller.356@example.com,8788.62,2027-02-09,APAC,Home & Garden,Apple Pay,False,Desktop,54
+e968e611,Lucas Müller,lucas.müller.552@example.com,3904.47,2026-08-15,EMEA,Books,Crypto,True,Smart Watch,99
+a297546d,Marco Silva,marco.silva.163@example.com,881.12,2026-09-20,APAC,Home & Garden,Crypto,False,Mobile,91
+486ad14b,Elena Kowalski,elena.kowalski.839@example.com,6668.53,2027-04-04,LATAM,Automotive,Bank Transfer,False,Tablet,54
+d067e25e,Ana Silva,ana.silva.611@example.com,7814.28,2026-12-30,EMEA,Automotive,Apple Pay,True,Tablet,93
+240008a6,Ana Kim,ana.kim.409@example.com,8823.5,2026-06-25,EMEA,Fashion,Bank Transfer,True,Tablet,72
+a51cd4be,Elena Kim,elena.kim.814@example.com,7383.76,2026-11-07,EMEA,Electronics,PayPal,True,Smart Watch,50
+4eb4eb12,Marco Rossi,marco.rossi.241@example.com,3211.47,2026-10-08,APAC,Books,Bank Transfer,False,Mobile,82
+fff06199,Lucas Dubois,lucas.dubois.781@example.com,1530.93,2027-02-02,EMEA,Automotive,Credit Card,False,Desktop,55
+458bfa42,Ana Tanaka,ana.tanaka.490@example.com,8659.63,2027-04-20,LATAM,Books,Apple Pay,True,Desktop,79
+5706b215,Diego Rossi,diego.rossi.385@example.com,9295.38,2026-08-04,Europe,Fashion,Crypto,True,Smart Watch,74
+e4790196,Valentina Rossi,valentina.rossi.701@example.com,2984.96,2026-08-21,Europe,Fashion,Credit Card,True,Tablet,88
+1997956a,Valentina Dubois,valentina.dubois.289@example.com,2910.97,2027-02-07,North America,Automotive,Apple Pay,True,Desktop,66
+84e08b9b,Diego Rossi,diego.rossi.785@example.com,6805.64,2027-04-10,EMEA,Electronics,PayPal,True,Smart Watch,70
+b068d65b,Marco Müller,marco.müller.387@example.com,4107.69,2026-09-06,North America,Home & Garden,Apple Pay,True,Tablet,88
+a4f200e5,Elena Tanaka,elena.tanaka.822@example.com,2189.75,2027-01-21,EMEA,Home & Garden,Crypto,False,Tablet,91
+664d6d2e,Sofia Dubois,sofia.dubois.120@example.com,3025.52,2027-02-24,EMEA,Fashion,PayPal,False,Tablet,78
+d3c90b6f,Valentina Dubois,valentina.dubois.989@example.com,4612.65,2026-06-09,North America,Books,Apple Pay,False,Tablet,59
+c436a5ae,Marco Müller,marco.müller.809@example.com,3300.33,2026-06-06,North America,Home & Garden,PayPal,False,Tablet,65
+fa9b6ba9,Lucas Rossi,lucas.rossi.642@example.com,8734.1,2026-08-12,APAC,Books,Crypto,False,Desktop,74
+7eb0f9cf,Elena Kowalski,elena.kowalski.418@example.com,7243.12,2026-06-05,LATAM,Automotive,Apple Pay,True,Desktop,83
+ba8e6153,Lucas Tanaka,lucas.tanaka.290@example.com,1012.31,2027-03-30,North America,Books,Apple Pay,False,Smart Watch,83
+10eb96cd,Marco Tanaka,marco.tanaka.875@example.com,1760.4,2026-12-21,North America,Fashion,Bank Transfer,True,Mobile,61
+7241071e,Sofia Silva,sofia.silva.301@example.com,8162.16,2026-07-25,Europe,Books,Bank Transfer,False,Desktop,61
+cc163f32,Valentina Tanaka,valentina.tanaka.427@example.com,2504.52,2027-01-23,EMEA,Home & Garden,Crypto,True,Mobile,65
+defac905,Sofia Silva,sofia.silva.479@example.com,6592.03,2026-08-21,EMEA,Automotive,PayPal,True,Tablet,96
+bf9062e7,Valentina Müller,valentina.müller.340@example.com,9512.55,2026-12-15,Europe,Home & Garden,Credit Card,True,Smart Watch,56
+48968f52,Elena Silva,elena.silva.131@example.com,8471.18,2026-07-09,LATAM,Books,Crypto,True,Mobile,88
+80bffc45,Valentina Tanaka,valentina.tanaka.447@example.com,9724.31,2027-05-06,LATAM,Fashion,PayPal,False,Mobile,71
+f2963e46,Elena Müller,elena.müller.512@example.com,7850.06,2027-03-20,EMEA,Books,Bank Transfer,True,Mobile,98
+d9f8ceab,Valentina Müller,valentina.müller.433@example.com,8232.88,2026-12-19,North America,Home & Garden,Credit Card,False,Smart Watch,65
+6eeaf272,Sofia Silva,sofia.silva.205@example.com,6764.57,2026-11-05,EMEA,Fashion,Bank Transfer,False,Tablet,83
+b9b19638,Valentina Dubois,valentina.dubois.729@example.com,9425.31,2027-05-13,LATAM,Electronics,PayPal,True,Desktop,89
+8c3253ca,Marco Müller,marco.müller.735@example.com,9436.62,2027-05-21,Europe,Electronics,Credit Card,False,Mobile,94
+6aaab3d2,Leo Kowalski,leo.kowalski.709@example.com,1421.68,2027-04-19,LATAM,Books,Crypto,True,Smart Watch,79
+b36b3283,Diego Müller,diego.müller.275@example.com,6007.95,2027-04-23,Europe,Fashion,Crypto,False,Mobile,71
+ea085ebe,Marco Tanaka,marco.tanaka.320@example.com,2479.3,2026-06-26,Europe,Electronics,Bank Transfer,True,Tablet,77
+3d8589ab,Diego Schmidt,diego.schmidt.926@example.com,2460.57,2026-09-04,EMEA,Books,Bank Transfer,False,Tablet,76
+40df42fd,Marco Schmidt,marco.schmidt.367@example.com,8940.45,2026-10-25,EMEA,Home & Garden,Credit Card,False,Mobile,68
+8b04dfd4,Sofia Rossi,sofia.rossi.328@example.com,8371.14,2026-10-02,North America,Home & Garden,PayPal,True,Desktop,60
+abc52156,Leo Dubois,leo.dubois.983@example.com,7753.47,2027-04-16,LATAM,Books,PayPal,True,Tablet,55
+8bb3f114,Leo Kowalski,leo.kowalski.685@example.com,2862.97,2026-10-09,EMEA,Automotive,Credit Card,True,Mobile,61
+2b4d875d,Sofia Rossi,sofia.rossi.913@example.com,2713.33,2026-07-15,LATAM,Automotive,Bank Transfer,True,Mobile,91
+52b19279,Marco Rossi,marco.rossi.607@example.com,6378.51,2026-07-11,Europe,Electronics,Apple Pay,True,Desktop,98
+a0a4852f,Marco Müller,marco.müller.317@example.com,8813.93,2026-09-21,APAC,Fashion,Apple Pay,True,Smart Watch,85
+1c3f4f1e,Elena Rossi,elena.rossi.588@example.com,3638.28,2026-08-17,APAC,Books,Apple Pay,False,Mobile,90
+07ab536c,Diego Kowalski,diego.kowalski.165@example.com,9666.05,2026-11-07,APAC,Electronics,Crypto,True,Mobile,55
+a00993ca,Marco Tanaka,marco.tanaka.594@example.com,6543.08,2027-04-18,EMEA,Electronics,Bank Transfer,True,Desktop,78
+f8677fa9,Ana Silva,ana.silva.232@example.com,1630.29,2026-06-19,LATAM,Fashion,Crypto,True,Desktop,52
+b1b02464,Ana Silva,ana.silva.807@example.com,2318.16,2026-11-10,APAC,Automotive,PayPal,True,Tablet,84
+b020be81,Ana Dubois,ana.dubois.929@example.com,1945.92,2026-06-22,EMEA,Electronics,PayPal,True,Tablet,71
+cd53e64b,Lucas Silva,lucas.silva.898@example.com,2718.52,2027-03-18,APAC,Fashion,Bank Transfer,False,Smart Watch,61
+2b22fc0d,Valentina Kim,valentina.kim.678@example.com,7541.56,2026-06-19,LATAM,Books,Crypto,True,Tablet,99
+52d739ee,Marco Müller,marco.müller.104@example.com,5176.65,2027-03-09,North America,Automotive,Apple Pay,True,Smart Watch,58
+d7bdd683,Elena Kim,elena.kim.850@example.com,9014.88,2027-01-30,APAC,Electronics,Apple Pay,True,Desktop,74
+78a2f943,Diego Silva,diego.silva.971@example.com,5937.47,2027-03-05,Europe,Electronics,PayPal,False,Tablet,95
+d3f7c6e2,Marco Kowalski,marco.kowalski.771@example.com,5530.93,2027-05-22,EMEA,Books,Bank Transfer,True,Smart Watch,68
+ff840c30,Ana Kowalski,ana.kowalski.827@example.com,4130.48,2027-03-05,APAC,Fashion,Apple Pay,True,Mobile,82
+252b2401,Marco Kowalski,marco.kowalski.950@example.com,5438.45,2027-02-15,North America,Home & Garden,Bank Transfer,False,Smart Watch,99
+e39ee422,Lucas Silva,lucas.silva.651@example.com,3906.36,2027-02-06,North America,Automotive,Crypto,False,Tablet,82
+33573dd6,Lucas Dubois,lucas.dubois.397@example.com,5475.63,2027-05-04,North America,Books,Apple Pay,True,Mobile,73
+cd99b313,Lucas Rossi,lucas.rossi.456@example.com,7105.97,2027-04-11,Europe,Home & Garden,Credit Card,True,Desktop,66
+abfa0e59,Diego Dubois,diego.dubois.887@example.com,1487.57,2027-03-13,LATAM,Home & Garden,Apple Pay,True,Desktop,76
+934c7cc3,Valentina Müller,valentina.müller.419@example.com,5078.4,2027-04-27,LATAM,Home & Garden,Credit Card,True,Tablet,70
+3fb8d528,Valentina Rossi,valentina.rossi.911@example.com,4898.94,2026-09-12,LATAM,Automotive,Crypto,True,Mobile,62
+c978f347,Sofia Müller,sofia.müller.814@example.com,1643.98,2027-04-06,North America,Books,Crypto,True,Tablet,68
+e3615849,Ana Schmidt,ana.schmidt.467@example.com,7178.73,2026-11-26,LATAM,Books,Credit Card,True,Tablet,72
+d69b3e1c,Marco Kim,marco.kim.347@example.com,2887.48,2026-08-14,APAC,Fashion,Apple Pay,True,Mobile,85
+63d11125,Leo Schmidt,leo.schmidt.615@example.com,6160.68,2027-05-16,EMEA,Books,Apple Pay,True,Smart Watch,71
+61371f9e,Ana Dubois,ana.dubois.694@example.com,5123.97,2026-11-23,North America,Fashion,Crypto,False,Tablet,56
+c209acfe,Sofia Müller,sofia.müller.113@example.com,2810.19,2026-11-28,LATAM,Books,Credit Card,True,Mobile,50
+232660e2,Elena Schmidt,elena.schmidt.456@example.com,8859.89,2027-03-01,APAC,Home & Garden,Bank Transfer,True,Smart Watch,54
+19c6fce9,Elena Kowalski,elena.kowalski.805@example.com,4613.08,2026-10-04,North America,Fashion,Bank Transfer,True,Smart Watch,80
+8193788b,Marco Schmidt,marco.schmidt.211@example.com,1023.15,2027-02-01,EMEA,Home & Garden,Bank Transfer,False,Desktop,60
+4c26627d,Elena Schmidt,elena.schmidt.161@example.com,7092.06,2026-10-13,APAC,Electronics,Apple Pay,True,Desktop,61
+38b1393b,Elena Dubois,elena.dubois.811@example.com,6609.11,2027-04-22,North America,Home & Garden,Apple Pay,False,Desktop,89
+5250be2d,Sofia Dubois,sofia.dubois.952@example.com,9562.38,2027-03-27,LATAM,Automotive,Credit Card,True,Smart Watch,85
+519580bd,Sofia Schmidt,sofia.schmidt.557@example.com,2180.44,2026-08-22,Europe,Automotive,Bank Transfer,False,Mobile,86
+380b9079,Leo Rossi,leo.rossi.430@example.com,9746.78,2027-04-13,LATAM,Home & Garden,PayPal,True,Desktop,81
+506c417e,Elena Kim,elena.kim.837@example.com,1716.66,2026-06-11,Europe,Fashion,PayPal,False,Desktop,78
+4298f91f,Leo Tanaka,leo.tanaka.121@example.com,6592.68,2026-11-11,EMEA,Books,Apple Pay,True,Mobile,72
+21d3f982,Leo Dubois,leo.dubois.498@example.com,5439.85,2027-04-24,Europe,Automotive,Credit Card,False,Tablet,65
+1b8773a2,Lucas Rossi,lucas.rossi.971@example.com,8990.56,2026-08-06,Europe,Fashion,Bank Transfer,False,Smart Watch,83
+29ceb434,Valentina Tanaka,valentina.tanaka.829@example.com,4639.2,2026-11-10,EMEA,Books,Credit Card,True,Desktop,71
+7e839e41,Lucas Kowalski,lucas.kowalski.233@example.com,7043.83,2026-12-25,EMEA,Automotive,Crypto,True,Desktop,59
+18cd75bb,Diego Silva,diego.silva.177@example.com,2853.5,2026-11-05,LATAM,Fashion,Bank Transfer,True,Smart Watch,97
+19b44068,Elena Tanaka,elena.tanaka.962@example.com,4367.49,2026-10-08,APAC,Home & Garden,Bank Transfer,True,Tablet,95
+669c88b1,Valentina Dubois,valentina.dubois.537@example.com,7618.71,2027-04-21,APAC,Books,Apple Pay,False,Tablet,75
+8d57ee78,Valentina Tanaka,valentina.tanaka.716@example.com,1728.39,2026-12-21,LATAM,Fashion,PayPal,False,Desktop,78
+805d2d3a,Ana Müller,ana.müller.529@example.com,5224.34,2026-06-11,North America,Books,Credit Card,False,Mobile,77
+f3743dc6,Lucas Kim,lucas.kim.500@example.com,3829.34,2027-02-26,Europe,Fashion,Credit Card,False,Mobile,51
+9c74cda3,Elena Silva,elena.silva.387@example.com,1437.01,2027-03-06,LATAM,Fashion,Apple Pay,True,Desktop,90
+3360fbda,Elena Schmidt,elena.schmidt.205@example.com,2470.44,2027-04-25,APAC,Electronics,Apple Pay,True,Desktop,73
+00467c08,Leo Rossi,leo.rossi.468@example.com,1582.83,2026-10-29,APAC,Fashion,Bank Transfer,False,Tablet,78
+1257c1c9,Valentina Tanaka,valentina.tanaka.256@example.com,8129.6,2027-03-20,APAC,Automotive,PayPal,False,Desktop,50
+10f8a688,Valentina Rossi,valentina.rossi.709@example.com,4805.16,2026-07-10,Europe,Automotive,Bank Transfer,True,Tablet,94
+99cee468,Sofia Kim,sofia.kim.850@example.com,767.02,2026-06-29,EMEA,Electronics,Crypto,True,Mobile,96
+3d3ad884,Marco Kowalski,marco.kowalski.684@example.com,4394.19,2027-03-04,Europe,Fashion,PayPal,True,Smart Watch,94
+cd439c1c,Valentina Müller,valentina.müller.449@example.com,5424.27,2026-12-02,North America,Fashion,PayPal,True,Desktop,58
+d3e4706f,Diego Dubois,diego.dubois.920@example.com,5513.51,2026-12-09,Europe,Electronics,PayPal,False,Smart Watch,77
+0261013d,Ana Tanaka,ana.tanaka.578@example.com,2591.2,2027-03-17,APAC,Home & Garden,Crypto,True,Desktop,85
+3b7079ac,Leo Kowalski,leo.kowalski.518@example.com,8608.8,2026-08-25,EMEA,Home & Garden,Crypto,True,Mobile,83
+a55d8656,Leo Kim,leo.kim.106@example.com,3917.52,2027-01-25,North America,Books,Bank Transfer,True,Tablet,90
+5a18ea6b,Valentina Kim,valentina.kim.239@example.com,8928.46,2027-02-25,APAC,Electronics,Apple Pay,True,Smart Watch,88
+2ff68216,Valentina Kim,valentina.kim.913@example.com,3542.61,2026-06-24,Europe,Automotive,Bank Transfer,True,Mobile,92
+762be544,Leo Tanaka,leo.tanaka.803@example.com,975.9,2026-12-07,North America,Automotive,Credit Card,True,Mobile,61
+755abec0,Marco Kim,marco.kim.133@example.com,4217.25,2027-04-27,APAC,Home & Garden,Apple Pay,True,Desktop,80
+9871b5ed,Lucas Rossi,lucas.rossi.539@example.com,1172.38,2026-09-18,APAC,Fashion,Bank Transfer,False,Smart Watch,89
+a2a4cb7b,Ana Kowalski,ana.kowalski.346@example.com,5204.91,2026-07-09,North America,Fashion,Credit Card,False,Desktop,85
+ae7ec346,Elena Dubois,elena.dubois.640@example.com,1613.59,2026-09-24,EMEA,Electronics,Crypto,True,Tablet,63
+52e3547d,Leo Schmidt,leo.schmidt.492@example.com,7592.54,2027-05-10,Europe,Books,Crypto,False,Desktop,80
+bd48a141,Sofia Kowalski,sofia.kowalski.208@example.com,3880.96,2026-06-30,EMEA,Books,PayPal,True,Desktop,75
+2ef2e3d3,Sofia Schmidt,sofia.schmidt.844@example.com,9624.2,2026-10-21,North America,Fashion,Crypto,True,Mobile,93
+88ccad9e,Marco Kowalski,marco.kowalski.307@example.com,9571.51,2026-07-16,APAC,Home & Garden,Credit Card,True,Desktop,83
+b7e6d8cb,Ana Kim,ana.kim.275@example.com,9224.89,2026-08-05,LATAM,Automotive,Credit Card,True,Smart Watch,86
+35635a4d,Elena Silva,elena.silva.549@example.com,2227.1,2026-07-23,LATAM,Automotive,Bank Transfer,False,Mobile,74
+a77f8f64,Valentina Kim,valentina.kim.987@example.com,8697.29,2027-02-04,LATAM,Home & Garden,Bank Transfer,False,Smart Watch,57
+2d6e00b6,Ana Kim,ana.kim.499@example.com,5856.86,2026-07-19,North America,Fashion,Credit Card,False,Desktop,71
+d0145a96,Leo Rossi,leo.rossi.688@example.com,6402.08,2026-08-16,Europe,Fashion,Credit Card,True,Smart Watch,56
+00afdc77,Ana Silva,ana.silva.560@example.com,5743.53,2026-06-24,North America,Automotive,Crypto,True,Smart Watch,82
+fab9f189,Leo Silva,leo.silva.743@example.com,706.34,2026-11-02,Europe,Books,Apple Pay,True,Mobile,72
+6424824f,Elena Dubois,elena.dubois.832@example.com,601.63,2027-03-18,LATAM,Books,PayPal,False,Mobile,51
+db7dfb88,Ana Tanaka,ana.tanaka.998@example.com,4598.73,2026-11-30,Europe,Books,Crypto,True,Mobile,72
+cc79182b,Elena Schmidt,elena.schmidt.241@example.com,6382.07,2026-12-13,Europe,Home & Garden,Apple Pay,True,Smart Watch,95
+02422c4c,Elena Silva,elena.silva.197@example.com,6094.71,2026-09-01,LATAM,Books,PayPal,True,Mobile,53
+9a9ce97d,Valentina Tanaka,valentina.tanaka.845@example.com,6211.86,2026-07-21,LATAM,Electronics,Credit Card,False,Desktop,66
+0486ab59,Elena Silva,elena.silva.477@example.com,5983.34,2026-08-29,Europe,Electronics,Crypto,True,Mobile,92
+bdb49ac3,Sofia Silva,sofia.silva.179@example.com,8370.87,2027-04-22,LATAM,Books,PayPal,False,Mobile,60
+bbca6ec3,Marco Müller,marco.müller.339@example.com,6636.18,2026-10-21,APAC,Fashion,Crypto,True,Mobile,79
+7d6e8017,Lucas Dubois,lucas.dubois.238@example.com,2724.55,2027-01-19,Europe,Books,Credit Card,True,Tablet,79
+57ca7b9a,Ana Kim,ana.kim.244@example.com,2890.0,2026-10-30,Europe,Automotive,Apple Pay,True,Desktop,55
+14cdc230,Valentina Müller,valentina.müller.305@example.com,9078.87,2026-10-21,EMEA,Books,Credit Card,False,Desktop,93
+fb1d7097,Sofia Müller,sofia.müller.193@example.com,9498.16,2027-04-11,Europe,Electronics,Credit Card,False,Smart Watch,52
+27d619a8,Valentina Tanaka,valentina.tanaka.663@example.com,7125.54,2026-09-27,LATAM,Home & Garden,Credit Card,False,Desktop,93
+b546124f,Marco Schmidt,marco.schmidt.277@example.com,5036.81,2026-11-26,North America,Electronics,Credit Card,True,Smart Watch,81
+67ca969b,Valentina Silva,valentina.silva.284@example.com,3941.41,2027-02-19,North America,Books,PayPal,False,Desktop,88
+15b778d8,Diego Silva,diego.silva.869@example.com,4377.94,2026-11-28,EMEA,Fashion,Credit Card,True,Tablet,91
+19674ba9,Lucas Dubois,lucas.dubois.866@example.com,6630.98,2027-05-20,LATAM,Fashion,Bank Transfer,True,Tablet,73
+9493291e,Ana Tanaka,ana.tanaka.765@example.com,4541.29,2027-04-14,Europe,Fashion,Crypto,False,Smart Watch,75
+8488b9a8,Valentina Schmidt,valentina.schmidt.821@example.com,5161.91,2026-09-07,EMEA,Home & Garden,Crypto,True,Tablet,80
+abb3f4c8,Leo Müller,leo.müller.608@example.com,3974.98,2026-11-19,Europe,Books,PayPal,False,Smart Watch,89
+ce390ef6,Ana Silva,ana.silva.303@example.com,5208.48,2027-01-02,North America,Fashion,Bank Transfer,True,Desktop,56
+8afe1dc4,Ana Rossi,ana.rossi.220@example.com,7154.91,2027-02-05,EMEA,Electronics,Credit Card,False,Desktop,95
+ca6583c4,Lucas Müller,lucas.müller.736@example.com,7183.42,2026-11-11,LATAM,Automotive,Crypto,False,Tablet,77
+150a98a6,Lucas Silva,lucas.silva.996@example.com,718.4,2026-10-10,APAC,Automotive,Credit Card,False,Tablet,53
+e340265b,Marco Dubois,marco.dubois.998@example.com,5917.51,2026-09-04,Europe,Automotive,Crypto,False,Mobile,83
+d3eeae25,Elena Müller,elena.müller.830@example.com,4697.97,2027-04-16,EMEA,Home & Garden,Credit Card,True,Tablet,93
+783ec2af,Leo Müller,leo.müller.198@example.com,1075.82,2027-05-08,Europe,Automotive,Crypto,False,Tablet,78
+88445821,Valentina Dubois,valentina.dubois.915@example.com,2679.01,2027-05-13,APAC,Electronics,PayPal,False,Smart Watch,68
+6a178419,Marco Silva,marco.silva.909@example.com,6236.23,2026-08-08,LATAM,Home & Garden,PayPal,False,Mobile,99
+7079fa9e,Marco Kowalski,marco.kowalski.945@example.com,4830.01,2027-06-01,Europe,Books,Crypto,True,Desktop,93
+74a3788a,Lucas Schmidt,lucas.schmidt.382@example.com,2856.71,2027-02-05,Europe,Books,Credit Card,False,Desktop,52
+ba256049,Elena Dubois,elena.dubois.845@example.com,3385.94,2026-12-10,APAC,Home & Garden,Crypto,True,Desktop,81
+ce593fa6,Diego Kim,diego.kim.261@example.com,5877.57,2027-04-25,North America,Electronics,Crypto,True,Tablet,54
+ea2fe1b6,Ana Kowalski,ana.kowalski.242@example.com,5694.05,2027-03-05,North America,Fashion,PayPal,True,Desktop,55
+402b516e,Valentina Kim,valentina.kim.261@example.com,2396.51,2026-09-07,Europe,Automotive,Crypto,False,Tablet,54
+2d812468,Sofia Silva,sofia.silva.204@example.com,1858.81,2026-07-09,APAC,Books,Apple Pay,False,Smart Watch,89
+22caba29,Sofia Tanaka,sofia.tanaka.781@example.com,3253.83,2027-03-01,APAC,Fashion,PayPal,False,Mobile,97
+d05fa277,Sofia Kowalski,sofia.kowalski.190@example.com,4653.21,2027-01-17,APAC,Fashion,Crypto,True,Tablet,94
+83634fa2,Sofia Dubois,sofia.dubois.834@example.com,5996.32,2026-10-07,Europe,Automotive,Apple Pay,True,Mobile,54
+fde8cc10,Sofia Kowalski,sofia.kowalski.615@example.com,6772.27,2027-02-05,Europe,Books,Credit Card,True,Desktop,85
+d86c9370,Sofia Dubois,sofia.dubois.881@example.com,9690.46,2026-06-17,EMEA,Electronics,Crypto,True,Desktop,92
+129c1644,Sofia Kim,sofia.kim.416@example.com,5661.49,2026-06-17,Europe,Home & Garden,Crypto,False,Mobile,65
+c9421628,Marco Silva,marco.silva.423@example.com,1017.08,2026-12-04,EMEA,Home & Garden,Apple Pay,True,Tablet,85
+3e6e5a32,Valentina Dubois,valentina.dubois.750@example.com,8899.94,2026-06-12,North America,Automotive,Credit Card,False,Mobile,77
+6c6f6dba,Sofia Rossi,sofia.rossi.800@example.com,9013.92,2027-03-27,Europe,Home & Garden,Bank Transfer,True,Mobile,86
+2fc465f9,Lucas Kim,lucas.kim.395@example.com,6366.64,2027-04-17,North America,Home & Garden,Bank Transfer,True,Desktop,86
+73b80aa1,Elena Silva,elena.silva.804@example.com,9527.01,2026-12-26,LATAM,Electronics,Crypto,True,Mobile,94
+709031ca,Valentina Rossi,valentina.rossi.968@example.com,5234.56,2026-12-25,Europe,Automotive,Crypto,False,Smart Watch,81
+789cf1f2,Valentina Dubois,valentina.dubois.658@example.com,4518.77,2026-11-18,LATAM,Books,PayPal,False,Desktop,57
+8229e96a,Marco Dubois,marco.dubois.185@example.com,8620.69,2027-05-10,Europe,Automotive,PayPal,False,Tablet,94
+1c3c4e83,Leo Kim,leo.kim.127@example.com,8471.98,2026-06-26,EMEA,Electronics,Credit Card,False,Tablet,70
+e50b3268,Elena Kowalski,elena.kowalski.365@example.com,7138.47,2027-02-15,LATAM,Fashion,Credit Card,True,Desktop,73
+099c1582,Lucas Dubois,lucas.dubois.868@example.com,4378.31,2026-12-29,Europe,Books,Apple Pay,False,Mobile,84
+3789c335,Valentina Kim,valentina.kim.592@example.com,6765.34,2026-08-29,Europe,Home & Garden,PayPal,True,Smart Watch,72
+33df84c5,Ana Tanaka,ana.tanaka.694@example.com,4174.03,2026-10-02,LATAM,Books,Credit Card,True,Mobile,85
+ed1d0760,Valentina Müller,valentina.müller.110@example.com,5820.5,2027-01-30,APAC,Electronics,PayPal,True,Smart Watch,73
+5f5ce391,Ana Dubois,ana.dubois.247@example.com,5301.13,2027-02-18,Europe,Home & Garden,Apple Pay,True,Mobile,91
+d1bf965d,Elena Kim,elena.kim.310@example.com,4476.26,2026-09-08,APAC,Automotive,PayPal,False,Tablet,82
+4c003157,Sofia Silva,sofia.silva.568@example.com,7768.12,2026-06-01,APAC,Fashion,Credit Card,False,Tablet,76
+4f652594,Ana Dubois,ana.dubois.234@example.com,6466.08,2027-02-17,LATAM,Electronics,Bank Transfer,True,Mobile,73
+14df3d6c,Valentina Silva,valentina.silva.288@example.com,3942.28,2026-06-05,EMEA,Automotive,Crypto,True,Desktop,60
+baabcdce,Valentina Rossi,valentina.rossi.850@example.com,5430.07,2026-09-10,EMEA,Books,Crypto,False,Tablet,90
+60ee1051,Leo Tanaka,leo.tanaka.192@example.com,3861.61,2026-12-07,EMEA,Automotive,Apple Pay,True,Smart Watch,78
+1e6a609a,Valentina Silva,valentina.silva.332@example.com,7852.66,2026-06-29,North America,Books,Credit Card,True,Desktop,62
+bfa42505,Diego Rossi,diego.rossi.234@example.com,1554.23,2026-06-05,EMEA,Electronics,Apple Pay,True,Mobile,90
+88a8c999,Lucas Schmidt,lucas.schmidt.738@example.com,6186.62,2026-07-24,LATAM,Automotive,Bank Transfer,True,Tablet,64
+0c10ea1e,Elena Schmidt,elena.schmidt.691@example.com,5777.51,2026-12-27,EMEA,Books,Apple Pay,True,Tablet,58
+136fdf85,Leo Schmidt,leo.schmidt.647@example.com,4033.63,2027-02-12,LATAM,Books,Apple Pay,False,Smart Watch,81
+19d26258,Diego Kim,diego.kim.912@example.com,8043.45,2027-03-24,EMEA,Electronics,Bank Transfer,True,Mobile,70
+d712abca,Valentina Kowalski,valentina.kowalski.837@example.com,3170.04,2026-10-04,EMEA,Home & Garden,Apple Pay,True,Mobile,64
+a157a968,Ana Tanaka,ana.tanaka.821@example.com,2594.64,2027-04-03,EMEA,Home & Garden,Crypto,True,Tablet,95
+f9479f8e,Valentina Tanaka,valentina.tanaka.324@example.com,4670.48,2026-11-07,Europe,Electronics,Credit Card,False,Tablet,78
+0d139294,Elena Schmidt,elena.schmidt.333@example.com,9727.09,2027-02-02,Europe,Fashion,Credit Card,False,Smart Watch,66
+21b735b8,Sofia Dubois,sofia.dubois.947@example.com,7990.34,2027-03-03,EMEA,Fashion,PayPal,False,Tablet,58
+70380ae6,Lucas Schmidt,lucas.schmidt.337@example.com,8936.5,2026-07-28,Europe,Books,Crypto,True,Smart Watch,74
+6e9a2095,Valentina Müller,valentina.müller.857@example.com,3215.48,2027-02-13,EMEA,Fashion,Credit Card,False,Smart Watch,84
+5066df3b,Elena Rossi,elena.rossi.151@example.com,2341.14,2026-11-18,APAC,Books,Credit Card,False,Desktop,81
+f7add679,Marco Dubois,marco.dubois.724@example.com,7937.1,2027-05-07,APAC,Automotive,PayPal,True,Smart Watch,73
+486a0c92,Elena Müller,elena.müller.268@example.com,8439.54,2027-02-15,LATAM,Fashion,Bank Transfer,False,Tablet,65
+af980270,Marco Kowalski,marco.kowalski.504@example.com,9765.63,2027-06-01,North America,Home & Garden,Bank Transfer,True,Smart Watch,81
+cedb5b30,Ana Tanaka,ana.tanaka.188@example.com,5678.84,2026-12-14,North America,Electronics,Credit Card,True,Tablet,89
+bd839fd4,Diego Silva,diego.silva.961@example.com,8990.43,2026-07-21,LATAM,Books,Bank Transfer,True,Tablet,73
+de66cd11,Marco Kowalski,marco.kowalski.113@example.com,4191.65,2027-03-02,EMEA,Fashion,Bank Transfer,True,Smart Watch,77
+8d8f7b17,Leo Rossi,leo.rossi.434@example.com,917.52,2027-01-25,North America,Electronics,PayPal,False,Desktop,67
+7b42577c,Valentina Kowalski,valentina.kowalski.914@example.com,2527.32,2026-12-02,APAC,Books,Apple Pay,False,Mobile,56
+2c5b28d6,Elena Dubois,elena.dubois.858@example.com,2172.94,2027-01-13,EMEA,Home & Garden,Crypto,True,Smart Watch,77
+a332d2cc,Diego Schmidt,diego.schmidt.717@example.com,8153.6,2026-08-21,North America,Electronics,Crypto,True,Mobile,75
+5a237fe2,Ana Müller,ana.müller.159@example.com,837.09,2027-04-21,Europe,Books,Crypto,False,Mobile,91
+f0115065,Diego Kowalski,diego.kowalski.181@example.com,4013.27,2026-08-29,LATAM,Books,Apple Pay,True,Smart Watch,96
+104923dd,Diego Rossi,diego.rossi.161@example.com,2524.39,2026-11-17,LATAM,Books,Bank Transfer,True,Desktop,96
+1f714113,Marco Kowalski,marco.kowalski.461@example.com,6564.12,2026-06-10,North America,Home & Garden,Apple Pay,True,Desktop,84
+b18536a9,Lucas Silva,lucas.silva.508@example.com,8886.16,2026-09-09,Europe,Electronics,Apple Pay,False,Desktop,98
+e634ee49,Leo Rossi,leo.rossi.788@example.com,9084.22,2027-04-04,Europe,Fashion,Bank Transfer,True,Mobile,56
+54397ef9,Leo Tanaka,leo.tanaka.534@example.com,8799.13,2027-05-04,Europe,Fashion,PayPal,True,Tablet,83
+0d5948ae,Marco Silva,marco.silva.580@example.com,1400.64,2026-08-24,EMEA,Books,PayPal,False,Tablet,54
+a7ce9f90,Valentina Müller,valentina.müller.153@example.com,6086.21,2026-06-07,North America,Home & Garden,Bank Transfer,False,Tablet,55
+cd42c1c6,Ana Kim,ana.kim.905@example.com,9426.08,2026-10-26,North America,Home & Garden,PayPal,False,Desktop,50
+52e9694a,Elena Kowalski,elena.kowalski.330@example.com,2942.35,2027-03-14,LATAM,Fashion,Apple Pay,False,Mobile,85
+c1d5fde7,Ana Müller,ana.müller.318@example.com,5209.91,2026-09-30,LATAM,Electronics,Crypto,False,Smart Watch,80
+54c553f9,Sofia Tanaka,sofia.tanaka.695@example.com,4935.27,2026-10-29,North America,Electronics,PayPal,False,Smart Watch,85
+d35c85f2,Sofia Dubois,sofia.dubois.405@example.com,6429.65,2026-09-17,EMEA,Home & Garden,Credit Card,False,Smart Watch,64
+ca9c0d73,Lucas Kowalski,lucas.kowalski.981@example.com,8628.42,2026-06-06,North America,Home & Garden,Credit Card,True,Desktop,60
+ebc44aec,Elena Müller,elena.müller.290@example.com,5080.55,2026-10-13,Europe,Fashion,Bank Transfer,False,Mobile,92
+156d2201,Diego Kim,diego.kim.806@example.com,1226.01,2026-12-05,APAC,Books,Bank Transfer,False,Desktop,66
+eb07dee8,Marco Dubois,marco.dubois.491@example.com,8673.52,2027-01-14,North America,Home & Garden,Credit Card,False,Tablet,91
+2a018830,Diego Kowalski,diego.kowalski.605@example.com,2407.29,2027-05-09,LATAM,Automotive,Bank Transfer,False,Mobile,55
+208756ba,Ana Müller,ana.müller.474@example.com,6729.68,2026-12-24,Europe,Electronics,Crypto,False,Smart Watch,64
+0b091402,Ana Silva,ana.silva.237@example.com,3298.71,2027-02-02,EMEA,Home & Garden,Apple Pay,True,Tablet,59
+f4ee6c61,Valentina Müller,valentina.müller.520@example.com,7450.95,2027-01-24,LATAM,Electronics,PayPal,False,Desktop,95
+ec25f9dc,Valentina Tanaka,valentina.tanaka.447@example.com,7062.92,2026-06-08,APAC,Books,Crypto,True,Mobile,98
+bdb9f405,Sofia Dubois,sofia.dubois.259@example.com,1707.05,2026-11-17,EMEA,Automotive,Crypto,False,Tablet,85
+bda59d30,Leo Silva,leo.silva.828@example.com,4575.31,2026-07-04,EMEA,Books,Apple Pay,True,Mobile,93
+4afd07eb,Leo Kowalski,leo.kowalski.873@example.com,2104.04,2026-12-22,Europe,Home & Garden,Credit Card,True,Smart Watch,89
+25999170,Lucas Rossi,lucas.rossi.461@example.com,961.79,2027-04-14,LATAM,Electronics,Credit Card,True,Tablet,90
+c26a00e1,Lucas Rossi,lucas.rossi.994@example.com,5914.52,2026-12-20,Europe,Home & Garden,Credit Card,True,Smart Watch,51
+22a1e4a5,Diego Dubois,diego.dubois.893@example.com,2929.63,2027-02-05,LATAM,Books,Bank Transfer,False,Smart Watch,73
+56db8546,Lucas Silva,lucas.silva.789@example.com,8361.0,2026-09-18,North America,Automotive,Crypto,True,Desktop,55
+e458fbeb,Diego Müller,diego.müller.717@example.com,9338.54,2026-07-24,EMEA,Automotive,Apple Pay,True,Smart Watch,95
+868eb3cb,Elena Kowalski,elena.kowalski.840@example.com,5604.77,2026-12-23,EMEA,Fashion,Apple Pay,True,Mobile,82
+77dba552,Lucas Kowalski,lucas.kowalski.193@example.com,4692.33,2026-07-14,APAC,Books,Bank Transfer,True,Mobile,53
+70a4ba3e,Valentina Silva,valentina.silva.913@example.com,5890.79,2026-06-26,APAC,Home & Garden,Credit Card,True,Tablet,100
+672fbf68,Lucas Dubois,lucas.dubois.702@example.com,1764.16,2027-01-12,Europe,Home & Garden,Apple Pay,False,Smart Watch,62
+c87156b3,Diego Schmidt,diego.schmidt.213@example.com,9399.1,2027-04-03,LATAM,Electronics,Credit Card,True,Mobile,57
+a89e4c3e,Valentina Rossi,valentina.rossi.835@example.com,698.22,2027-05-26,EMEA,Electronics,Bank Transfer,True,Mobile,90
+6deddb5d,Lucas Rossi,lucas.rossi.336@example.com,2186.66,2026-08-13,EMEA,Fashion,Credit Card,True,Mobile,53
+0351f947,Valentina Rossi,valentina.rossi.164@example.com,3100.04,2026-11-15,EMEA,Books,PayPal,False,Tablet,76
+fac3dc81,Lucas Silva,lucas.silva.676@example.com,9286.3,2026-08-14,Europe,Books,Apple Pay,True,Desktop,67
+b8627407,Lucas Kowalski,lucas.kowalski.990@example.com,3893.45,2026-07-21,EMEA,Books,PayPal,True,Mobile,63
+24a74038,Sofia Dubois,sofia.dubois.947@example.com,7225.54,2027-03-17,APAC,Fashion,Apple Pay,False,Desktop,63
+c144524b,Leo Tanaka,leo.tanaka.534@example.com,4925.88,2026-09-16,EMEA,Fashion,Crypto,True,Mobile,85
+5a4aba2c,Lucas Kowalski,lucas.kowalski.576@example.com,9975.36,2027-04-03,North America,Automotive,Credit Card,True,Desktop,68
+bd3bde20,Leo Müller,leo.müller.717@example.com,8479.69,2026-10-05,Europe,Home & Garden,PayPal,False,Desktop,52
+8055c79c,Ana Kowalski,ana.kowalski.253@example.com,9053.19,2026-11-25,North America,Home & Garden,Crypto,True,Desktop,100
+cc435ace,Diego Dubois,diego.dubois.923@example.com,9355.6,2026-11-26,EMEA,Home & Garden,Crypto,False,Mobile,93
+9d3a27bf,Marco Dubois,marco.dubois.230@example.com,7780.13,2026-11-17,Europe,Fashion,Credit Card,True,Mobile,70
+975a3488,Ana Kowalski,ana.kowalski.460@example.com,4152.16,2027-03-07,North America,Automotive,Apple Pay,False,Smart Watch,59
+1e35bf47,Sofia Rossi,sofia.rossi.883@example.com,1498.03,2026-07-04,LATAM,Books,Bank Transfer,False,Mobile,78
+54613c0a,Diego Schmidt,diego.schmidt.640@example.com,8240.23,2027-03-02,North America,Home & Garden,Credit Card,True,Mobile,85
+9d5b7d52,Elena Müller,elena.müller.250@example.com,7380.71,2027-05-12,Europe,Electronics,Bank Transfer,False,Tablet,95
+c145aecd,Diego Dubois,diego.dubois.680@example.com,4154.04,2026-06-14,LATAM,Electronics,Bank Transfer,True,Desktop,90
+c7e89499,Marco Silva,marco.silva.367@example.com,1116.9,2026-08-26,EMEA,Books,Apple Pay,True,Mobile,64
+eb5e439b,Lucas Dubois,lucas.dubois.472@example.com,1096.6,2027-04-29,LATAM,Home & Garden,PayPal,False,Mobile,58
+4db66be8,Ana Rossi,ana.rossi.987@example.com,1285.64,2027-04-02,North America,Electronics,Bank Transfer,False,Smart Watch,77
+8158bec3,Marco Dubois,marco.dubois.672@example.com,3772.66,2027-03-13,Europe,Automotive,Apple Pay,False,Smart Watch,78
+e18bc168,Sofia Rossi,sofia.rossi.721@example.com,8250.44,2026-07-27,APAC,Fashion,Apple Pay,True,Smart Watch,96
+5bef9a92,Lucas Schmidt,lucas.schmidt.646@example.com,610.18,2026-10-17,North America,Home & Garden,Apple Pay,True,Mobile,77
+b901b918,Sofia Müller,sofia.müller.363@example.com,5007.83,2027-05-01,EMEA,Electronics,Credit Card,False,Desktop,56
+f5421f01,Leo Kowalski,leo.kowalski.249@example.com,4058.53,2026-11-15,LATAM,Automotive,PayPal,True,Tablet,66
+703b0862,Ana Müller,ana.müller.807@example.com,6240.56,2026-09-15,EMEA,Books,Credit Card,False,Smart Watch,71
+7563af39,Lucas Tanaka,lucas.tanaka.607@example.com,2497.93,2026-11-18,APAC,Books,Crypto,True,Tablet,82
+418d5137,Lucas Silva,lucas.silva.619@example.com,1335.02,2027-02-28,APAC,Automotive,PayPal,True,Desktop,57
+159da84d,Lucas Schmidt,lucas.schmidt.277@example.com,6715.52,2027-01-19,APAC,Books,PayPal,False,Mobile,72
+e2b7d583,Ana Kowalski,ana.kowalski.460@example.com,3992.52,2026-12-05,Europe,Home & Garden,Credit Card,False,Mobile,85
+ea4f1e06,Sofia Schmidt,sofia.schmidt.816@example.com,8292.59,2026-12-05,North America,Home & Garden,Bank Transfer,False,Tablet,91
+d828c3b7,Sofia Rossi,sofia.rossi.837@example.com,7235.69,2026-08-31,EMEA,Books,Bank Transfer,True,Mobile,84
+9f6ecc63,Elena Rossi,elena.rossi.948@example.com,6556.45,2027-04-15,LATAM,Home & Garden,Apple Pay,False,Smart Watch,60
+c9adce77,Leo Kowalski,leo.kowalski.216@example.com,9508.17,2027-04-03,EMEA,Books,Bank Transfer,False,Mobile,65
+9f20aa33,Lucas Tanaka,lucas.tanaka.769@example.com,7154.51,2026-08-04,Europe,Electronics,PayPal,False,Desktop,82
+18139eea,Diego Tanaka,diego.tanaka.613@example.com,9719.28,2026-12-15,APAC,Automotive,Credit Card,True,Tablet,82
+0464a5b5,Leo Tanaka,leo.tanaka.459@example.com,8268.46,2026-09-17,APAC,Home & Garden,Credit Card,True,Smart Watch,70
+120fe738,Valentina Kowalski,valentina.kowalski.163@example.com,5441.88,2027-03-12,North America,Books,Apple Pay,False,Smart Watch,91
+61636e93,Diego Silva,diego.silva.879@example.com,2399.72,2027-05-27,Europe,Books,Bank Transfer,True,Tablet,92
+227d86e3,Lucas Rossi,lucas.rossi.757@example.com,1572.55,2027-03-11,APAC,Fashion,Credit Card,True,Mobile,80
+5272859d,Lucas Dubois,lucas.dubois.674@example.com,4500.16,2027-03-16,Europe,Electronics,Bank Transfer,True,Smart Watch,79
+773b16cc,Leo Rossi,leo.rossi.942@example.com,1126.78,2026-11-28,EMEA,Books,Credit Card,True,Mobile,50
+da1fd280,Sofia Kim,sofia.kim.567@example.com,8726.42,2026-07-18,EMEA,Electronics,Crypto,True,Smart Watch,80
+362ee19e,Valentina Kowalski,valentina.kowalski.334@example.com,3329.02,2026-11-12,LATAM,Fashion,Bank Transfer,True,Mobile,98
+a078b816,Valentina Kim,valentina.kim.117@example.com,6726.28,2027-05-02,Europe,Fashion,Crypto,True,Smart Watch,88
+34b930d3,Sofia Silva,sofia.silva.430@example.com,9702.34,2026-07-23,North America,Home & Garden,Apple Pay,False,Desktop,83
+be5dbbdb,Valentina Rossi,valentina.rossi.647@example.com,2339.27,2026-12-02,North America,Books,PayPal,False,Tablet,84
+c49f421e,Ana Tanaka,ana.tanaka.998@example.com,9880.44,2026-08-06,LATAM,Electronics,Crypto,False,Tablet,72
+d4713894,Sofia Rossi,sofia.rossi.160@example.com,9456.49,2026-06-13,North America,Books,Bank Transfer,False,Smart Watch,74
+225335be,Diego Kim,diego.kim.500@example.com,5705.0,2026-07-26,North America,Electronics,Bank Transfer,False,Smart Watch,93
+02c0bb7a,Marco Tanaka,marco.tanaka.613@example.com,7744.93,2027-04-03,Europe,Home & Garden,PayPal,True,Mobile,63
+475607a8,Lucas Müller,lucas.müller.847@example.com,2385.75,2026-07-29,APAC,Home & Garden,Crypto,True,Smart Watch,57
+28b4f2d9,Valentina Dubois,valentina.dubois.234@example.com,2207.85,2027-04-10,EMEA,Automotive,Credit Card,False,Mobile,76
+ef707807,Lucas Silva,lucas.silva.753@example.com,2387.51,2026-09-07,LATAM,Home & Garden,PayPal,False,Tablet,67
+beb8b4c9,Marco Tanaka,marco.tanaka.887@example.com,961.43,2027-01-09,APAC,Fashion,Credit Card,True,Tablet,82
+17f50bef,Leo Schmidt,leo.schmidt.932@example.com,5632.75,2027-04-19,North America,Electronics,Bank Transfer,True,Desktop,80
+9ce82491,Lucas Dubois,lucas.dubois.606@example.com,519.68,2027-04-07,EMEA,Books,Apple Pay,True,Tablet,64
+6744bb9e,Ana Kim,ana.kim.507@example.com,6617.96,2026-07-23,APAC,Fashion,Bank Transfer,True,Desktop,92
+8bf18a3c,Ana Silva,ana.silva.548@example.com,5194.72,2026-06-17,LATAM,Books,Crypto,True,Desktop,58
+38662bf4,Valentina Rossi,valentina.rossi.312@example.com,2536.01,2027-01-25,EMEA,Books,Crypto,False,Mobile,70
+cdbf2383,Diego Kowalski,diego.kowalski.259@example.com,6525.09,2027-03-25,Europe,Home & Garden,PayPal,True,Mobile,94
+6e5fd124,Leo Dubois,leo.dubois.480@example.com,9829.29,2027-04-03,North America,Automotive,Crypto,False,Tablet,54
+b4f9c8c8,Leo Rossi,leo.rossi.690@example.com,2051.55,2026-11-21,EMEA,Fashion,Crypto,True,Desktop,80
+d79e94cf,Sofia Dubois,sofia.dubois.235@example.com,7569.83,2027-05-14,North America,Books,Apple Pay,True,Desktop,87
+b13278f1,Lucas Tanaka,lucas.tanaka.829@example.com,3460.78,2027-02-13,North America,Home & Garden,Crypto,False,Desktop,70
+28e04be6,Valentina Müller,valentina.müller.237@example.com,9669.74,2027-02-05,Europe,Fashion,Crypto,True,Smart Watch,72
+f976cb66,Elena Dubois,elena.dubois.123@example.com,3487.59,2027-05-23,North America,Fashion,Apple Pay,False,Smart Watch,52
+a6f73d5b,Sofia Tanaka,sofia.tanaka.942@example.com,9580.26,2027-04-14,Europe,Home & Garden,Crypto,True,Tablet,84
+7e7db1e9,Leo Kim,leo.kim.739@example.com,8148.62,2027-01-19,EMEA,Automotive,Apple Pay,True,Mobile,87
+41c6d4a5,Sofia Dubois,sofia.dubois.340@example.com,8293.6,2027-05-05,APAC,Home & Garden,Apple Pay,True,Tablet,66
+58220c37,Leo Silva,leo.silva.261@example.com,7560.15,2026-08-06,APAC,Fashion,Crypto,False,Tablet,59
+3e614a22,Valentina Tanaka,valentina.tanaka.784@example.com,6624.21,2026-12-25,LATAM,Fashion,Crypto,True,Smart Watch,76
+ff7a603c,Elena Tanaka,elena.tanaka.637@example.com,4684.77,2027-04-22,Europe,Home & Garden,PayPal,True,Tablet,56
+04046c1d,Marco Müller,marco.müller.937@example.com,1730.34,2026-07-03,LATAM,Automotive,Crypto,False,Desktop,61
+8b8d3af4,Leo Kowalski,leo.kowalski.676@example.com,1328.38,2026-06-15,Europe,Automotive,Apple Pay,True,Desktop,86
+70dc9251,Lucas Tanaka,lucas.tanaka.599@example.com,4806.74,2026-12-29,APAC,Books,Credit Card,True,Mobile,86
+d4ef7f79,Ana Schmidt,ana.schmidt.200@example.com,3526.13,2027-04-26,EMEA,Electronics,PayPal,True,Mobile,75
+d21b5c78,Elena Schmidt,elena.schmidt.688@example.com,5802.98,2026-10-26,North America,Automotive,Credit Card,True,Smart Watch,67
+ce210339,Marco Kim,marco.kim.182@example.com,9571.31,2026-12-20,EMEA,Home & Garden,Bank Transfer,False,Mobile,75
+d7976c01,Ana Kim,ana.kim.784@example.com,4844.14,2026-10-21,North America,Automotive,Apple Pay,False,Smart Watch,76
+dad93bcb,Leo Kim,leo.kim.985@example.com,8836.54,2026-10-29,Europe,Books,Credit Card,True,Smart Watch,98
+a035075f,Leo Kowalski,leo.kowalski.325@example.com,7379.32,2027-05-15,EMEA,Books,Crypto,True,Mobile,76
+f347b564,Sofia Schmidt,sofia.schmidt.313@example.com,6956.71,2026-08-25,EMEA,Electronics,Credit Card,True,Tablet,77
+f998c0ac,Marco Kowalski,marco.kowalski.580@example.com,7312.52,2027-04-10,Europe,Electronics,Bank Transfer,False,Tablet,84
+5c058862,Marco Schmidt,marco.schmidt.700@example.com,6227.16,2026-10-31,Europe,Fashion,Bank Transfer,True,Mobile,53
+7e621a43,Leo Müller,leo.müller.235@example.com,7266.24,2026-10-22,APAC,Electronics,Credit Card,False,Mobile,82
+7fea8660,Marco Dubois,marco.dubois.389@example.com,5348.68,2026-08-21,Europe,Books,Apple Pay,False,Desktop,78
+ae988b96,Marco Müller,marco.müller.989@example.com,3807.76,2026-07-01,EMEA,Electronics,Bank Transfer,True,Desktop,95
+1caf0105,Elena Kim,elena.kim.665@example.com,1981.41,2027-05-25,APAC,Home & Garden,Crypto,True,Mobile,67
+f2fc0937,Elena Kim,elena.kim.420@example.com,9025.38,2026-10-24,North America,Fashion,Crypto,False,Mobile,73
+118cd82d,Marco Rossi,marco.rossi.816@example.com,9467.42,2026-07-14,Europe,Home & Garden,Bank Transfer,True,Mobile,97
+fb18b1ab,Lucas Kowalski,lucas.kowalski.956@example.com,7331.11,2026-11-09,EMEA,Books,Apple Pay,False,Tablet,96
+e5a5d64e,Ana Dubois,ana.dubois.314@example.com,6457.79,2027-01-29,APAC,Books,Credit Card,False,Mobile,80
+3ee2c8dc,Ana Tanaka,ana.tanaka.932@example.com,6321.72,2027-02-23,APAC,Books,Credit Card,True,Tablet,71
+8a594620,Ana Silva,ana.silva.548@example.com,1823.3,2027-02-13,EMEA,Fashion,PayPal,False,Tablet,83
+9f014c34,Valentina Tanaka,valentina.tanaka.719@example.com,3026.1,2026-12-27,LATAM,Fashion,Credit Card,True,Desktop,67
+bde012bf,Marco Dubois,marco.dubois.833@example.com,5876.35,2026-10-06,LATAM,Electronics,Apple Pay,True,Desktop,52
+ee4b05af,Ana Rossi,ana.rossi.347@example.com,2291.49,2027-05-07,LATAM,Electronics,PayPal,True,Smart Watch,52
+0018eede,Valentina Schmidt,valentina.schmidt.451@example.com,4384.64,2026-11-04,Europe,Electronics,PayPal,True,Mobile,91
+190afc37,Diego Kim,diego.kim.620@example.com,6850.3,2027-02-20,North America,Electronics,PayPal,True,Tablet,73
+a28eedc3,Elena Dubois,elena.dubois.216@example.com,8643.53,2026-10-18,APAC,Automotive,PayPal,False,Tablet,58
+60d33fa1,Valentina Müller,valentina.müller.551@example.com,3652.13,2026-08-20,Europe,Fashion,Bank Transfer,False,Mobile,97
+32a98824,Ana Kim,ana.kim.814@example.com,5118.96,2026-07-28,EMEA,Fashion,Credit Card,False,Smart Watch,81
+897ab21e,Lucas Dubois,lucas.dubois.955@example.com,5781.71,2026-10-03,Europe,Books,PayPal,True,Tablet,53
+74160ea6,Marco Kowalski,marco.kowalski.336@example.com,4265.01,2027-04-19,APAC,Automotive,Bank Transfer,False,Mobile,97
+ab9f6088,Elena Kowalski,elena.kowalski.310@example.com,2182.12,2027-03-09,Europe,Automotive,Bank Transfer,True,Tablet,66
+6589fcdf,Elena Kowalski,elena.kowalski.201@example.com,2978.36,2027-02-16,EMEA,Home & Garden,Credit Card,True,Smart Watch,99
+920d76ca,Diego Tanaka,diego.tanaka.590@example.com,7729.64,2027-03-27,Europe,Automotive,PayPal,False,Mobile,51
+748d9acc,Lucas Kim,lucas.kim.658@example.com,1039.62,2026-10-28,Europe,Electronics,PayPal,False,Tablet,83
+c07ac085,Leo Kim,leo.kim.696@example.com,2677.59,2026-10-25,North America,Automotive,Bank Transfer,True,Mobile,76
+3284f75d,Leo Silva,leo.silva.919@example.com,9202.31,2026-06-27,APAC,Electronics,Crypto,True,Tablet,54
+be88bf5c,Diego Schmidt,diego.schmidt.360@example.com,1780.37,2026-11-23,LATAM,Fashion,Bank Transfer,True,Tablet,91
+acb2c25d,Elena Dubois,elena.dubois.727@example.com,5938.92,2026-10-27,EMEA,Books,Credit Card,True,Smart Watch,61
+ae0b5746,Valentina Silva,valentina.silva.897@example.com,1835.49,2026-06-28,North America,Fashion,Credit Card,True,Mobile,64
+3ad2708f,Marco Silva,marco.silva.413@example.com,5247.37,2026-10-12,LATAM,Home & Garden,PayPal,True,Mobile,74
+76e48ed8,Leo Silva,leo.silva.675@example.com,9450.46,2026-09-26,LATAM,Automotive,Bank Transfer,False,Smart Watch,100
+23f41054,Leo Silva,leo.silva.217@example.com,1345.68,2026-11-13,EMEA,Fashion,Credit Card,True,Smart Watch,65
+9c592c27,Lucas Müller,lucas.müller.999@example.com,4362.61,2026-06-18,Europe,Automotive,Crypto,False,Mobile,67
+59334a13,Sofia Tanaka,sofia.tanaka.344@example.com,7800.51,2026-08-18,APAC,Home & Garden,Crypto,True,Tablet,99
+ba43478a,Ana Silva,ana.silva.342@example.com,1129.49,2026-06-09,Europe,Electronics,Apple Pay,False,Tablet,88
+0dde7b84,Leo Kim,leo.kim.621@example.com,5688.04,2027-01-03,North America,Automotive,Crypto,True,Tablet,65
+329dcb11,Elena Tanaka,elena.tanaka.111@example.com,4276.62,2026-08-11,EMEA,Automotive,Bank Transfer,False,Tablet,62
+4bf5a79a,Leo Rossi,leo.rossi.315@example.com,2008.63,2026-06-01,North America,Books,Bank Transfer,False,Desktop,69
+ea5aa054,Marco Silva,marco.silva.234@example.com,4982.7,2027-05-27,EMEA,Fashion,PayPal,False,Mobile,82
+2989bfbd,Leo Tanaka,leo.tanaka.967@example.com,9169.58,2027-03-13,North America,Fashion,Crypto,False,Mobile,83
+aa568c51,Marco Kim,marco.kim.840@example.com,7179.78,2027-03-14,Europe,Home & Garden,Bank Transfer,True,Mobile,89
+c0e6c800,Sofia Müller,sofia.müller.521@example.com,4185.68,2027-02-14,North America,Electronics,Credit Card,False,Tablet,56
+a883021d,Leo Dubois,leo.dubois.497@example.com,4937.23,2026-09-30,EMEA,Electronics,Crypto,False,Desktop,80
+bead5f0c,Lucas Rossi,lucas.rossi.843@example.com,1067.42,2026-10-20,APAC,Home & Garden,PayPal,False,Mobile,94
+d772df02,Lucas Schmidt,lucas.schmidt.647@example.com,3549.92,2027-03-16,Europe,Fashion,Credit Card,False,Mobile,85
+3bd05fe4,Diego Silva,diego.silva.900@example.com,7673.49,2026-08-15,North America,Electronics,Crypto,True,Smart Watch,62
+7750f834,Lucas Rossi,lucas.rossi.409@example.com,3206.13,2026-11-11,Europe,Electronics,Credit Card,True,Mobile,68
+f0ed7285,Marco Rossi,marco.rossi.604@example.com,4671.49,2026-07-28,North America,Fashion,PayPal,True,Tablet,72
+b36a515b,Sofia Dubois,sofia.dubois.520@example.com,8077.98,2026-06-24,EMEA,Fashion,Credit Card,True,Desktop,90
+0aa2a1c0,Lucas Dubois,lucas.dubois.856@example.com,7921.7,2026-12-31,LATAM,Home & Garden,Apple Pay,True,Mobile,94
+cb30b499,Sofia Kim,sofia.kim.285@example.com,2785.76,2026-10-02,Europe,Home & Garden,Apple Pay,False,Mobile,98
+c76d2cf4,Ana Tanaka,ana.tanaka.286@example.com,2738.85,2026-09-05,North America,Home & Garden,Credit Card,False,Tablet,96
+fbaa4f30,Elena Silva,elena.silva.527@example.com,2626.46,2026-09-12,APAC,Home & Garden,Apple Pay,True,Desktop,65
+15a4b146,Sofia Kowalski,sofia.kowalski.729@example.com,1547.63,2026-06-28,APAC,Home & Garden,Apple Pay,False,Tablet,82
+e3624da7,Sofia Kowalski,sofia.kowalski.722@example.com,1600.33,2026-06-03,APAC,Automotive,PayPal,False,Tablet,85
+0f0f5654,Marco Tanaka,marco.tanaka.975@example.com,2217.51,2027-04-25,North America,Electronics,PayPal,False,Smart Watch,87
+8110d1eb,Lucas Silva,lucas.silva.778@example.com,3652.87,2026-06-06,Europe,Fashion,Crypto,False,Tablet,59
+9bdf64c6,Diego Schmidt,diego.schmidt.209@example.com,4342.98,2026-08-06,APAC,Home & Garden,Apple Pay,False,Tablet,54
+042587ba,Leo Kim,leo.kim.544@example.com,1850.4,2026-12-23,APAC,Automotive,Apple Pay,True,Tablet,96
+c5d9bf81,Leo Schmidt,leo.schmidt.533@example.com,7958.45,2027-03-17,North America,Automotive,Credit Card,True,Tablet,83
+021ec35d,Elena Dubois,elena.dubois.565@example.com,4948.37,2027-04-14,EMEA,Automotive,Bank Transfer,False,Desktop,66
+dfb02d93,Ana Dubois,ana.dubois.712@example.com,8212.26,2026-10-23,EMEA,Fashion,PayPal,False,Tablet,59
+cf70becd,Marco Kim,marco.kim.381@example.com,4301.12,2027-02-13,APAC,Home & Garden,Crypto,True,Desktop,60
+2bcbf107,Valentina Dubois,valentina.dubois.528@example.com,3432.58,2026-12-27,EMEA,Home & Garden,Apple Pay,False,Tablet,67
+708d5f9e,Elena Rossi,elena.rossi.570@example.com,3895.66,2026-07-08,APAC,Electronics,Crypto,True,Mobile,97
+d8652d28,Valentina Dubois,valentina.dubois.480@example.com,1053.01,2026-11-21,Europe,Books,Apple Pay,True,Mobile,91
+92c88ea5,Marco Kim,marco.kim.385@example.com,951.72,2026-07-20,LATAM,Books,Apple Pay,True,Desktop,64
+cbed7675,Sofia Kim,sofia.kim.922@example.com,8493.08,2026-12-15,North America,Home & Garden,Apple Pay,False,Mobile,94
+228c1f8d,Diego Dubois,diego.dubois.157@example.com,1651.4,2026-12-03,North America,Home & Garden,Crypto,False,Smart Watch,70
+6b14f4b5,Diego Rossi,diego.rossi.893@example.com,8867.05,2026-07-10,EMEA,Automotive,Apple Pay,False,Smart Watch,69
+f4ae704d,Sofia Silva,sofia.silva.618@example.com,9621.2,2027-02-16,LATAM,Home & Garden,Bank Transfer,False,Tablet,72
+6231f48e,Leo Dubois,leo.dubois.771@example.com,2634.48,2026-07-25,North America,Home & Garden,Crypto,True,Smart Watch,88
+ecbab103,Valentina Kim,valentina.kim.925@example.com,7861.78,2027-05-08,North America,Fashion,PayPal,True,Tablet,58
+4de0a4c4,Valentina Rossi,valentina.rossi.556@example.com,6718.49,2026-07-31,APAC,Fashion,Credit Card,False,Mobile,83
+8a13edf2,Valentina Kowalski,valentina.kowalski.987@example.com,2696.92,2026-11-30,LATAM,Books,PayPal,False,Desktop,61
+73e5d8f6,Leo Kim,leo.kim.325@example.com,4578.57,2027-04-10,Europe,Home & Garden,Crypto,False,Smart Watch,88
+b5936032,Ana Kim,ana.kim.217@example.com,9172.83,2027-01-14,EMEA,Home & Garden,PayPal,True,Smart Watch,69
+4e6ac37a,Valentina Müller,valentina.müller.743@example.com,782.38,2026-09-17,Europe,Books,Bank Transfer,False,Smart Watch,54
+c91a5cd1,Sofia Silva,sofia.silva.340@example.com,7050.36,2027-05-19,APAC,Electronics,Bank Transfer,False,Mobile,54
+be2768d7,Diego Müller,diego.müller.398@example.com,9293.98,2026-06-18,APAC,Automotive,Crypto,False,Mobile,95
+b98d5e54,Sofia Kowalski,sofia.kowalski.955@example.com,6765.92,2026-11-13,North America,Electronics,Crypto,True,Mobile,57
+729e778b,Ana Kowalski,ana.kowalski.473@example.com,6915.91,2026-07-14,EMEA,Electronics,Apple Pay,True,Tablet,76
+06d7740a,Ana Schmidt,ana.schmidt.750@example.com,3971.05,2026-12-16,EMEA,Fashion,Credit Card,True,Desktop,51
+48a09488,Ana Dubois,ana.dubois.565@example.com,1137.04,2026-07-08,EMEA,Home & Garden,PayPal,False,Mobile,60
+73689077,Leo Dubois,leo.dubois.478@example.com,5592.44,2026-08-30,Europe,Fashion,Credit Card,False,Desktop,96
+a6536241,Leo Kowalski,leo.kowalski.633@example.com,983.79,2027-04-01,North America,Books,Crypto,False,Smart Watch,79
+91f2aa28,Elena Kim,elena.kim.546@example.com,3772.76,2026-12-05,EMEA,Automotive,Credit Card,False,Desktop,62
+f21a539c,Elena Kowalski,elena.kowalski.465@example.com,9862.88,2027-05-17,LATAM,Automotive,Credit Card,False,Tablet,59
+f4c812ff,Lucas Müller,lucas.müller.418@example.com,4730.32,2026-11-29,EMEA,Electronics,PayPal,False,Tablet,54
+eb59cd51,Elena Kim,elena.kim.592@example.com,4740.85,2027-01-26,LATAM,Books,Credit Card,False,Tablet,59
+8c2f4a77,Elena Dubois,elena.dubois.702@example.com,3404.44,2027-01-25,LATAM,Electronics,Crypto,True,Mobile,99
+cacf51c5,Marco Kim,marco.kim.758@example.com,9445.63,2026-10-02,APAC,Books,Crypto,True,Mobile,63
+2e0ff087,Valentina Tanaka,valentina.tanaka.419@example.com,3574.62,2027-04-02,LATAM,Electronics,PayPal,True,Smart Watch,76
+c3efef6b,Marco Dubois,marco.dubois.281@example.com,9636.76,2026-11-15,APAC,Electronics,Crypto,True,Mobile,54
+5d81428f,Elena Müller,elena.müller.358@example.com,3776.04,2026-08-31,Europe,Fashion,PayPal,False,Desktop,78
+3d99ed73,Ana Tanaka,ana.tanaka.199@example.com,9608.7,2026-07-19,Europe,Fashion,Crypto,False,Desktop,74
+ee26625a,Diego Rossi,diego.rossi.705@example.com,5000.49,2027-03-11,EMEA,Books,PayPal,False,Mobile,67
+5e1f88a1,Ana Rossi,ana.rossi.814@example.com,5458.3,2027-03-23,EMEA,Books,Credit Card,True,Smart Watch,93

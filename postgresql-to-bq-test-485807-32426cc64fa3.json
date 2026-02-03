@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "postgresql-to-bq-test-485807",
+  "private_key_id": "32426cc64fa398f16b9b5d7bd8492560c9010fa9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFHkiNiOOe9b1c\nbBLvIH/Nu/BlTR155Vn6ms4V7Uq3jz6i0LMevXZukHZI7NQGroZxoBqis53pRvbz\nOB3vw0R6Dob5fMkDw7Wq0VyKq53XjhqI3g5+4keDTwVOCt1utH7dW8wK6h9tYu84\nGI0nIe9O/znwC4t0IY3+Yty1CoRcx/va+UtnpH9tPLs5AhHQIBKoikmJ22ncR2Sq\n57nC1VUtj+WW7pJidHSR7GBMQ+4Qf8HCAfnaKJoAG7YOSW8R1lNuv/pyboAkUKqj\nCio1/yLu3vRZdsVy1J8PJA5fOvsZVy7xW8lSRX2noEGz3mxQkKSiAR0cOC2Y71py\nA/zhktKRAgMBAAECggEABbXPXz5AbcnrnuJImCHGYgTYPW8C9BWHSkGyx6LUn8Wo\nCFpoXfMaG7DWpF0r9TeYEHGVY/I1GF1kaP5Oq7Pp52lFUrPhNNk2CYlAF4pKK8Tj\nkuRv4hAXB0BCRJT+/iZ/aFUw734BxA7yJBtd92y9vHmbSY9kDkysitp9T0dLN07M\nvPCtlIb5ja8oJXuGYIyn4vxGyCFaS/LCTiNkGRALMzWRS/FI8pdFN+MCw45Ju+xF\nwGo89piHoIVhNT0kxTVJSh7F0Inn7z1hSdlPRR2vTovbvMlfFfRaO1MaZ29voUDH\nsFXdZw9oDWLGz+sFv+fnNrYT60jMiHLF/IDpG0Z44wKBgQDuJfS39FuF//hGZGWF\nZmsNe0zxTm0NHo7hH//3z/d10FoNcbcj8jxU6Cr96FUfV1JvSzGAeaPPt6DgFots\nL7N/zwhKwZsA8ooWVMygJgJRua70YGFOLopbuq/l68Jjt8j+OegNiwYQEUTfcUtn\nLXUc7/rzyMKctR9putEHQQPE4wKBgQDT5PdKijN0uDZA1GLavzF9PFHwjNu643go\nzpH3Jo9buRHoZIOzOaVOGG5M8PjQcqcyad7rNQhd/0JOO2LbH+L6ie6TiK43Xufh\nvgMi2ZWa5vTD8rtF3sLsMn7Y42mdbGwmc/St1QcMZLC2gsgxcV0MOx7R91T1Ydl0\nn1h/nT6Y+wKBgGKt751Z76Ky0hm4+CgyrCFF+jfzG1TYWLQIInR5BD0ZPHddq1mF\nwmIcYdQcNUlrUYk0SyrFPI+Rs2Onc9Y8XdCT5Qe0+ZmG5pkiQjgKB+P9YPV6Clfv\nCP3Beal363COcwaE0BbsiHKX9UXxGCGEwIZhGkdx5NIyavXQp1SuJ/WpAoGAWvgp\n0q6SeMG9SQfliNQcgw+qfgN7MjkGFT7aG6lKUq6ZqZO9luxgs655bD7oE1WlwlcB\nhSk3dmNoK/4C6uA9qiIdculzIgJ0us3Auu1+9QnCe31yOQTx2kWzf5niddtecwPF\nP/v9Eq0H0NNE7zUkJWQcTzhIGTDxEsh2ThNMFJECgYEAkqZR9lT8dASeqMZDr0dx\nOsUDWZxu9tP3gkJyU+DVz3H1RpLpDnL8sOy32CKwKWnrgDsxRn8JwvYVZYFza2nb\nAuUzoc/w6rEBGe2uOXDPVbwWL0ucwrhpzV/zn311MPjrYw1QXXISQUwX1t3/lNbD\n/cP5ImL433lIySJU/OCHHgc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-action-runner@postgresql-to-bq-test-485807.iam.gserviceaccount.com",
+  "client_id": "116582938165830858373",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-action-runner%40postgresql-to-bq-test-485807.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

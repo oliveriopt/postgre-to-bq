@@ -1,0 +1,1001 @@
+user_id,full_name,email,total_spend,signup_date,region,product_category,payment_method,is_active,device_type,loyalty_score
+348540d0,Riley Brown,riley.brown.11@example.com,2907.47,2025-06-20,LATAM,Automotive,Bank Transfer,True,Desktop,6
+abe9df6b,Casey Lee,casey.lee.18@example.com,640.85,2025-10-15,LATAM,Electronics,Crypto,False,Mobile,88
+3efcfe21,Riley Martinez,riley.martinez.86@example.com,1633.14,2026-01-06,LATAM,Books,Crypto,False,Tablet,36
+7b4c6438,Casey Garcia,casey.garcia.34@example.com,3429.13,2025-02-25,APAC,Electronics,Bank Transfer,False,Tablet,28
+b5e90c6e,Avery Brown,avery.brown.88@example.com,2011.85,2025-07-10,Europe,Fashion,Crypto,False,Mobile,7
+ebf10f9b,Morgan Martinez,morgan.martinez.64@example.com,3419.67,2025-07-03,EMEA,Home & Garden,Credit Card,False,Mobile,25
+85ebc355,Taylor Garcia,taylor.garcia.79@example.com,4730.09,2025-04-06,North America,Electronics,PayPal,True,Mobile,73
+d96bd264,Jamie Doe,jamie.doe.32@example.com,868.19,2025-04-29,Europe,Automotive,Crypto,False,Smart Watch,3
+fa19f253,Riley Martinez,riley.martinez.73@example.com,4564.19,2025-08-14,LATAM,Automotive,Bank Transfer,True,Mobile,82
+d89147e8,Jordan Smith,jordan.smith.70@example.com,4574.14,2025-08-12,Europe,Fashion,Apple Pay,False,Desktop,86
+44fc9b69,Alex Johnson,alex.johnson.92@example.com,2040.08,2025-05-10,LATAM,Electronics,Apple Pay,True,Smart Watch,97
+919bdec2,Taylor Smith,taylor.smith.61@example.com,483.21,2025-07-18,North America,Automotive,Crypto,True,Mobile,87
+d782a6ed,Casey Smith,casey.smith.38@example.com,3031.91,2025-04-19,LATAM,Books,Bank Transfer,True,Desktop,20
+ecdcf763,Avery Lee,avery.lee.58@example.com,3639.74,2025-10-23,Europe,Home & Garden,Credit Card,False,Smart Watch,87
+38d85522,Alex Doe,alex.doe.29@example.com,3350.68,2025-03-04,EMEA,Fashion,Bank Transfer,False,Smart Watch,92
+98fc9ecd,Casey Wong,casey.wong.68@example.com,2892.1,2025-08-29,LATAM,Fashion,Bank Transfer,False,Tablet,66
+e9390b0a,Riley Wong,riley.wong.73@example.com,1046.37,2026-01-29,APAC,Books,Apple Pay,True,Tablet,24
+f59d4ff9,Casey Doe,casey.doe.78@example.com,2112.92,2025-04-03,EMEA,Fashion,Crypto,False,Tablet,47
+3cbe04cd,Taylor Doe,taylor.doe.70@example.com,2118.27,2025-11-26,North America,Home & Garden,Credit Card,False,Tablet,26
+8d2d894d,Taylor Martinez,taylor.martinez.49@example.com,18.14,2026-01-22,EMEA,Home & Garden,Bank Transfer,False,Smart Watch,98
+b2cbad28,Alex Martinez,alex.martinez.34@example.com,2785.94,2025-06-28,APAC,Fashion,Credit Card,False,Desktop,83
+251df1a2,Jordan Martinez,jordan.martinez.10@example.com,1850.26,2025-03-04,APAC,Electronics,Credit Card,True,Smart Watch,6
+145a4e15,Riley Brown,riley.brown.82@example.com,2891.31,2025-09-06,Europe,Home & Garden,PayPal,True,Smart Watch,47
+3b4880c2,Alex Garcia,alex.garcia.74@example.com,2475.42,2025-10-23,EMEA,Fashion,PayPal,False,Tablet,10
+512a4ef4,Morgan Martinez,morgan.martinez.60@example.com,4074.16,2025-03-19,EMEA,Home & Garden,Crypto,False,Desktop,3
+28a47662,Morgan Doe,morgan.doe.83@example.com,3771.9,2025-12-18,Europe,Fashion,PayPal,True,Desktop,96
+66646fe3,Casey Brown,casey.brown.18@example.com,2326.15,2026-01-11,Europe,Home & Garden,PayPal,False,Desktop,27
+25452a51,Avery Doe,avery.doe.14@example.com,1127.77,2025-12-16,APAC,Fashion,Credit Card,True,Mobile,23
+50dee4b3,Jordan Doe,jordan.doe.39@example.com,4742.07,2025-10-16,APAC,Electronics,Bank Transfer,True,Tablet,77
+13c5e82a,Riley Garcia,riley.garcia.32@example.com,2390.18,2025-09-10,Europe,Home & Garden,Apple Pay,False,Desktop,22
+459676a9,Riley Martinez,riley.martinez.76@example.com,2641.98,2025-11-19,LATAM,Home & Garden,Credit Card,True,Desktop,60
+3cf406be,Jordan Martinez,jordan.martinez.31@example.com,3234.21,2025-05-02,EMEA,Electronics,Credit Card,False,Desktop,83
+15e3d977,Riley Brown,riley.brown.19@example.com,4698.56,2025-12-13,North America,Fashion,Credit Card,True,Tablet,7
+d7dd3cff,Casey Doe,casey.doe.33@example.com,3848.44,2025-10-12,EMEA,Home & Garden,PayPal,False,Smart Watch,28
+6105b590,Casey Doe,casey.doe.44@example.com,2468.62,2025-12-02,APAC,Fashion,Apple Pay,False,Tablet,23
+cf4ef78f,Alex Wong,alex.wong.80@example.com,3314.25,2025-06-22,Europe,Fashion,Bank Transfer,False,Tablet,59
+a9c9ba4a,Jamie Johnson,jamie.johnson.22@example.com,4559.78,2025-08-19,EMEA,Home & Garden,PayPal,True,Mobile,8
+ccedb1a1,Avery Wong,avery.wong.81@example.com,2110.46,2026-01-10,LATAM,Electronics,Apple Pay,True,Mobile,50
+445be3d2,Riley Brown,riley.brown.13@example.com,3976.62,2025-09-12,Europe,Home & Garden,Bank Transfer,False,Tablet,12
+965c71a9,Morgan Wong,morgan.wong.90@example.com,667.3,2025-04-15,Europe,Automotive,Bank Transfer,True,Tablet,46
+95af68ec,Casey Wong,casey.wong.97@example.com,1020.24,2025-03-15,LATAM,Automotive,Apple Pay,True,Tablet,51
+868e0200,Taylor Lee,taylor.lee.79@example.com,1244.15,2025-04-17,North America,Fashion,Bank Transfer,False,Smart Watch,15
+39322487,Alex Smith,alex.smith.49@example.com,2421.06,2025-03-17,North America,Books,Bank Transfer,False,Tablet,59
+8671ab86,Alex Garcia,alex.garcia.38@example.com,2027.36,2025-12-13,North America,Electronics,PayPal,False,Mobile,35
+9e9afe09,Casey Wong,casey.wong.40@example.com,3790.35,2025-10-03,Europe,Electronics,Bank Transfer,True,Desktop,16
+31419cbe,Jordan Smith,jordan.smith.54@example.com,1412.31,2025-05-01,LATAM,Fashion,Credit Card,True,Tablet,43
+72d4ee81,Riley Martinez,riley.martinez.28@example.com,3937.61,2026-01-06,EMEA,Fashion,PayPal,False,Desktop,68
+16152d80,Jordan Smith,jordan.smith.13@example.com,342.03,2025-04-05,APAC,Fashion,Bank Transfer,True,Tablet,92
+86e93d06,Avery Wong,avery.wong.21@example.com,4433.48,2025-06-16,Europe,Home & Garden,Credit Card,False,Tablet,13
+22b53f0e,Taylor Martinez,taylor.martinez.72@example.com,747.67,2025-03-18,LATAM,Fashion,Crypto,True,Tablet,65
+4ff0c59a,Avery Smith,avery.smith.51@example.com,4824.98,2025-05-23,EMEA,Fashion,Bank Transfer,False,Mobile,26
+9ac74a80,Riley Lee,riley.lee.23@example.com,2632.11,2025-05-04,LATAM,Fashion,Bank Transfer,False,Tablet,18
+0e0b5c8d,Alex Garcia,alex.garcia.30@example.com,1680.09,2025-08-19,APAC,Home & Garden,Crypto,False,Desktop,55
+514620a4,Alex Garcia,alex.garcia.52@example.com,3671.51,2025-06-07,North America,Automotive,Credit Card,False,Smart Watch,25
+18af4c08,Avery Lee,avery.lee.36@example.com,2829.27,2025-04-09,EMEA,Electronics,Credit Card,True,Tablet,68
+e441f93f,Alex Lee,alex.lee.73@example.com,3943.87,2025-08-02,APAC,Books,PayPal,False,Mobile,55
+84ab7fee,Riley Brown,riley.brown.47@example.com,712.69,2025-07-15,LATAM,Books,Apple Pay,False,Desktop,91
+c8ad84c0,Jamie Wong,jamie.wong.33@example.com,4854.39,2025-05-06,Europe,Fashion,Credit Card,False,Mobile,64
+9224895b,Casey Johnson,casey.johnson.68@example.com,3638.38,2025-03-18,LATAM,Fashion,Apple Pay,False,Desktop,44
+d4d5e1c3,Avery Martinez,avery.martinez.73@example.com,1230.41,2025-12-26,EMEA,Books,Credit Card,True,Smart Watch,43
+69c86b26,Casey Lee,casey.lee.90@example.com,1514.66,2025-08-01,EMEA,Fashion,Bank Transfer,False,Smart Watch,45
+8432c83f,Casey Wong,casey.wong.37@example.com,798.26,2026-01-13,Europe,Books,Crypto,True,Smart Watch,52
+cef284cd,Riley Johnson,riley.johnson.10@example.com,4905.87,2025-05-14,LATAM,Electronics,Crypto,False,Desktop,41
+06fe72bb,Jordan Martinez,jordan.martinez.77@example.com,1725.94,2025-12-09,Europe,Automotive,PayPal,True,Desktop,96
+5257806a,Morgan Wong,morgan.wong.34@example.com,1834.67,2025-05-13,Europe,Electronics,Bank Transfer,True,Desktop,43
+aa527ffe,Casey Garcia,casey.garcia.39@example.com,4414.35,2025-07-28,North America,Automotive,Crypto,True,Tablet,23
+7625b2fc,Riley Lee,riley.lee.99@example.com,3877.31,2025-02-24,EMEA,Home & Garden,Bank Transfer,True,Tablet,16
+d70ed279,Jordan Brown,jordan.brown.60@example.com,2272.81,2025-11-20,LATAM,Fashion,Apple Pay,True,Desktop,3
+913f4c79,Alex Johnson,alex.johnson.21@example.com,630.37,2025-05-16,North America,Fashion,Crypto,False,Mobile,39
+656998f5,Alex Johnson,alex.johnson.60@example.com,4960.78,2025-04-04,EMEA,Home & Garden,PayPal,True,Desktop,35
+f515145c,Avery Garcia,avery.garcia.71@example.com,3831.85,2025-12-30,Europe,Fashion,Crypto,True,Smart Watch,63
+eed1f873,Casey Johnson,casey.johnson.49@example.com,4139.69,2025-09-02,EMEA,Automotive,Credit Card,True,Smart Watch,38
+990d586f,Riley Martinez,riley.martinez.58@example.com,3820.98,2025-11-05,EMEA,Books,Crypto,True,Mobile,98
+2a8ff76c,Alex Wong,alex.wong.25@example.com,374.17,2025-10-10,EMEA,Books,Apple Pay,False,Smart Watch,43
+507b9635,Morgan Garcia,morgan.garcia.32@example.com,4783.91,2025-05-01,EMEA,Automotive,Crypto,False,Tablet,5
+b6823159,Taylor Martinez,taylor.martinez.34@example.com,1247.69,2025-02-05,EMEA,Fashion,Crypto,False,Tablet,90
+5a45c1a8,Riley Garcia,riley.garcia.92@example.com,2297.01,2025-02-14,North America,Books,Crypto,False,Mobile,54
+5e17c1ec,Taylor Johnson,taylor.johnson.25@example.com,40.55,2025-12-20,North America,Fashion,PayPal,False,Desktop,94
+1f692e76,Avery Brown,avery.brown.32@example.com,2479.58,2025-06-29,Europe,Books,PayPal,True,Smart Watch,7
+165cf026,Taylor Garcia,taylor.garcia.78@example.com,1670.68,2025-05-14,LATAM,Home & Garden,Credit Card,False,Tablet,72
+42a432c4,Avery Doe,avery.doe.95@example.com,783.82,2025-08-19,Europe,Home & Garden,PayPal,False,Tablet,15
+582e960b,Jamie Brown,jamie.brown.13@example.com,4909.02,2025-05-03,Europe,Electronics,Apple Pay,False,Tablet,47
+8afe5f0a,Casey Johnson,casey.johnson.89@example.com,818.29,2025-11-23,LATAM,Home & Garden,Crypto,False,Smart Watch,48
+a087c0b3,Jamie Smith,jamie.smith.30@example.com,4322.87,2025-06-18,Europe,Books,Apple Pay,False,Smart Watch,23
+bfb99574,Avery Wong,avery.wong.90@example.com,1820.26,2025-10-28,LATAM,Fashion,Bank Transfer,False,Mobile,6
+20e00537,Jordan Smith,jordan.smith.52@example.com,3768.21,2025-04-17,LATAM,Books,Apple Pay,False,Mobile,11
+2293315f,Taylor Wong,taylor.wong.94@example.com,19.68,2025-03-04,APAC,Fashion,Crypto,True,Smart Watch,19
+4eb5549e,Casey Martinez,casey.martinez.34@example.com,1897.17,2025-02-10,APAC,Automotive,Credit Card,True,Mobile,17
+05b7f8bb,Alex Johnson,alex.johnson.86@example.com,1174.67,2025-11-27,APAC,Books,Crypto,True,Tablet,11
+b312273d,Jordan Doe,jordan.doe.17@example.com,4711.96,2025-10-29,EMEA,Home & Garden,PayPal,True,Mobile,87
+9b05f993,Riley Smith,riley.smith.42@example.com,1595.83,2025-12-08,EMEA,Electronics,Credit Card,True,Tablet,26
+18d9b583,Riley Martinez,riley.martinez.27@example.com,122.07,2025-09-24,APAC,Home & Garden,Bank Transfer,False,Mobile,64
+327ea8d4,Riley Martinez,riley.martinez.54@example.com,1154.78,2025-09-16,North America,Fashion,Crypto,False,Mobile,86
+45566b72,Taylor Martinez,taylor.martinez.40@example.com,4779.48,2025-10-09,APAC,Electronics,Apple Pay,False,Desktop,87
+76fb58b3,Morgan Wong,morgan.wong.29@example.com,3911.7,2025-05-14,APAC,Home & Garden,Credit Card,True,Smart Watch,14
+badc1459,Casey Brown,casey.brown.63@example.com,2281.2,2025-09-10,North America,Home & Garden,Apple Pay,True,Tablet,11
+66f83f68,Jamie Johnson,jamie.johnson.35@example.com,2602.44,2025-02-01,Europe,Electronics,PayPal,False,Smart Watch,83
+5897b6f6,Avery Johnson,avery.johnson.17@example.com,998.6,2025-02-20,LATAM,Fashion,Crypto,False,Tablet,68
+35c06eb7,Taylor Doe,taylor.doe.22@example.com,2210.1,2025-05-09,LATAM,Home & Garden,Bank Transfer,True,Mobile,46
+67d3ee70,Jamie Garcia,jamie.garcia.77@example.com,871.06,2025-12-21,North America,Automotive,Apple Pay,False,Tablet,80
+69066fa6,Avery Doe,avery.doe.29@example.com,1552.5,2025-03-07,North America,Fashion,Bank Transfer,True,Desktop,88
+f2351cb5,Riley Smith,riley.smith.30@example.com,1454.67,2025-06-06,APAC,Home & Garden,Credit Card,True,Desktop,32
+5869eb32,Alex Garcia,alex.garcia.68@example.com,3927.03,2026-01-18,North America,Home & Garden,Credit Card,False,Smart Watch,68
+faff891c,Casey Lee,casey.lee.21@example.com,1609.34,2025-04-06,LATAM,Home & Garden,Apple Pay,False,Mobile,89
+17268236,Riley Lee,riley.lee.96@example.com,832.04,2025-07-05,LATAM,Home & Garden,Credit Card,False,Smart Watch,98
+b652a155,Taylor Wong,taylor.wong.11@example.com,4839.55,2025-08-31,LATAM,Home & Garden,Credit Card,True,Desktop,32
+144fe997,Avery Johnson,avery.johnson.79@example.com,2514.38,2025-12-28,EMEA,Home & Garden,PayPal,True,Mobile,92
+900c6046,Jordan Martinez,jordan.martinez.39@example.com,4659.0,2025-08-12,EMEA,Home & Garden,Bank Transfer,False,Smart Watch,42
+890ff642,Riley Lee,riley.lee.71@example.com,3970.64,2025-05-09,North America,Fashion,Bank Transfer,True,Desktop,14
+1d2366fc,Jordan Martinez,jordan.martinez.40@example.com,3982.14,2025-03-11,APAC,Automotive,Crypto,False,Smart Watch,19
+633eed83,Avery Smith,avery.smith.74@example.com,885.42,2025-12-06,EMEA,Home & Garden,Crypto,False,Smart Watch,6
+708feaa6,Jamie Garcia,jamie.garcia.44@example.com,1760.29,2025-08-30,Europe,Electronics,Apple Pay,False,Tablet,55
+a97096bf,Morgan Johnson,morgan.johnson.31@example.com,4263.27,2025-07-16,LATAM,Fashion,Apple Pay,True,Desktop,38
+79025aae,Jordan Garcia,jordan.garcia.81@example.com,2789.67,2025-09-03,Europe,Books,Crypto,True,Smart Watch,92
+9227bc70,Jordan Doe,jordan.doe.96@example.com,2011.78,2025-08-09,EMEA,Home & Garden,Bank Transfer,False,Tablet,17
+f2737137,Alex Martinez,alex.martinez.77@example.com,4943.17,2026-01-20,APAC,Books,Crypto,False,Tablet,62
+1fc49651,Casey Brown,casey.brown.11@example.com,114.1,2025-02-26,North America,Books,Crypto,False,Smart Watch,82
+f2e95eb1,Alex Smith,alex.smith.36@example.com,4390.73,2025-08-20,Europe,Electronics,Crypto,True,Mobile,79
+6c2ff276,Morgan Martinez,morgan.martinez.79@example.com,3251.2,2025-10-04,North America,Automotive,Crypto,False,Smart Watch,51
+2f13a3c4,Alex Martinez,alex.martinez.51@example.com,689.8,2025-11-10,LATAM,Books,Credit Card,True,Mobile,7
+ffc53b7b,Casey Smith,casey.smith.54@example.com,557.25,2025-07-30,EMEA,Automotive,Crypto,False,Desktop,4
+d54db2c8,Jordan Garcia,jordan.garcia.99@example.com,1520.71,2025-09-09,LATAM,Automotive,Bank Transfer,False,Tablet,77
+04c7ea75,Avery Lee,avery.lee.49@example.com,1303.33,2025-03-07,APAC,Electronics,Bank Transfer,False,Mobile,23
+fa1e0c8e,Morgan Wong,morgan.wong.10@example.com,2871.94,2025-04-13,LATAM,Automotive,PayPal,False,Desktop,21
+3db5941a,Taylor Wong,taylor.wong.57@example.com,4937.38,2025-10-25,LATAM,Books,Credit Card,False,Mobile,66
+d141bfee,Avery Johnson,avery.johnson.68@example.com,3922.84,2025-05-22,North America,Electronics,PayPal,True,Smart Watch,14
+c33247e7,Alex Wong,alex.wong.12@example.com,4780.86,2025-06-17,LATAM,Home & Garden,Apple Pay,False,Desktop,73
+ecdaf5f7,Morgan Smith,morgan.smith.46@example.com,996.15,2025-10-01,LATAM,Fashion,Crypto,True,Smart Watch,71
+2619a6db,Jordan Brown,jordan.brown.65@example.com,3187.2,2025-04-16,LATAM,Books,Bank Transfer,True,Mobile,70
+1497da0e,Jordan Garcia,jordan.garcia.17@example.com,88.91,2025-08-30,EMEA,Electronics,Credit Card,False,Tablet,9
+d5b66986,Avery Wong,avery.wong.65@example.com,3117.91,2025-12-12,EMEA,Home & Garden,Crypto,True,Smart Watch,42
+805b9286,Avery Lee,avery.lee.57@example.com,2310.27,2025-09-03,APAC,Automotive,Crypto,True,Tablet,41
+61a0e5bc,Alex Lee,alex.lee.51@example.com,2679.93,2025-04-06,APAC,Fashion,Bank Transfer,False,Smart Watch,88
+b09dabd2,Riley Wong,riley.wong.76@example.com,2099.26,2025-10-01,Europe,Automotive,Credit Card,True,Mobile,73
+652ea270,Avery Johnson,avery.johnson.27@example.com,4555.38,2025-09-02,APAC,Home & Garden,Credit Card,True,Smart Watch,24
+58d85e7e,Casey Wong,casey.wong.87@example.com,3401.44,2025-04-25,North America,Automotive,PayPal,False,Mobile,99
+4786683e,Avery Garcia,avery.garcia.77@example.com,4676.59,2025-03-22,North America,Fashion,Apple Pay,True,Smart Watch,31
+07f64c59,Taylor Doe,taylor.doe.86@example.com,303.49,2025-11-03,North America,Automotive,PayPal,True,Desktop,71
+9ac153e4,Casey Lee,casey.lee.40@example.com,4560.74,2025-06-17,LATAM,Fashion,Apple Pay,False,Mobile,23
+b0611ed9,Jamie Garcia,jamie.garcia.94@example.com,4546.4,2025-06-18,LATAM,Fashion,PayPal,True,Desktop,33
+b22536f5,Riley Martinez,riley.martinez.46@example.com,607.57,2025-10-27,Europe,Fashion,PayPal,False,Smart Watch,42
+d00c8a88,Alex Wong,alex.wong.12@example.com,3152.22,2025-07-27,APAC,Fashion,Bank Transfer,True,Mobile,82
+ad785cbc,Avery Johnson,avery.johnson.61@example.com,222.99,2025-04-30,APAC,Electronics,PayPal,False,Tablet,14
+de651918,Morgan Garcia,morgan.garcia.42@example.com,1173.61,2026-01-02,APAC,Home & Garden,Credit Card,True,Smart Watch,83
+213ce381,Taylor Johnson,taylor.johnson.75@example.com,3310.16,2025-05-28,LATAM,Automotive,Crypto,False,Desktop,6
+207bae52,Taylor Smith,taylor.smith.45@example.com,2252.91,2025-08-15,Europe,Fashion,Crypto,False,Mobile,3
+a0d820d6,Jordan Doe,jordan.doe.98@example.com,3315.21,2025-06-15,North America,Fashion,Bank Transfer,True,Smart Watch,39
+b5b8fd4e,Riley Garcia,riley.garcia.50@example.com,3150.62,2025-08-02,EMEA,Books,Apple Pay,True,Desktop,78
+d8f20a29,Jordan Martinez,jordan.martinez.27@example.com,3918.38,2025-09-30,EMEA,Fashion,Crypto,False,Mobile,72
+c85d2a75,Avery Doe,avery.doe.20@example.com,3394.99,2025-07-08,North America,Books,Bank Transfer,False,Mobile,75
+e8dd31d2,Alex Smith,alex.smith.40@example.com,1210.27,2025-02-14,LATAM,Electronics,Apple Pay,True,Mobile,40
+c5466b3a,Riley Wong,riley.wong.29@example.com,865.9,2025-05-02,APAC,Home & Garden,PayPal,False,Desktop,48
+4b86935e,Alex Doe,alex.doe.39@example.com,4291.65,2025-07-11,LATAM,Automotive,PayPal,True,Mobile,94
+393fe973,Jordan Lee,jordan.lee.71@example.com,3734.48,2026-01-15,LATAM,Automotive,Apple Pay,True,Desktop,57
+fdcb2a6d,Casey Brown,casey.brown.14@example.com,2802.95,2025-12-26,Europe,Home & Garden,Credit Card,False,Desktop,83
+928514ef,Casey Lee,casey.lee.88@example.com,2379.67,2025-03-29,LATAM,Automotive,Crypto,False,Tablet,52
+37164c5f,Casey Wong,casey.wong.23@example.com,445.58,2025-06-16,APAC,Electronics,PayPal,False,Tablet,33
+2de76432,Taylor Lee,taylor.lee.58@example.com,945.89,2025-03-22,LATAM,Fashion,PayPal,True,Desktop,33
+cbe09fa2,Jamie Wong,jamie.wong.14@example.com,2325.82,2025-08-15,North America,Automotive,Credit Card,True,Mobile,22
+a5233d61,Avery Martinez,avery.martinez.72@example.com,4757.0,2025-03-07,Europe,Books,PayPal,True,Tablet,83
+1c7bdc4e,Taylor Martinez,taylor.martinez.99@example.com,2713.55,2025-10-18,North America,Fashion,Bank Transfer,False,Mobile,69
+2dbdaa3a,Jordan Johnson,jordan.johnson.63@example.com,2502.5,2025-10-17,LATAM,Automotive,Apple Pay,False,Mobile,15
+4589bf8e,Alex Wong,alex.wong.55@example.com,1322.04,2025-09-06,LATAM,Books,PayPal,True,Desktop,99
+d55e689f,Jordan Smith,jordan.smith.73@example.com,3519.28,2025-06-13,Europe,Fashion,Crypto,True,Smart Watch,41
+014d4634,Casey Martinez,casey.martinez.64@example.com,3784.08,2025-09-18,LATAM,Books,Bank Transfer,True,Tablet,71
+7adc4e07,Jordan Wong,jordan.wong.92@example.com,3201.79,2026-01-27,APAC,Books,Bank Transfer,False,Mobile,64
+03c9a070,Alex Doe,alex.doe.98@example.com,4918.96,2025-05-17,Europe,Home & Garden,Credit Card,False,Smart Watch,17
+2756a653,Taylor Lee,taylor.lee.52@example.com,2267.31,2025-02-19,EMEA,Home & Garden,Crypto,True,Desktop,64
+f8a62193,Casey Johnson,casey.johnson.96@example.com,3713.35,2025-03-06,EMEA,Books,Crypto,False,Desktop,40
+c73b7486,Taylor Lee,taylor.lee.68@example.com,2768.53,2025-07-19,EMEA,Electronics,PayPal,True,Tablet,67
+16458bc2,Morgan Brown,morgan.brown.62@example.com,4491.45,2025-11-09,EMEA,Automotive,Crypto,True,Tablet,14
+a3b6123d,Riley Doe,riley.doe.62@example.com,3163.4,2025-06-03,North America,Fashion,Bank Transfer,True,Tablet,52
+c63a2109,Avery Doe,avery.doe.88@example.com,267.71,2025-09-03,APAC,Books,Credit Card,True,Smart Watch,40
+05e487d7,Taylor Doe,taylor.doe.81@example.com,1351.79,2025-05-26,Europe,Books,Crypto,True,Mobile,62
+6dae3404,Jordan Garcia,jordan.garcia.20@example.com,2532.37,2025-05-05,LATAM,Fashion,Bank Transfer,False,Smart Watch,47
+967bcc92,Taylor Wong,taylor.wong.88@example.com,2608.76,2025-05-05,LATAM,Electronics,Credit Card,False,Mobile,17
+eaeaf3c4,Casey Brown,casey.brown.28@example.com,2604.07,2025-06-24,North America,Electronics,Credit Card,True,Mobile,83
+44575c77,Morgan Brown,morgan.brown.93@example.com,3026.67,2025-06-30,APAC,Home & Garden,Apple Pay,True,Tablet,82
+ad4a3955,Morgan Johnson,morgan.johnson.16@example.com,196.08,2025-02-22,EMEA,Automotive,Crypto,False,Mobile,33
+49b4dadb,Taylor Martinez,taylor.martinez.89@example.com,2860.83,2025-04-23,APAC,Books,Crypto,False,Mobile,70
+cbced941,Taylor Martinez,taylor.martinez.77@example.com,4982.33,2025-04-12,Europe,Books,Bank Transfer,True,Smart Watch,24
+6b62a375,Jordan Lee,jordan.lee.85@example.com,4277.32,2025-11-15,Europe,Automotive,Crypto,True,Smart Watch,25
+8b54aa79,Avery Wong,avery.wong.61@example.com,1755.15,2025-03-25,APAC,Automotive,Apple Pay,True,Desktop,28
+45df7d1b,Jordan Brown,jordan.brown.96@example.com,984.39,2025-07-19,Europe,Electronics,Apple Pay,True,Smart Watch,42
+a2001b46,Morgan Brown,morgan.brown.57@example.com,3927.79,2025-06-08,APAC,Home & Garden,Apple Pay,False,Desktop,40
+593d4517,Alex Johnson,alex.johnson.96@example.com,4443.24,2025-05-03,LATAM,Electronics,PayPal,True,Tablet,98
+e8ca7fac,Avery Johnson,avery.johnson.49@example.com,1878.96,2025-10-08,EMEA,Automotive,Credit Card,True,Desktop,91
+f3cf1093,Avery Johnson,avery.johnson.70@example.com,4216.38,2025-12-20,EMEA,Automotive,Apple Pay,False,Tablet,52
+8a83a990,Morgan Johnson,morgan.johnson.86@example.com,3187.08,2025-03-23,APAC,Books,Bank Transfer,False,Desktop,67
+3c2b3759,Avery Lee,avery.lee.69@example.com,2112.92,2025-05-29,EMEA,Electronics,Apple Pay,True,Tablet,58
+89dac8da,Jordan Doe,jordan.doe.20@example.com,135.13,2025-04-27,Europe,Fashion,Credit Card,True,Tablet,50
+9d1ea895,Riley Johnson,riley.johnson.13@example.com,925.25,2025-03-23,LATAM,Books,Apple Pay,True,Desktop,32
+b7a28023,Casey Garcia,casey.garcia.99@example.com,1145.76,2026-01-02,Europe,Books,Apple Pay,False,Smart Watch,60
+8a08e3e3,Riley Martinez,riley.martinez.22@example.com,397.56,2025-08-25,EMEA,Electronics,Apple Pay,False,Smart Watch,4
+08a15d54,Casey Martinez,casey.martinez.49@example.com,257.92,2025-08-23,Europe,Electronics,Bank Transfer,False,Desktop,54
+bb76c06f,Jordan Doe,jordan.doe.98@example.com,3621.38,2025-03-09,Europe,Automotive,Apple Pay,True,Mobile,93
+36d557ec,Casey Lee,casey.lee.61@example.com,2834.75,2025-02-28,North America,Electronics,Credit Card,True,Tablet,96
+d3f35520,Jordan Lee,jordan.lee.43@example.com,4881.2,2025-10-09,Europe,Books,Credit Card,True,Desktop,45
+b7f049a2,Riley Martinez,riley.martinez.11@example.com,4449.5,2025-11-01,APAC,Electronics,Credit Card,True,Smart Watch,55
+c91f8fed,Jamie Garcia,jamie.garcia.70@example.com,2535.98,2025-08-18,LATAM,Automotive,Credit Card,True,Smart Watch,36
+94b8a2b6,Alex Wong,alex.wong.80@example.com,1880.52,2025-04-01,North America,Fashion,Bank Transfer,False,Mobile,5
+df087c9e,Alex Smith,alex.smith.18@example.com,1334.34,2025-12-24,Europe,Automotive,Bank Transfer,False,Tablet,18
+42d405b2,Jordan Brown,jordan.brown.96@example.com,4568.55,2025-10-01,APAC,Electronics,Credit Card,False,Desktop,61
+cc22d047,Riley Martinez,riley.martinez.46@example.com,2315.11,2026-01-26,EMEA,Fashion,Apple Pay,False,Desktop,51
+e5b31189,Morgan Smith,morgan.smith.57@example.com,340.26,2025-06-27,EMEA,Home & Garden,PayPal,False,Mobile,4
+e3a3ff2e,Riley Garcia,riley.garcia.79@example.com,2943.32,2025-09-22,Europe,Fashion,Bank Transfer,True,Tablet,55
+beedf8ea,Jamie Garcia,jamie.garcia.36@example.com,3196.3,2025-03-02,EMEA,Automotive,PayPal,True,Tablet,87
+3707b96c,Alex Doe,alex.doe.84@example.com,138.91,2026-01-28,APAC,Home & Garden,Crypto,True,Tablet,43
+8d4d367e,Avery Brown,avery.brown.39@example.com,1515.95,2025-10-12,North America,Electronics,Credit Card,True,Desktop,1
+4cb6898d,Alex Martinez,alex.martinez.59@example.com,125.17,2025-12-08,EMEA,Books,Crypto,False,Tablet,30
+d4b7cec7,Taylor Brown,taylor.brown.54@example.com,3404.93,2025-02-09,Europe,Home & Garden,Credit Card,False,Smart Watch,15
+496e9e4a,Jordan Smith,jordan.smith.42@example.com,3955.89,2025-03-10,LATAM,Electronics,Crypto,False,Mobile,2
+eea923c6,Avery Lee,avery.lee.18@example.com,1113.4,2025-05-30,North America,Books,Apple Pay,True,Smart Watch,5
+2aa64466,Riley Doe,riley.doe.32@example.com,1118.65,2025-04-04,APAC,Electronics,Crypto,False,Desktop,51
+77d53265,Jordan Martinez,jordan.martinez.10@example.com,4654.0,2025-03-11,Europe,Automotive,Credit Card,False,Mobile,70
+31f7d5f8,Casey Doe,casey.doe.56@example.com,3952.46,2026-01-26,Europe,Home & Garden,Bank Transfer,True,Smart Watch,56
+ea717abe,Jordan Lee,jordan.lee.88@example.com,346.73,2025-12-06,North America,Electronics,PayPal,False,Desktop,43
+d09d29c8,Morgan Wong,morgan.wong.34@example.com,684.22,2025-03-12,North America,Home & Garden,PayPal,True,Tablet,77
+02db5d82,Avery Martinez,avery.martinez.54@example.com,1942.52,2025-11-27,LATAM,Electronics,Apple Pay,False,Desktop,18
+d6d1f724,Morgan Johnson,morgan.johnson.23@example.com,636.32,2025-06-23,Europe,Electronics,Credit Card,False,Tablet,84
+e703243c,Jordan Martinez,jordan.martinez.47@example.com,465.72,2025-08-01,APAC,Fashion,Apple Pay,False,Desktop,70
+25dd0777,Riley Johnson,riley.johnson.39@example.com,1267.41,2025-06-09,Europe,Books,PayPal,False,Tablet,67
+5f53a466,Taylor Johnson,taylor.johnson.65@example.com,3299.92,2025-12-07,EMEA,Home & Garden,Apple Pay,True,Tablet,85
+56607d01,Taylor Smith,taylor.smith.72@example.com,3685.5,2025-03-10,North America,Electronics,Credit Card,True,Desktop,11
+9fe94ac8,Riley Wong,riley.wong.43@example.com,1628.53,2025-11-11,EMEA,Home & Garden,PayPal,True,Smart Watch,65
+af4d4483,Taylor Garcia,taylor.garcia.38@example.com,606.46,2025-05-04,EMEA,Books,PayPal,False,Smart Watch,36
+7aa6b651,Morgan Smith,morgan.smith.99@example.com,3542.45,2025-02-26,North America,Home & Garden,Crypto,False,Smart Watch,22
+0a593e62,Casey Lee,casey.lee.25@example.com,2295.6,2025-07-16,North America,Books,Crypto,False,Mobile,23
+672c9220,Avery Johnson,avery.johnson.33@example.com,714.59,2025-06-12,APAC,Books,Bank Transfer,True,Smart Watch,91
+36464147,Riley Johnson,riley.johnson.49@example.com,1952.09,2025-02-15,APAC,Electronics,Bank Transfer,False,Mobile,51
+00357934,Alex Wong,alex.wong.47@example.com,3848.49,2025-07-27,LATAM,Electronics,Apple Pay,True,Desktop,51
+fa23bd0e,Avery Brown,avery.brown.30@example.com,2712.1,2025-06-18,Europe,Automotive,Apple Pay,True,Tablet,44
+b76b55c0,Jamie Wong,jamie.wong.37@example.com,3510.64,2025-07-10,APAC,Books,Crypto,True,Tablet,29
+08611148,Morgan Smith,morgan.smith.81@example.com,1656.33,2025-02-11,North America,Automotive,Apple Pay,True,Desktop,67
+940080f7,Alex Wong,alex.wong.80@example.com,4298.16,2025-05-07,APAC,Books,Crypto,True,Mobile,63
+851d5e64,Avery Brown,avery.brown.57@example.com,4939.97,2025-04-19,North America,Electronics,PayPal,False,Desktop,81
+ad1d5630,Casey Lee,casey.lee.80@example.com,95.96,2025-03-30,LATAM,Fashion,Credit Card,False,Mobile,25
+4dd8e7d6,Casey Wong,casey.wong.42@example.com,783.06,2025-05-08,APAC,Automotive,Apple Pay,False,Desktop,40
+4568029a,Morgan Lee,morgan.lee.11@example.com,3220.11,2025-02-26,Europe,Home & Garden,PayPal,True,Mobile,55
+6ab2003a,Jamie Martinez,jamie.martinez.63@example.com,3407.58,2025-08-12,LATAM,Automotive,Crypto,True,Mobile,42
+d91f2072,Alex Lee,alex.lee.40@example.com,3809.39,2025-09-19,North America,Books,Crypto,True,Mobile,70
+bea8b39d,Taylor Martinez,taylor.martinez.79@example.com,886.28,2026-01-24,LATAM,Home & Garden,Bank Transfer,True,Tablet,57
+7adafe0f,Avery Smith,avery.smith.62@example.com,4460.7,2026-01-10,EMEA,Electronics,PayPal,False,Smart Watch,17
+78c525e8,Jordan Johnson,jordan.johnson.43@example.com,852.96,2025-12-15,EMEA,Books,Apple Pay,True,Mobile,33
+fd079c88,Taylor Johnson,taylor.johnson.35@example.com,2490.66,2025-11-06,Europe,Fashion,Apple Pay,True,Desktop,89
+f605c376,Casey Johnson,casey.johnson.98@example.com,2244.04,2025-05-29,LATAM,Books,Crypto,True,Desktop,67
+35ea3362,Morgan Johnson,morgan.johnson.66@example.com,1051.69,2025-12-06,LATAM,Electronics,Crypto,True,Smart Watch,36
+f7496f22,Casey Wong,casey.wong.99@example.com,3219.95,2025-04-12,North America,Electronics,Bank Transfer,True,Desktop,66
+58042e4a,Morgan Brown,morgan.brown.94@example.com,3287.22,2025-06-02,North America,Automotive,Bank Transfer,False,Smart Watch,81
+5f6a895f,Taylor Martinez,taylor.martinez.83@example.com,2048.51,2025-04-20,Europe,Books,Apple Pay,False,Tablet,67
+8d0a265d,Taylor Lee,taylor.lee.97@example.com,221.27,2025-11-29,North America,Electronics,Bank Transfer,False,Mobile,33
+fce6645c,Jordan Johnson,jordan.johnson.79@example.com,1851.07,2025-09-23,North America,Electronics,Crypto,True,Mobile,3
+4fda718e,Riley Brown,riley.brown.96@example.com,1712.32,2025-12-12,North America,Home & Garden,Crypto,False,Desktop,40
+9a64bf89,Jamie Smith,jamie.smith.91@example.com,677.67,2025-02-21,LATAM,Books,Bank Transfer,True,Smart Watch,87
+4228bd5b,Casey Doe,casey.doe.56@example.com,1127.37,2025-11-23,EMEA,Books,Bank Transfer,False,Smart Watch,16
+7a3a67a2,Alex Doe,alex.doe.33@example.com,1651.32,2025-02-26,APAC,Electronics,Credit Card,False,Tablet,10
+517f3740,Jordan Doe,jordan.doe.72@example.com,139.8,2026-01-11,North America,Books,Crypto,False,Smart Watch,16
+62096f17,Jordan Lee,jordan.lee.96@example.com,1224.45,2025-05-18,North America,Automotive,Crypto,False,Mobile,57
+eaaf807a,Jamie Smith,jamie.smith.48@example.com,3815.08,2025-08-21,North America,Books,Bank Transfer,True,Desktop,73
+afd4c540,Avery Lee,avery.lee.78@example.com,2238.6,2025-09-17,LATAM,Books,Credit Card,False,Smart Watch,48
+815b1d1d,Avery Garcia,avery.garcia.43@example.com,4757.9,2025-04-13,EMEA,Home & Garden,Credit Card,False,Desktop,28
+8a0a50bc,Jordan Lee,jordan.lee.64@example.com,391.05,2025-07-31,North America,Automotive,Bank Transfer,False,Smart Watch,39
+1057fc72,Avery Doe,avery.doe.87@example.com,667.97,2025-09-29,APAC,Electronics,Bank Transfer,True,Smart Watch,65
+839436ff,Jamie Martinez,jamie.martinez.25@example.com,2598.89,2025-09-17,APAC,Automotive,Credit Card,True,Mobile,23
+3d0147d8,Jordan Wong,jordan.wong.70@example.com,3958.05,2025-01-29,EMEA,Home & Garden,Apple Pay,True,Desktop,16
+490d68e0,Casey Wong,casey.wong.98@example.com,3970.65,2026-01-26,Europe,Automotive,Bank Transfer,True,Desktop,49
+4ac7e1d5,Morgan Lee,morgan.lee.91@example.com,815.09,2025-04-10,EMEA,Fashion,Apple Pay,False,Smart Watch,76
+8daeeb5e,Morgan Wong,morgan.wong.47@example.com,4158.98,2025-08-24,EMEA,Electronics,PayPal,False,Desktop,26
+6a5703b7,Taylor Johnson,taylor.johnson.63@example.com,1880.26,2025-12-11,APAC,Automotive,Crypto,False,Tablet,53
+dc33dd41,Taylor Doe,taylor.doe.52@example.com,778.04,2025-09-30,Europe,Automotive,Credit Card,True,Tablet,59
+f524e686,Jordan Garcia,jordan.garcia.29@example.com,4908.41,2025-07-11,LATAM,Fashion,PayPal,True,Desktop,22
+f2d65784,Riley Martinez,riley.martinez.46@example.com,4113.37,2025-03-19,LATAM,Electronics,Apple Pay,True,Smart Watch,53
+37090635,Avery Garcia,avery.garcia.21@example.com,1697.41,2025-05-07,APAC,Fashion,PayPal,True,Mobile,79
+73c6e39e,Jamie Brown,jamie.brown.65@example.com,1076.47,2025-07-01,APAC,Home & Garden,Credit Card,True,Smart Watch,6
+57d6b81f,Avery Brown,avery.brown.90@example.com,274.66,2025-12-13,EMEA,Books,Apple Pay,True,Mobile,50
+78c2bc3c,Alex Lee,alex.lee.34@example.com,4982.79,2025-11-28,EMEA,Automotive,Apple Pay,False,Tablet,52
+06b86741,Morgan Lee,morgan.lee.40@example.com,168.54,2025-01-29,LATAM,Home & Garden,Crypto,False,Tablet,94
+e32387cd,Morgan Lee,morgan.lee.91@example.com,2793.33,2025-12-12,LATAM,Automotive,Credit Card,False,Tablet,65
+186ff364,Riley Garcia,riley.garcia.75@example.com,2900.16,2025-12-07,LATAM,Books,Apple Pay,False,Smart Watch,12
+34a3af57,Riley Brown,riley.brown.52@example.com,4106.75,2025-09-18,North America,Books,Crypto,True,Smart Watch,57
+3aa2ecba,Jamie Brown,jamie.brown.91@example.com,57.61,2025-04-05,Europe,Books,Apple Pay,False,Desktop,86
+bbb16cbd,Avery Lee,avery.lee.52@example.com,4639.79,2025-11-16,APAC,Electronics,Crypto,True,Mobile,43
+3bb2237b,Alex Wong,alex.wong.61@example.com,1984.37,2025-12-09,Europe,Books,Credit Card,True,Tablet,70
+acfeb6f1,Jamie Garcia,jamie.garcia.49@example.com,3493.85,2025-07-14,EMEA,Fashion,Apple Pay,True,Desktop,69
+19be5a82,Alex Smith,alex.smith.94@example.com,3454.02,2025-08-08,APAC,Electronics,Apple Pay,True,Tablet,8
+15b67dcf,Alex Wong,alex.wong.96@example.com,3890.11,2025-10-07,APAC,Home & Garden,Credit Card,False,Mobile,52
+2bc4f766,Avery Martinez,avery.martinez.61@example.com,3946.19,2025-02-09,LATAM,Home & Garden,Credit Card,True,Tablet,45
+1c6fa332,Alex Doe,alex.doe.33@example.com,1974.03,2025-05-14,APAC,Home & Garden,Bank Transfer,False,Mobile,42
+81bcb83b,Jordan Brown,jordan.brown.75@example.com,3748.7,2025-08-30,LATAM,Home & Garden,Credit Card,True,Smart Watch,98
+510205ca,Jordan Johnson,jordan.johnson.10@example.com,3751.99,2025-11-18,LATAM,Books,Crypto,False,Desktop,67
+f6a3e305,Jamie Smith,jamie.smith.27@example.com,2299.96,2025-05-08,North America,Books,PayPal,False,Desktop,63
+40c4b0ae,Alex Martinez,alex.martinez.82@example.com,2819.36,2025-08-02,North America,Automotive,Credit Card,False,Mobile,54
+b1cb8569,Taylor Lee,taylor.lee.97@example.com,4935.77,2025-09-29,EMEA,Fashion,Crypto,False,Smart Watch,63
+07ca2672,Morgan Garcia,morgan.garcia.35@example.com,1632.52,2025-05-22,North America,Home & Garden,Crypto,False,Desktop,1
+309f14f1,Casey Wong,casey.wong.26@example.com,4770.53,2025-07-22,North America,Automotive,Bank Transfer,True,Mobile,46
+8a8b4256,Jamie Wong,jamie.wong.10@example.com,3720.01,2025-01-31,North America,Electronics,Credit Card,False,Mobile,15
+f9bedf4e,Riley Garcia,riley.garcia.84@example.com,2338.83,2025-09-12,LATAM,Books,Crypto,False,Tablet,93
+00389dc7,Riley Brown,riley.brown.15@example.com,2350.2,2025-08-07,LATAM,Home & Garden,Crypto,True,Desktop,1
+2bffb98d,Casey Brown,casey.brown.16@example.com,2068.21,2025-03-11,Europe,Fashion,Credit Card,True,Smart Watch,66
+0713e1e9,Casey Brown,casey.brown.87@example.com,1581.36,2025-03-03,EMEA,Automotive,Apple Pay,False,Tablet,46
+aae34c3f,Taylor Garcia,taylor.garcia.14@example.com,1730.85,2025-05-18,EMEA,Books,Apple Pay,False,Desktop,55
+e3aeac70,Riley Lee,riley.lee.53@example.com,4737.42,2025-05-05,Europe,Books,Apple Pay,False,Desktop,10
+d4c6c217,Avery Johnson,avery.johnson.19@example.com,969.96,2025-04-06,Europe,Automotive,Crypto,False,Tablet,58
+25fed800,Alex Lee,alex.lee.72@example.com,3216.11,2026-01-13,EMEA,Automotive,Apple Pay,True,Desktop,13
+00afc1a8,Jamie Martinez,jamie.martinez.95@example.com,2085.0,2025-11-21,EMEA,Fashion,Credit Card,False,Smart Watch,57
+5572a24f,Avery Lee,avery.lee.92@example.com,710.2,2025-07-05,Europe,Home & Garden,Apple Pay,False,Smart Watch,70
+1f450109,Riley Brown,riley.brown.54@example.com,1078.71,2025-04-16,Europe,Electronics,Apple Pay,False,Mobile,12
+cb92f991,Jordan Garcia,jordan.garcia.16@example.com,1445.35,2025-04-30,EMEA,Automotive,PayPal,False,Desktop,94
+20df2914,Jordan Wong,jordan.wong.80@example.com,4393.87,2025-02-19,EMEA,Fashion,Credit Card,True,Mobile,74
+244097b0,Riley Garcia,riley.garcia.51@example.com,4052.16,2025-09-30,Europe,Home & Garden,Credit Card,True,Mobile,12
+49ce54ca,Taylor Wong,taylor.wong.74@example.com,1919.81,2025-03-16,LATAM,Electronics,Bank Transfer,True,Desktop,1
+a766edfd,Taylor Johnson,taylor.johnson.34@example.com,3372.91,2025-10-29,LATAM,Books,Apple Pay,True,Desktop,87
+7aadacdb,Jordan Wong,jordan.wong.94@example.com,2195.7,2025-09-15,LATAM,Automotive,Credit Card,False,Desktop,91
+929736bc,Casey Smith,casey.smith.31@example.com,4425.22,2025-03-23,EMEA,Electronics,Crypto,False,Tablet,45
+b9a1c597,Alex Martinez,alex.martinez.68@example.com,1026.64,2025-12-15,LATAM,Home & Garden,Crypto,True,Desktop,99
+fff9b2f3,Jordan Martinez,jordan.martinez.28@example.com,1145.72,2026-01-02,North America,Fashion,Bank Transfer,True,Mobile,63
+1569ad83,Riley Johnson,riley.johnson.27@example.com,2977.47,2025-09-28,APAC,Electronics,PayPal,False,Tablet,71
+fbd58512,Jamie Garcia,jamie.garcia.85@example.com,3759.01,2026-01-01,North America,Home & Garden,Crypto,True,Mobile,74
+cb5f30da,Jamie Lee,jamie.lee.67@example.com,1027.66,2025-03-21,LATAM,Electronics,Bank Transfer,False,Mobile,65
+82d1f5de,Jordan Smith,jordan.smith.21@example.com,1455.63,2026-01-06,Europe,Fashion,Crypto,False,Mobile,43
+3c2ea2cc,Casey Johnson,casey.johnson.94@example.com,4460.37,2025-06-10,EMEA,Electronics,Credit Card,False,Mobile,76
+b3a4bcba,Riley Smith,riley.smith.63@example.com,4359.28,2025-04-21,North America,Electronics,Apple Pay,False,Tablet,87
+2091c7ac,Casey Lee,casey.lee.21@example.com,4920.02,2025-02-20,Europe,Electronics,PayPal,False,Desktop,87
+0fa83af9,Avery Smith,avery.smith.22@example.com,368.53,2025-09-27,LATAM,Automotive,Crypto,True,Mobile,37
+051cabf5,Casey Lee,casey.lee.91@example.com,383.43,2025-06-05,EMEA,Books,Credit Card,True,Mobile,58
+c3294fa4,Taylor Martinez,taylor.martinez.52@example.com,3665.92,2025-07-10,LATAM,Electronics,Apple Pay,True,Tablet,66
+0e53d15f,Jordan Martinez,jordan.martinez.66@example.com,3458.37,2025-03-01,APAC,Electronics,Crypto,True,Smart Watch,54
+d5f97489,Jamie Martinez,jamie.martinez.38@example.com,1070.78,2025-02-09,APAC,Books,Crypto,True,Smart Watch,81
+f5e3ad95,Riley Brown,riley.brown.81@example.com,1143.32,2025-02-09,North America,Books,Apple Pay,True,Smart Watch,91
+54848780,Alex Johnson,alex.johnson.51@example.com,1212.2,2026-01-08,Europe,Automotive,Apple Pay,False,Tablet,21
+21da5ec0,Riley Garcia,riley.garcia.73@example.com,1418.52,2025-05-24,EMEA,Fashion,Bank Transfer,True,Smart Watch,51
+9dcabd23,Taylor Doe,taylor.doe.21@example.com,2017.7,2025-02-13,APAC,Automotive,Credit Card,False,Smart Watch,65
+9997bafa,Riley Wong,riley.wong.85@example.com,4238.14,2025-09-25,Europe,Fashion,Credit Card,False,Mobile,63
+584b76d1,Alex Wong,alex.wong.56@example.com,4403.2,2025-06-19,Europe,Automotive,Credit Card,False,Desktop,78
+060b6655,Casey Martinez,casey.martinez.59@example.com,2364.12,2025-02-09,North America,Books,Crypto,True,Tablet,15
+7721ed6f,Riley Martinez,riley.martinez.24@example.com,3934.5,2025-07-17,Europe,Books,Apple Pay,True,Mobile,24
+e7243f7f,Casey Martinez,casey.martinez.73@example.com,4591.83,2025-08-09,LATAM,Automotive,Credit Card,False,Smart Watch,97
+9a3d922f,Alex Smith,alex.smith.26@example.com,4778.63,2026-01-21,APAC,Automotive,Apple Pay,True,Mobile,4
+f603a128,Alex Doe,alex.doe.19@example.com,3351.33,2025-07-05,APAC,Electronics,Apple Pay,False,Tablet,22
+7d20cb6d,Riley Brown,riley.brown.39@example.com,2655.23,2025-06-07,EMEA,Fashion,PayPal,True,Smart Watch,79
+f2a9c552,Avery Martinez,avery.martinez.63@example.com,4559.0,2025-02-19,EMEA,Fashion,Crypto,False,Desktop,41
+dd9bf94f,Avery Lee,avery.lee.16@example.com,2781.39,2025-12-16,EMEA,Home & Garden,Bank Transfer,False,Desktop,9
+614032ef,Morgan Wong,morgan.wong.19@example.com,3462.71,2025-08-17,EMEA,Fashion,Credit Card,True,Desktop,38
+9c72a6f3,Jordan Brown,jordan.brown.70@example.com,1369.66,2025-06-19,North America,Automotive,Credit Card,False,Smart Watch,10
+2b2360cd,Morgan Doe,morgan.doe.48@example.com,1523.08,2025-03-27,Europe,Electronics,Bank Transfer,False,Tablet,68
+e4b733fd,Riley Martinez,riley.martinez.79@example.com,1681.2,2026-01-23,LATAM,Home & Garden,Credit Card,False,Smart Watch,60
+9a33d971,Casey Garcia,casey.garcia.99@example.com,3904.21,2025-11-17,APAC,Electronics,Bank Transfer,True,Mobile,76
+cdb4cdcc,Jamie Lee,jamie.lee.22@example.com,2345.59,2025-01-30,EMEA,Home & Garden,PayPal,False,Desktop,52
+1344307b,Jamie Garcia,jamie.garcia.81@example.com,615.86,2025-05-08,APAC,Books,Bank Transfer,True,Tablet,30
+cc4f4e24,Taylor Wong,taylor.wong.63@example.com,3972.41,2025-09-29,North America,Fashion,Bank Transfer,False,Mobile,54
+ef76c4c3,Alex Doe,alex.doe.45@example.com,910.4,2026-01-03,North America,Home & Garden,PayPal,False,Tablet,79
+1983bbba,Jordan Garcia,jordan.garcia.97@example.com,1202.82,2025-08-21,EMEA,Fashion,Bank Transfer,False,Desktop,86
+12476d3e,Alex Martinez,alex.martinez.35@example.com,1105.63,2025-08-14,North America,Books,Bank Transfer,False,Mobile,5
+c430d695,Jamie Garcia,jamie.garcia.38@example.com,1740.66,2025-09-30,LATAM,Automotive,Bank Transfer,False,Smart Watch,14
+0aa1ed2a,Riley Wong,riley.wong.56@example.com,78.46,2025-11-23,LATAM,Home & Garden,Crypto,True,Smart Watch,1
+7c593ea5,Jamie Doe,jamie.doe.16@example.com,4828.45,2025-11-10,APAC,Automotive,Apple Pay,False,Desktop,3
+e1529d05,Alex Johnson,alex.johnson.71@example.com,2438.96,2025-05-09,APAC,Home & Garden,Apple Pay,False,Smart Watch,54
+0b97f539,Riley Brown,riley.brown.65@example.com,3359.48,2025-03-25,EMEA,Books,Credit Card,True,Mobile,14
+870d6efd,Alex Lee,alex.lee.97@example.com,2558.28,2025-11-04,LATAM,Home & Garden,Apple Pay,True,Tablet,88
+387edcc2,Taylor Martinez,taylor.martinez.32@example.com,3587.52,2025-05-10,LATAM,Home & Garden,Credit Card,False,Mobile,86
+8a4dae4d,Casey Martinez,casey.martinez.92@example.com,4558.84,2025-07-30,APAC,Books,Apple Pay,True,Smart Watch,52
+7116535d,Jamie Doe,jamie.doe.75@example.com,3690.3,2025-03-24,APAC,Electronics,Crypto,True,Mobile,79
+942decd7,Jamie Doe,jamie.doe.83@example.com,864.01,2025-06-14,Europe,Home & Garden,PayPal,False,Tablet,58
+b5d34c8e,Riley Garcia,riley.garcia.32@example.com,3664.45,2026-01-09,North America,Automotive,PayPal,False,Mobile,28
+65cbeb8c,Casey Smith,casey.smith.44@example.com,3314.65,2025-11-17,Europe,Home & Garden,Bank Transfer,True,Tablet,18
+7f46ead0,Morgan Garcia,morgan.garcia.87@example.com,767.0,2025-07-05,APAC,Automotive,Apple Pay,False,Desktop,41
+9819efb4,Alex Smith,alex.smith.82@example.com,498.4,2025-04-26,North America,Fashion,PayPal,True,Desktop,13
+fb48d70d,Avery Lee,avery.lee.83@example.com,2122.74,2025-06-26,North America,Automotive,Bank Transfer,True,Tablet,1
+3e011bf4,Riley Lee,riley.lee.99@example.com,537.33,2026-01-02,EMEA,Fashion,Bank Transfer,True,Mobile,79
+5e1ce31d,Morgan Brown,morgan.brown.59@example.com,1031.2,2025-03-24,Europe,Automotive,PayPal,True,Desktop,67
+b3c4e343,Casey Wong,casey.wong.30@example.com,3329.23,2025-06-14,EMEA,Books,Credit Card,True,Tablet,96
+d58a5592,Alex Johnson,alex.johnson.51@example.com,73.8,2025-12-09,EMEA,Automotive,Crypto,True,Mobile,21
+0bff6d18,Alex Martinez,alex.martinez.84@example.com,4966.56,2026-01-19,Europe,Electronics,Apple Pay,False,Tablet,66
+3cc635b3,Casey Johnson,casey.johnson.95@example.com,3280.08,2025-03-24,APAC,Electronics,Apple Pay,False,Tablet,5
+b2a0e47f,Jamie Johnson,jamie.johnson.51@example.com,1185.39,2025-01-30,LATAM,Home & Garden,Crypto,False,Smart Watch,4
+c74df681,Riley Lee,riley.lee.33@example.com,134.35,2025-07-22,EMEA,Electronics,Bank Transfer,True,Desktop,56
+561aa86b,Taylor Smith,taylor.smith.64@example.com,4790.08,2026-01-09,APAC,Books,Crypto,False,Desktop,77
+d3d2e782,Riley Johnson,riley.johnson.68@example.com,2447.09,2025-12-03,Europe,Books,Bank Transfer,True,Tablet,48
+9de971c4,Morgan Wong,morgan.wong.80@example.com,1618.66,2025-12-09,APAC,Fashion,PayPal,True,Smart Watch,31
+91aa45bc,Avery Martinez,avery.martinez.93@example.com,4136.46,2025-11-30,LATAM,Fashion,Apple Pay,False,Mobile,92
+2ef91dd7,Avery Doe,avery.doe.22@example.com,1265.83,2025-04-29,LATAM,Fashion,Credit Card,True,Desktop,40
+5bf561f5,Morgan Garcia,morgan.garcia.29@example.com,1106.53,2025-11-10,LATAM,Electronics,PayPal,False,Tablet,47
+d1eba2df,Morgan Garcia,morgan.garcia.60@example.com,1454.34,2025-02-22,Europe,Fashion,Crypto,True,Tablet,9
+7d159bc7,Avery Johnson,avery.johnson.64@example.com,610.69,2025-03-13,LATAM,Books,Apple Pay,False,Mobile,26
+81f72563,Taylor Smith,taylor.smith.78@example.com,3084.42,2025-06-16,EMEA,Electronics,Credit Card,True,Mobile,44
+aa657240,Jordan Garcia,jordan.garcia.88@example.com,3750.27,2025-02-09,Europe,Books,Apple Pay,True,Mobile,27
+c11f07c5,Taylor Doe,taylor.doe.23@example.com,1084.98,2025-04-02,APAC,Automotive,Credit Card,True,Smart Watch,35
+776f49d1,Alex Lee,alex.lee.97@example.com,2405.88,2025-03-02,North America,Home & Garden,Crypto,True,Tablet,39
+af5cee5d,Jamie Garcia,jamie.garcia.38@example.com,3685.7,2025-07-23,North America,Electronics,Bank Transfer,False,Tablet,40
+c8037f45,Riley Garcia,riley.garcia.29@example.com,1717.85,2026-01-27,North America,Electronics,PayPal,True,Tablet,70
+4c85d8d9,Casey Lee,casey.lee.74@example.com,1122.9,2025-03-03,North America,Fashion,PayPal,True,Mobile,46
+52058e65,Morgan Johnson,morgan.johnson.61@example.com,2682.93,2025-09-22,APAC,Fashion,Apple Pay,True,Tablet,6
+39793d67,Taylor Smith,taylor.smith.44@example.com,3069.65,2025-09-27,EMEA,Fashion,Crypto,True,Mobile,62
+796ab0d6,Morgan Lee,morgan.lee.81@example.com,1013.14,2025-12-08,LATAM,Electronics,Crypto,False,Desktop,36
+960acc0b,Jordan Martinez,jordan.martinez.90@example.com,4251.33,2025-03-15,Europe,Automotive,Crypto,False,Mobile,4
+f5e5a557,Jamie Johnson,jamie.johnson.73@example.com,4231.61,2025-08-18,APAC,Home & Garden,Bank Transfer,False,Smart Watch,95
+8a334cab,Taylor Wong,taylor.wong.86@example.com,347.53,2025-05-12,APAC,Electronics,Apple Pay,False,Tablet,52
+e5281d3e,Morgan Johnson,morgan.johnson.58@example.com,1953.73,2025-12-29,APAC,Home & Garden,PayPal,False,Desktop,21
+1085b754,Avery Smith,avery.smith.21@example.com,1121.82,2025-07-10,APAC,Electronics,Bank Transfer,False,Mobile,96
+44c4f112,Casey Smith,casey.smith.81@example.com,1856.84,2026-01-15,EMEA,Fashion,Apple Pay,True,Desktop,15
+68867732,Avery Johnson,avery.johnson.40@example.com,1599.68,2025-07-01,EMEA,Books,Crypto,True,Smart Watch,46
+85a22a3d,Riley Doe,riley.doe.49@example.com,2401.66,2025-12-16,North America,Books,Bank Transfer,True,Mobile,37
+943dc5c3,Morgan Doe,morgan.doe.98@example.com,2976.63,2025-07-18,EMEA,Automotive,PayPal,False,Tablet,70
+e3406ff1,Casey Wong,casey.wong.48@example.com,135.63,2026-01-25,Europe,Automotive,Bank Transfer,False,Tablet,35
+d85292f0,Riley Wong,riley.wong.15@example.com,3883.34,2025-05-06,Europe,Automotive,Credit Card,False,Tablet,63
+fce0ceea,Jordan Martinez,jordan.martinez.32@example.com,2242.47,2025-08-12,Europe,Home & Garden,Crypto,True,Smart Watch,86
+6d818410,Jamie Garcia,jamie.garcia.30@example.com,1219.39,2025-04-24,Europe,Books,Apple Pay,True,Tablet,97
+0f605052,Taylor Johnson,taylor.johnson.77@example.com,4506.71,2025-12-22,Europe,Books,PayPal,True,Smart Watch,6
+a9b85086,Casey Martinez,casey.martinez.49@example.com,4067.68,2025-08-22,APAC,Automotive,Credit Card,True,Mobile,12
+e3679148,Jamie Doe,jamie.doe.74@example.com,1637.52,2025-07-23,North America,Home & Garden,Credit Card,False,Mobile,44
+647edd47,Alex Lee,alex.lee.37@example.com,756.16,2025-02-28,Europe,Electronics,Bank Transfer,True,Mobile,98
+871f9d47,Avery Martinez,avery.martinez.57@example.com,2208.58,2025-11-23,EMEA,Books,Credit Card,True,Desktop,63
+d9154af1,Alex Brown,alex.brown.67@example.com,2002.18,2025-02-22,APAC,Home & Garden,Bank Transfer,False,Mobile,45
+d5a5ac9e,Morgan Martinez,morgan.martinez.30@example.com,2151.08,2025-04-12,EMEA,Home & Garden,Bank Transfer,False,Mobile,69
+c8826fd3,Riley Smith,riley.smith.16@example.com,4523.9,2025-08-20,North America,Books,Credit Card,False,Smart Watch,35
+e89d9b33,Riley Martinez,riley.martinez.48@example.com,994.98,2025-10-31,Europe,Books,PayPal,True,Smart Watch,72
+2931310e,Riley Lee,riley.lee.48@example.com,2698.9,2025-08-29,LATAM,Home & Garden,PayPal,False,Tablet,2
+5095a1ea,Casey Johnson,casey.johnson.80@example.com,99.3,2025-05-04,APAC,Automotive,PayPal,False,Desktop,59
+691a337c,Avery Martinez,avery.martinez.77@example.com,4530.93,2025-08-20,EMEA,Home & Garden,PayPal,True,Smart Watch,84
+266398b7,Taylor Johnson,taylor.johnson.35@example.com,3177.93,2025-03-31,LATAM,Electronics,Apple Pay,False,Desktop,36
+8149ac00,Taylor Johnson,taylor.johnson.50@example.com,1088.76,2025-06-29,Europe,Fashion,Bank Transfer,True,Desktop,81
+40577c63,Jamie Lee,jamie.lee.98@example.com,3799.56,2025-05-26,APAC,Electronics,Apple Pay,False,Smart Watch,64
+c48a69cb,Jordan Smith,jordan.smith.97@example.com,673.28,2026-01-05,APAC,Fashion,Crypto,False,Smart Watch,30
+795bda36,Avery Wong,avery.wong.80@example.com,4886.46,2025-09-28,LATAM,Home & Garden,Apple Pay,False,Smart Watch,92
+774c2567,Jordan Smith,jordan.smith.30@example.com,501.61,2025-03-15,Europe,Fashion,Crypto,True,Smart Watch,11
+2cb64620,Morgan Brown,morgan.brown.13@example.com,3241.96,2025-04-20,Europe,Home & Garden,Credit Card,False,Desktop,43
+921f0594,Morgan Johnson,morgan.johnson.32@example.com,454.83,2025-05-28,North America,Books,Credit Card,False,Mobile,12
+1ed4fb91,Jamie Wong,jamie.wong.73@example.com,4984.49,2025-07-12,North America,Electronics,Crypto,False,Desktop,26
+04945d58,Riley Smith,riley.smith.88@example.com,3630.82,2025-09-23,Europe,Books,Credit Card,False,Desktop,80
+8901260a,Casey Doe,casey.doe.20@example.com,1257.85,2025-11-01,APAC,Automotive,Credit Card,False,Smart Watch,94
+8ba5ad17,Jamie Wong,jamie.wong.44@example.com,4042.33,2025-03-18,LATAM,Automotive,Bank Transfer,False,Desktop,67
+f0055320,Casey Wong,casey.wong.45@example.com,3296.47,2025-12-02,LATAM,Home & Garden,Apple Pay,True,Desktop,20
+04f818d2,Riley Lee,riley.lee.56@example.com,1141.82,2025-04-10,APAC,Fashion,Apple Pay,True,Smart Watch,43
+707ceb22,Alex Doe,alex.doe.47@example.com,1222.17,2025-12-14,Europe,Home & Garden,Credit Card,True,Tablet,58
+7b8bff2a,Jamie Garcia,jamie.garcia.12@example.com,3539.21,2025-04-04,APAC,Books,Apple Pay,False,Mobile,10
+404e23d3,Riley Brown,riley.brown.69@example.com,1214.06,2025-05-02,LATAM,Automotive,Credit Card,False,Tablet,47
+3d9f6196,Jamie Garcia,jamie.garcia.10@example.com,2087.05,2025-11-17,Europe,Books,Crypto,False,Mobile,42
+2a0166db,Taylor Brown,taylor.brown.10@example.com,730.34,2026-01-01,LATAM,Books,PayPal,False,Tablet,76
+49a92bfb,Jordan Doe,jordan.doe.90@example.com,2027.9,2025-08-19,EMEA,Electronics,PayPal,True,Desktop,64
+e9a3ca4f,Alex Lee,alex.lee.65@example.com,95.94,2025-05-31,LATAM,Home & Garden,Credit Card,False,Desktop,57
+bf389286,Casey Wong,casey.wong.64@example.com,2759.18,2025-03-27,APAC,Home & Garden,Bank Transfer,False,Tablet,69
+915398ca,Alex Garcia,alex.garcia.73@example.com,2567.36,2025-09-17,LATAM,Electronics,Credit Card,False,Smart Watch,48
+502e5066,Jordan Wong,jordan.wong.28@example.com,1198.86,2025-02-18,LATAM,Home & Garden,Credit Card,True,Tablet,75
+138220e2,Jamie Garcia,jamie.garcia.30@example.com,2394.21,2025-10-12,APAC,Automotive,Crypto,False,Desktop,2
+6aa91d4f,Avery Wong,avery.wong.39@example.com,4288.55,2025-03-06,APAC,Electronics,Apple Pay,True,Mobile,5
+526820d5,Riley Doe,riley.doe.62@example.com,1514.3,2025-09-08,North America,Electronics,Bank Transfer,False,Tablet,95
+2856b780,Jordan Wong,jordan.wong.69@example.com,314.7,2025-04-12,APAC,Automotive,Credit Card,False,Mobile,63
+1440ac6f,Morgan Smith,morgan.smith.58@example.com,2463.41,2025-01-29,Europe,Fashion,Bank Transfer,True,Tablet,71
+884b7556,Jamie Garcia,jamie.garcia.89@example.com,3031.73,2025-08-01,Europe,Home & Garden,Bank Transfer,True,Smart Watch,60
+4aa51c0d,Casey Garcia,casey.garcia.11@example.com,2992.41,2025-12-28,APAC,Automotive,Crypto,True,Desktop,99
+9113e535,Avery Johnson,avery.johnson.97@example.com,4647.0,2025-01-29,EMEA,Home & Garden,Apple Pay,True,Tablet,61
+0143e8a2,Jamie Garcia,jamie.garcia.21@example.com,412.31,2025-05-01,North America,Electronics,Crypto,True,Desktop,90
+698054c5,Alex Brown,alex.brown.35@example.com,4733.77,2025-05-17,North America,Electronics,Crypto,True,Mobile,43
+2da07b88,Morgan Wong,morgan.wong.85@example.com,3824.06,2025-02-28,LATAM,Home & Garden,Credit Card,False,Tablet,32
+de236940,Taylor Wong,taylor.wong.65@example.com,239.56,2025-03-12,APAC,Electronics,Credit Card,False,Tablet,31
+8a428230,Morgan Smith,morgan.smith.51@example.com,2821.21,2025-04-11,North America,Home & Garden,PayPal,False,Smart Watch,9
+8983eac8,Alex Johnson,alex.johnson.82@example.com,1576.87,2025-03-09,APAC,Home & Garden,Credit Card,True,Mobile,45
+f7548adc,Alex Lee,alex.lee.79@example.com,1084.08,2025-04-30,APAC,Automotive,Apple Pay,True,Tablet,31
+4a6620f9,Riley Smith,riley.smith.87@example.com,510.75,2025-11-21,North America,Automotive,Credit Card,False,Smart Watch,5
+4fc4ed8c,Riley Martinez,riley.martinez.14@example.com,4930.06,2025-06-23,EMEA,Automotive,Bank Transfer,False,Tablet,66
+68b0667d,Avery Martinez,avery.martinez.60@example.com,2743.41,2025-08-25,APAC,Electronics,Credit Card,True,Tablet,33
+b702e2ae,Alex Johnson,alex.johnson.33@example.com,886.36,2025-04-06,EMEA,Electronics,PayPal,True,Tablet,71
+b215aa8f,Avery Wong,avery.wong.22@example.com,4246.08,2025-03-18,North America,Books,Credit Card,False,Mobile,64
+81959797,Casey Doe,casey.doe.58@example.com,3290.77,2025-03-26,LATAM,Home & Garden,Crypto,False,Tablet,26
+fed37bc7,Jordan Brown,jordan.brown.56@example.com,521.45,2025-02-17,LATAM,Automotive,Bank Transfer,False,Tablet,17
+c944e456,Casey Brown,casey.brown.49@example.com,3713.29,2025-03-20,Europe,Books,Apple Pay,True,Smart Watch,19
+5be17b7f,Alex Lee,alex.lee.15@example.com,4350.33,2025-02-12,North America,Home & Garden,Bank Transfer,False,Desktop,24
+b3597a16,Casey Brown,casey.brown.83@example.com,3319.34,2025-12-21,APAC,Electronics,Crypto,False,Smart Watch,31
+603d7775,Avery Garcia,avery.garcia.69@example.com,4212.84,2025-12-27,North America,Home & Garden,Crypto,False,Mobile,94
+d53d748d,Avery Johnson,avery.johnson.51@example.com,1505.89,2025-09-24,EMEA,Fashion,Crypto,False,Smart Watch,33
+d824a501,Alex Lee,alex.lee.25@example.com,4474.69,2025-10-16,APAC,Home & Garden,Credit Card,True,Smart Watch,89
+11e93a6c,Riley Brown,riley.brown.39@example.com,1520.18,2025-04-01,North America,Books,Crypto,True,Mobile,95
+992a47bc,Taylor Smith,taylor.smith.12@example.com,3378.4,2025-05-30,EMEA,Books,Bank Transfer,True,Tablet,29
+c6f7ee33,Avery Johnson,avery.johnson.23@example.com,2234.58,2025-02-18,APAC,Home & Garden,Crypto,False,Smart Watch,32
+dbf0dba6,Jordan Martinez,jordan.martinez.51@example.com,2808.28,2025-12-08,EMEA,Automotive,Credit Card,False,Mobile,2
+f1623a00,Riley Martinez,riley.martinez.34@example.com,2428.47,2025-03-03,APAC,Fashion,Apple Pay,False,Tablet,14
+6efbb8e1,Jordan Lee,jordan.lee.27@example.com,3370.95,2025-06-28,Europe,Electronics,Credit Card,False,Tablet,22
+47f33679,Riley Lee,riley.lee.90@example.com,840.08,2025-12-17,APAC,Home & Garden,Crypto,True,Desktop,72
+7cdbc62c,Riley Doe,riley.doe.30@example.com,4078.4,2025-10-12,North America,Home & Garden,Crypto,True,Tablet,44
+c09d8c8a,Avery Martinez,avery.martinez.34@example.com,4584.43,2025-02-03,EMEA,Home & Garden,Bank Transfer,True,Smart Watch,26
+7cff24d3,Alex Smith,alex.smith.91@example.com,949.71,2026-01-28,APAC,Electronics,Credit Card,True,Smart Watch,48
+a4e2a6fb,Avery Wong,avery.wong.47@example.com,718.58,2025-02-02,EMEA,Fashion,PayPal,False,Desktop,19
+b311ebc8,Casey Smith,casey.smith.16@example.com,3164.75,2025-10-22,APAC,Fashion,Apple Pay,True,Desktop,31
+1d4b89d4,Riley Doe,riley.doe.72@example.com,3473.92,2025-06-01,APAC,Electronics,PayPal,True,Mobile,66
+1708551e,Jamie Lee,jamie.lee.83@example.com,895.5,2025-03-30,APAC,Automotive,PayPal,True,Mobile,54
+078fffe7,Riley Johnson,riley.johnson.69@example.com,3126.11,2025-10-14,North America,Books,Credit Card,True,Tablet,6
+12f5efdc,Jamie Wong,jamie.wong.14@example.com,2358.91,2025-07-04,North America,Automotive,Credit Card,True,Desktop,31
+cd632c20,Jordan Wong,jordan.wong.56@example.com,124.43,2025-06-26,Europe,Electronics,Bank Transfer,False,Smart Watch,58
+abc42685,Casey Johnson,casey.johnson.26@example.com,4924.24,2025-08-05,LATAM,Fashion,Credit Card,False,Desktop,69
+299814ff,Morgan Brown,morgan.brown.11@example.com,4505.63,2025-06-19,North America,Books,Bank Transfer,True,Desktop,8
+e309d7f1,Casey Lee,casey.lee.74@example.com,326.17,2025-09-24,North America,Automotive,Apple Pay,True,Mobile,47
+bcc1436f,Casey Martinez,casey.martinez.65@example.com,2600.16,2025-03-19,LATAM,Automotive,Credit Card,False,Desktop,95
+2d79f901,Taylor Martinez,taylor.martinez.99@example.com,4347.21,2025-05-15,LATAM,Home & Garden,PayPal,False,Smart Watch,96
+68a2beff,Casey Martinez,casey.martinez.79@example.com,1322.34,2025-08-28,APAC,Books,Credit Card,False,Mobile,53
+e2dd921b,Jordan Smith,jordan.smith.27@example.com,288.36,2025-09-30,Europe,Automotive,Credit Card,False,Desktop,63
+e888d615,Jamie Smith,jamie.smith.77@example.com,2633.02,2025-04-23,EMEA,Books,PayPal,True,Desktop,45
+564e5c2d,Morgan Garcia,morgan.garcia.75@example.com,4159.39,2025-11-21,North America,Home & Garden,Apple Pay,True,Desktop,97
+fb794087,Taylor Doe,taylor.doe.43@example.com,1602.28,2025-08-22,Europe,Home & Garden,Bank Transfer,True,Tablet,48
+624a8def,Riley Johnson,riley.johnson.40@example.com,2737.58,2025-03-12,North America,Books,Bank Transfer,True,Smart Watch,64
+dc5371f3,Riley Smith,riley.smith.26@example.com,4047.73,2025-08-14,LATAM,Fashion,Bank Transfer,True,Tablet,11
+a2bf4521,Jamie Wong,jamie.wong.90@example.com,3424.62,2025-12-13,Europe,Home & Garden,Credit Card,True,Smart Watch,70
+6bf684ec,Jamie Martinez,jamie.martinez.15@example.com,982.89,2025-12-05,APAC,Books,Crypto,True,Tablet,18
+0b6c5695,Jordan Wong,jordan.wong.62@example.com,4059.61,2025-07-17,EMEA,Books,Bank Transfer,True,Mobile,90
+eee589e7,Morgan Martinez,morgan.martinez.99@example.com,2841.48,2025-11-12,APAC,Fashion,Bank Transfer,True,Tablet,69
+50d82a24,Alex Smith,alex.smith.43@example.com,1090.68,2025-09-15,Europe,Automotive,PayPal,False,Tablet,32
+ee7617ab,Avery Doe,avery.doe.16@example.com,3807.11,2025-12-01,LATAM,Home & Garden,PayPal,False,Tablet,12
+0fa90deb,Avery Doe,avery.doe.11@example.com,4934.35,2025-07-04,EMEA,Electronics,Bank Transfer,True,Desktop,39
+e5888396,Jordan Johnson,jordan.johnson.51@example.com,2420.84,2025-08-08,APAC,Electronics,Crypto,True,Mobile,31
+e66f8134,Jamie Wong,jamie.wong.81@example.com,2980.25,2025-05-08,North America,Books,Bank Transfer,True,Tablet,70
+e41b7676,Morgan Johnson,morgan.johnson.62@example.com,209.32,2026-01-13,EMEA,Electronics,Apple Pay,True,Tablet,3
+6c53e4d1,Jamie Johnson,jamie.johnson.30@example.com,95.49,2025-04-27,EMEA,Books,Bank Transfer,False,Tablet,4
+04d2279f,Jamie Johnson,jamie.johnson.11@example.com,4783.79,2025-07-28,Europe,Electronics,PayPal,True,Mobile,63
+0fdbb500,Alex Lee,alex.lee.69@example.com,1911.04,2026-01-23,LATAM,Fashion,Credit Card,False,Tablet,66
+4c8df3ca,Morgan Lee,morgan.lee.82@example.com,624.41,2025-08-29,APAC,Fashion,Apple Pay,True,Smart Watch,79
+c704d2ae,Jamie Garcia,jamie.garcia.62@example.com,4304.82,2025-03-07,EMEA,Books,Bank Transfer,True,Mobile,46
+02d17a4f,Jordan Garcia,jordan.garcia.27@example.com,4438.81,2025-07-30,EMEA,Home & Garden,Apple Pay,False,Desktop,99
+327bc9cf,Casey Garcia,casey.garcia.68@example.com,3418.64,2025-08-24,LATAM,Books,Bank Transfer,True,Mobile,77
+35c8d41d,Avery Lee,avery.lee.56@example.com,1918.55,2026-01-13,LATAM,Books,Credit Card,True,Smart Watch,82
+c508b1bb,Alex Johnson,alex.johnson.29@example.com,2981.49,2025-04-28,Europe,Books,Apple Pay,False,Smart Watch,71
+8d97dc4d,Morgan Brown,morgan.brown.44@example.com,2594.87,2025-07-14,APAC,Electronics,PayPal,True,Tablet,74
+92c35128,Avery Doe,avery.doe.89@example.com,922.95,2025-02-01,Europe,Automotive,Crypto,True,Desktop,79
+44912331,Avery Johnson,avery.johnson.30@example.com,483.72,2025-11-19,Europe,Electronics,Apple Pay,False,Tablet,70
+89cf26d5,Casey Wong,casey.wong.87@example.com,2496.72,2025-03-09,EMEA,Books,Credit Card,True,Tablet,67
+fbdea36d,Alex Doe,alex.doe.15@example.com,3462.67,2025-02-26,APAC,Automotive,Crypto,True,Smart Watch,97
+d3672207,Alex Wong,alex.wong.56@example.com,233.92,2025-06-17,LATAM,Automotive,Bank Transfer,True,Mobile,97
+e604c6e5,Alex Wong,alex.wong.98@example.com,169.89,2025-05-21,APAC,Automotive,Crypto,True,Tablet,98
+c8c284cf,Morgan Doe,morgan.doe.20@example.com,82.91,2025-09-08,North America,Fashion,PayPal,False,Desktop,12
+e7e6871d,Taylor Smith,taylor.smith.42@example.com,1021.36,2026-01-08,LATAM,Electronics,Bank Transfer,False,Tablet,50
+5e04f363,Alex Garcia,alex.garcia.17@example.com,3598.7,2025-10-09,EMEA,Books,Apple Pay,False,Tablet,45
+e60eb63b,Riley Johnson,riley.johnson.95@example.com,1527.25,2025-03-21,North America,Electronics,Credit Card,False,Mobile,16
+cc147193,Alex Smith,alex.smith.46@example.com,2054.64,2025-11-07,LATAM,Electronics,Apple Pay,True,Smart Watch,8
+a3da7e34,Avery Garcia,avery.garcia.90@example.com,4110.78,2025-11-24,Europe,Books,Apple Pay,False,Mobile,6
+93105f5f,Avery Brown,avery.brown.98@example.com,3717.89,2025-02-28,APAC,Automotive,Crypto,True,Smart Watch,34
+464d7c53,Morgan Lee,morgan.lee.68@example.com,1957.69,2025-11-18,North America,Home & Garden,Apple Pay,True,Tablet,85
+5aa6f443,Avery Garcia,avery.garcia.85@example.com,3649.6,2025-04-10,EMEA,Books,Apple Pay,True,Mobile,42
+31a260e6,Alex Brown,alex.brown.10@example.com,1661.48,2025-05-19,Europe,Home & Garden,Apple Pay,False,Smart Watch,40
+a5c7efc3,Riley Brown,riley.brown.34@example.com,2346.46,2025-10-27,LATAM,Automotive,Apple Pay,True,Tablet,3
+635bc11f,Taylor Lee,taylor.lee.55@example.com,3773.28,2025-08-14,North America,Home & Garden,Bank Transfer,True,Mobile,78
+18670243,Casey Brown,casey.brown.21@example.com,4781.77,2025-03-05,Europe,Automotive,PayPal,True,Tablet,1
+77bfe504,Riley Brown,riley.brown.31@example.com,4910.79,2025-03-01,North America,Fashion,Crypto,False,Smart Watch,85
+0efcc076,Taylor Johnson,taylor.johnson.85@example.com,2406.62,2025-08-23,EMEA,Automotive,Credit Card,True,Smart Watch,6
+faaa2077,Morgan Smith,morgan.smith.42@example.com,1005.13,2025-06-07,Europe,Books,PayPal,False,Desktop,30
+f330daf2,Jordan Doe,jordan.doe.59@example.com,4838.41,2025-05-24,Europe,Automotive,Apple Pay,False,Tablet,76
+fdfd096e,Taylor Garcia,taylor.garcia.42@example.com,2494.5,2025-04-11,APAC,Fashion,PayPal,True,Tablet,38
+46705f69,Alex Smith,alex.smith.20@example.com,255.14,2025-10-05,APAC,Automotive,Apple Pay,False,Desktop,68
+7a73d60b,Morgan Martinez,morgan.martinez.67@example.com,1436.68,2025-06-21,North America,Fashion,Bank Transfer,False,Tablet,66
+f3f6ff9c,Alex Lee,alex.lee.10@example.com,1120.95,2025-08-11,North America,Automotive,Credit Card,False,Tablet,43
+7b806101,Casey Doe,casey.doe.94@example.com,3965.68,2026-01-11,North America,Automotive,Credit Card,True,Tablet,57
+19ad7b5a,Avery Smith,avery.smith.56@example.com,331.97,2025-11-19,LATAM,Electronics,PayPal,True,Tablet,17
+ce6a1bdd,Casey Lee,casey.lee.53@example.com,3150.18,2025-04-26,Europe,Home & Garden,Credit Card,True,Desktop,56
+9c6bc941,Avery Wong,avery.wong.59@example.com,2058.68,2026-01-07,Europe,Home & Garden,Crypto,False,Desktop,63
+e8be56d6,Avery Smith,avery.smith.37@example.com,367.69,2025-10-23,EMEA,Automotive,Credit Card,False,Tablet,78
+016f172a,Taylor Garcia,taylor.garcia.34@example.com,2250.26,2025-04-12,Europe,Fashion,Bank Transfer,False,Tablet,100
+f8db2a49,Avery Brown,avery.brown.88@example.com,3238.8,2025-09-18,Europe,Automotive,Apple Pay,True,Smart Watch,70
+1ef81a8d,Morgan Wong,morgan.wong.48@example.com,71.19,2025-11-26,APAC,Electronics,Bank Transfer,False,Tablet,22
+b788c2d8,Riley Johnson,riley.johnson.23@example.com,4678.08,2025-10-01,North America,Books,PayPal,False,Desktop,48
+c53538fd,Alex Brown,alex.brown.41@example.com,3951.26,2025-12-25,EMEA,Fashion,Apple Pay,False,Desktop,39
+d42a491a,Riley Martinez,riley.martinez.67@example.com,593.55,2025-12-21,North America,Home & Garden,Bank Transfer,True,Smart Watch,91
+727f05bf,Avery Lee,avery.lee.66@example.com,2337.69,2025-10-22,North America,Home & Garden,Apple Pay,True,Desktop,58
+36cc293f,Jordan Doe,jordan.doe.99@example.com,572.37,2026-01-21,LATAM,Home & Garden,Credit Card,False,Tablet,60
+36616f2c,Taylor Wong,taylor.wong.14@example.com,4055.66,2025-08-23,North America,Electronics,Credit Card,False,Smart Watch,7
+b247784e,Casey Brown,casey.brown.21@example.com,3105.76,2025-11-14,Europe,Books,Bank Transfer,True,Mobile,46
+dccccb62,Casey Lee,casey.lee.78@example.com,3581.91,2025-03-09,Europe,Automotive,PayPal,False,Desktop,13
+5779006a,Jordan Brown,jordan.brown.62@example.com,2032.23,2026-01-19,EMEA,Books,Apple Pay,False,Tablet,80
+d8478460,Riley Wong,riley.wong.56@example.com,1079.8,2025-10-04,APAC,Electronics,Bank Transfer,False,Mobile,46
+a1f129ed,Alex Martinez,alex.martinez.32@example.com,802.02,2025-09-24,LATAM,Automotive,PayPal,True,Smart Watch,77
+d9faf923,Morgan Wong,morgan.wong.60@example.com,2437.77,2025-03-01,Europe,Home & Garden,PayPal,False,Desktop,93
+7b14bc81,Taylor Garcia,taylor.garcia.29@example.com,2840.46,2025-05-19,Europe,Fashion,PayPal,False,Mobile,48
+6b8cc7ff,Jordan Lee,jordan.lee.75@example.com,2017.69,2025-06-01,EMEA,Books,Bank Transfer,False,Smart Watch,75
+8f03dcde,Casey Garcia,casey.garcia.18@example.com,1602.53,2025-03-26,LATAM,Fashion,PayPal,True,Mobile,95
+70662db4,Jordan Wong,jordan.wong.77@example.com,3659.07,2025-12-21,North America,Books,Apple Pay,True,Tablet,50
+94926f44,Jamie Lee,jamie.lee.79@example.com,4320.64,2025-07-31,Europe,Home & Garden,Credit Card,True,Mobile,35
+020aecdc,Taylor Smith,taylor.smith.32@example.com,276.07,2026-01-25,LATAM,Books,Credit Card,True,Tablet,1
+71baadf3,Morgan Martinez,morgan.martinez.16@example.com,4957.85,2025-07-12,North America,Electronics,PayPal,True,Tablet,88
+795c21f2,Jordan Garcia,jordan.garcia.45@example.com,3794.17,2025-12-10,Europe,Home & Garden,Apple Pay,False,Mobile,29
+f03b36d9,Jamie Smith,jamie.smith.90@example.com,2312.76,2026-01-27,Europe,Fashion,Apple Pay,False,Smart Watch,2
+9755ba13,Alex Garcia,alex.garcia.40@example.com,3002.76,2025-07-31,Europe,Home & Garden,PayPal,True,Smart Watch,81
+22a3a776,Morgan Wong,morgan.wong.43@example.com,3263.04,2025-05-04,EMEA,Home & Garden,Crypto,True,Mobile,63
+08d74b96,Avery Doe,avery.doe.45@example.com,423.99,2025-06-13,EMEA,Automotive,Crypto,False,Tablet,34
+349f4b33,Taylor Garcia,taylor.garcia.11@example.com,478.33,2025-08-29,APAC,Electronics,Apple Pay,True,Desktop,13
+7f14c9a5,Jordan Smith,jordan.smith.33@example.com,1546.1,2025-07-03,EMEA,Fashion,Crypto,True,Desktop,43
+b2494ea0,Riley Wong,riley.wong.99@example.com,3941.99,2025-07-29,North America,Automotive,Crypto,False,Tablet,68
+53c3bf5b,Taylor Lee,taylor.lee.46@example.com,786.29,2025-11-18,Europe,Home & Garden,Crypto,False,Desktop,93
+2051f30d,Riley Brown,riley.brown.91@example.com,3532.52,2025-08-08,LATAM,Automotive,Apple Pay,False,Smart Watch,82
+a1bf3f55,Jordan Doe,jordan.doe.74@example.com,1453.25,2025-09-29,Europe,Books,Credit Card,False,Smart Watch,30
+7f6f040b,Casey Johnson,casey.johnson.56@example.com,1503.83,2026-01-16,North America,Electronics,PayPal,False,Tablet,58
+48c73dab,Taylor Wong,taylor.wong.30@example.com,1041.25,2025-06-15,APAC,Automotive,Apple Pay,True,Mobile,6
+99434a97,Jamie Doe,jamie.doe.74@example.com,1179.71,2025-08-30,APAC,Fashion,Bank Transfer,True,Tablet,89
+6fcaddbb,Taylor Doe,taylor.doe.81@example.com,1263.57,2025-11-07,LATAM,Home & Garden,Credit Card,False,Tablet,32
+424b16e6,Jamie Johnson,jamie.johnson.56@example.com,140.65,2025-07-06,LATAM,Automotive,Apple Pay,True,Mobile,55
+e556b80a,Morgan Johnson,morgan.johnson.93@example.com,2365.16,2025-07-02,APAC,Electronics,Bank Transfer,True,Desktop,87
+b50a92fe,Casey Brown,casey.brown.41@example.com,3163.83,2025-06-05,EMEA,Automotive,Crypto,True,Desktop,69
+60ad96c8,Alex Lee,alex.lee.96@example.com,3072.29,2025-08-02,APAC,Fashion,Bank Transfer,True,Desktop,80
+99c011a8,Taylor Smith,taylor.smith.56@example.com,3788.11,2025-11-08,APAC,Electronics,Credit Card,True,Desktop,90
+612f1d99,Casey Smith,casey.smith.62@example.com,3438.14,2025-01-30,Europe,Electronics,Bank Transfer,False,Tablet,26
+bf4568aa,Riley Martinez,riley.martinez.94@example.com,4627.15,2026-01-19,Europe,Fashion,Crypto,False,Tablet,60
+65501570,Taylor Doe,taylor.doe.23@example.com,372.84,2025-02-12,APAC,Electronics,Apple Pay,False,Desktop,29
+58e9b15f,Jordan Doe,jordan.doe.92@example.com,2170.19,2025-05-30,North America,Home & Garden,Bank Transfer,True,Smart Watch,87
+6fdc59ca,Riley Johnson,riley.johnson.14@example.com,2016.04,2026-01-23,LATAM,Books,Bank Transfer,True,Mobile,16
+e7d6d6e6,Casey Martinez,casey.martinez.72@example.com,614.94,2025-08-10,North America,Fashion,Bank Transfer,False,Smart Watch,40
+4c300a5a,Riley Johnson,riley.johnson.10@example.com,2655.72,2025-04-15,LATAM,Electronics,Credit Card,False,Tablet,25
+48cf24a7,Avery Brown,avery.brown.17@example.com,49.11,2025-06-07,LATAM,Books,Apple Pay,False,Mobile,35
+74a85061,Riley Johnson,riley.johnson.56@example.com,4831.97,2026-01-14,Europe,Automotive,PayPal,True,Smart Watch,20
+8d3cd131,Jamie Wong,jamie.wong.23@example.com,3390.51,2025-09-16,North America,Automotive,Crypto,True,Mobile,46
+bcf774a4,Avery Brown,avery.brown.39@example.com,2312.99,2025-09-24,EMEA,Home & Garden,PayPal,False,Desktop,70
+70baba2e,Jordan Doe,jordan.doe.16@example.com,2363.92,2025-10-27,EMEA,Books,PayPal,True,Tablet,76
+8e4dd8b3,Riley Doe,riley.doe.85@example.com,4907.13,2025-09-03,LATAM,Books,Credit Card,False,Tablet,38
+fa94ea47,Jamie Brown,jamie.brown.35@example.com,914.02,2025-06-27,LATAM,Books,Apple Pay,False,Smart Watch,71
+3fead1ac,Avery Johnson,avery.johnson.30@example.com,4504.53,2025-12-01,LATAM,Fashion,Crypto,False,Mobile,32
+fb986c54,Jamie Garcia,jamie.garcia.80@example.com,247.09,2025-08-10,Europe,Fashion,Apple Pay,False,Mobile,52
+eded6cfa,Taylor Wong,taylor.wong.56@example.com,3863.95,2025-07-12,North America,Home & Garden,Bank Transfer,False,Tablet,51
+c0b300e4,Alex Brown,alex.brown.47@example.com,2284.87,2025-10-01,North America,Electronics,Credit Card,False,Mobile,61
+30d2af90,Alex Smith,alex.smith.72@example.com,731.76,2025-07-31,North America,Home & Garden,Crypto,True,Smart Watch,12
+b689e8df,Jordan Doe,jordan.doe.52@example.com,4854.73,2025-12-31,APAC,Fashion,Credit Card,False,Tablet,21
+3ae6196e,Morgan Doe,morgan.doe.93@example.com,3727.27,2025-03-26,APAC,Home & Garden,Apple Pay,True,Desktop,54
+1dd08a5b,Avery Martinez,avery.martinez.52@example.com,63.38,2025-04-13,EMEA,Fashion,Crypto,False,Tablet,12
+fa8047d4,Jamie Smith,jamie.smith.61@example.com,29.13,2025-12-10,EMEA,Fashion,Bank Transfer,True,Desktop,97
+44395a3f,Morgan Martinez,morgan.martinez.40@example.com,254.79,2025-04-04,North America,Books,PayPal,False,Smart Watch,35
+e17ed81e,Morgan Brown,morgan.brown.61@example.com,4769.89,2025-05-29,North America,Automotive,Credit Card,True,Mobile,89
+59969b5e,Jamie Johnson,jamie.johnson.50@example.com,1664.42,2025-11-10,Europe,Automotive,Credit Card,False,Mobile,71
+6012e5ed,Casey Doe,casey.doe.70@example.com,1934.78,2025-08-24,APAC,Fashion,Credit Card,False,Desktop,24
+442f5b2b,Morgan Wong,morgan.wong.60@example.com,2837.49,2025-03-10,APAC,Electronics,PayPal,True,Mobile,93
+6444f995,Jamie Brown,jamie.brown.42@example.com,296.82,2025-03-27,Europe,Books,Crypto,False,Smart Watch,94
+364ac1c3,Jamie Doe,jamie.doe.98@example.com,3073.95,2025-05-15,APAC,Automotive,PayPal,False,Mobile,89
+29a3a31a,Avery Smith,avery.smith.36@example.com,3652.18,2025-07-04,LATAM,Fashion,Apple Pay,True,Desktop,78
+7367d54b,Avery Wong,avery.wong.89@example.com,2767.92,2025-05-18,APAC,Home & Garden,Crypto,False,Desktop,55
+2700a4ec,Riley Lee,riley.lee.59@example.com,90.95,2025-11-07,North America,Fashion,Apple Pay,False,Tablet,79
+0515948e,Riley Johnson,riley.johnson.95@example.com,1698.16,2025-07-05,EMEA,Home & Garden,PayPal,False,Desktop,21
+865cc2d7,Morgan Garcia,morgan.garcia.43@example.com,2452.83,2026-01-02,Europe,Fashion,Bank Transfer,True,Tablet,36
+d5617867,Morgan Brown,morgan.brown.49@example.com,3450.58,2025-08-21,Europe,Automotive,Bank Transfer,False,Desktop,37
+4406124f,Taylor Johnson,taylor.johnson.81@example.com,288.76,2025-04-01,EMEA,Electronics,Apple Pay,False,Mobile,76
+b09c8511,Morgan Garcia,morgan.garcia.77@example.com,3346.49,2025-09-11,North America,Home & Garden,Bank Transfer,True,Desktop,88
+cb4cf781,Riley Doe,riley.doe.86@example.com,3352.7,2026-01-01,APAC,Fashion,Crypto,False,Mobile,69
+cdde16b7,Taylor Smith,taylor.smith.58@example.com,719.71,2025-06-19,EMEA,Home & Garden,Bank Transfer,False,Tablet,44
+4e1195ad,Taylor Martinez,taylor.martinez.29@example.com,1342.74,2025-09-23,LATAM,Books,Credit Card,False,Mobile,18
+2c683cb1,Jordan Smith,jordan.smith.39@example.com,3910.58,2025-07-26,Europe,Fashion,Apple Pay,True,Tablet,45
+34391c2f,Alex Brown,alex.brown.52@example.com,4758.92,2025-09-08,North America,Automotive,Credit Card,True,Tablet,76
+368cac3f,Morgan Martinez,morgan.martinez.78@example.com,1747.56,2025-02-05,Europe,Automotive,Credit Card,False,Desktop,55
+5e743af3,Taylor Wong,taylor.wong.69@example.com,3382.69,2025-09-25,LATAM,Home & Garden,PayPal,False,Tablet,82
+35c4b049,Jamie Martinez,jamie.martinez.37@example.com,1727.65,2025-03-03,North America,Home & Garden,Credit Card,False,Desktop,79
+40c1edbc,Avery Smith,avery.smith.65@example.com,2826.39,2025-02-14,LATAM,Fashion,Credit Card,True,Smart Watch,46
+d0b289b0,Jordan Garcia,jordan.garcia.13@example.com,3281.18,2025-05-23,EMEA,Automotive,Apple Pay,True,Desktop,30
+196684cd,Avery Lee,avery.lee.16@example.com,4708.89,2025-12-11,EMEA,Home & Garden,PayPal,False,Smart Watch,45
+a8fb1cd9,Morgan Wong,morgan.wong.45@example.com,3830.17,2025-02-09,APAC,Automotive,Bank Transfer,True,Desktop,58
+2c97eff3,Morgan Johnson,morgan.johnson.58@example.com,2973.29,2025-02-09,Europe,Electronics,Bank Transfer,False,Tablet,23
+ee9f97bd,Alex Brown,alex.brown.91@example.com,4660.8,2025-09-12,LATAM,Automotive,Apple Pay,False,Smart Watch,86
+e2a98b0a,Morgan Lee,morgan.lee.35@example.com,3590.95,2025-04-09,LATAM,Electronics,Credit Card,True,Smart Watch,44
+be5691bb,Taylor Wong,taylor.wong.88@example.com,1727.25,2026-01-05,North America,Electronics,PayPal,True,Tablet,91
+f4222897,Taylor Garcia,taylor.garcia.39@example.com,3396.94,2025-06-24,EMEA,Automotive,Bank Transfer,False,Desktop,18
+ef8db7b7,Avery Smith,avery.smith.64@example.com,4523.91,2025-09-27,LATAM,Electronics,PayPal,False,Mobile,98
+c41ef461,Jamie Johnson,jamie.johnson.67@example.com,132.18,2025-09-29,EMEA,Fashion,Bank Transfer,False,Mobile,65
+2dd8c830,Jamie Doe,jamie.doe.95@example.com,1119.0,2025-06-21,LATAM,Electronics,Apple Pay,False,Smart Watch,33
+c57c119f,Jamie Lee,jamie.lee.98@example.com,4889.84,2025-11-26,LATAM,Electronics,Apple Pay,True,Mobile,35
+6cf34a45,Morgan Wong,morgan.wong.30@example.com,895.8,2025-02-22,LATAM,Books,Apple Pay,True,Tablet,48
+7ee2537f,Riley Doe,riley.doe.42@example.com,2212.77,2025-12-12,EMEA,Electronics,Crypto,False,Tablet,87
+a432a7ca,Casey Doe,casey.doe.82@example.com,4432.43,2025-12-22,EMEA,Electronics,Bank Transfer,False,Smart Watch,26
+7cac5117,Alex Martinez,alex.martinez.87@example.com,3245.66,2025-12-03,Europe,Electronics,Apple Pay,True,Mobile,29
+06f25de7,Avery Martinez,avery.martinez.59@example.com,4327.06,2025-11-22,EMEA,Fashion,PayPal,False,Tablet,36
+a147f8a7,Jordan Lee,jordan.lee.52@example.com,1127.27,2026-01-29,APAC,Electronics,Apple Pay,False,Tablet,31
+fadaab44,Taylor Doe,taylor.doe.36@example.com,4287.47,2025-06-23,North America,Books,Bank Transfer,False,Smart Watch,16
+cae7de05,Avery Wong,avery.wong.56@example.com,4055.55,2025-10-16,EMEA,Fashion,Credit Card,False,Tablet,49
+79bb34ef,Alex Martinez,alex.martinez.56@example.com,377.08,2025-10-31,APAC,Books,Bank Transfer,False,Smart Watch,91
+1a3bd705,Morgan Wong,morgan.wong.96@example.com,814.74,2025-09-27,APAC,Home & Garden,Apple Pay,True,Mobile,59
+a49ef960,Avery Brown,avery.brown.62@example.com,2258.7,2025-10-08,Europe,Books,Bank Transfer,True,Mobile,98
+c36e67e0,Casey Wong,casey.wong.81@example.com,3465.85,2025-12-07,APAC,Fashion,PayPal,True,Mobile,62
+3318343f,Avery Martinez,avery.martinez.32@example.com,1688.91,2026-01-16,LATAM,Home & Garden,Credit Card,False,Tablet,6
+0f3aacb8,Jamie Wong,jamie.wong.39@example.com,2394.41,2025-08-18,North America,Automotive,Crypto,False,Tablet,47
+caf5b2f2,Casey Garcia,casey.garcia.64@example.com,4959.89,2025-06-23,APAC,Fashion,PayPal,True,Mobile,92
+6023a0dd,Casey Garcia,casey.garcia.21@example.com,3218.54,2025-06-28,North America,Home & Garden,Credit Card,True,Mobile,18
+1fa21973,Morgan Lee,morgan.lee.27@example.com,4547.74,2025-10-09,North America,Automotive,Bank Transfer,False,Smart Watch,92
+55082f24,Casey Wong,casey.wong.18@example.com,3848.62,2025-06-10,Europe,Home & Garden,Bank Transfer,True,Smart Watch,58
+021934dc,Alex Martinez,alex.martinez.21@example.com,1361.66,2025-08-17,LATAM,Fashion,Credit Card,False,Desktop,3
+8362ed3f,Taylor Lee,taylor.lee.37@example.com,2047.37,2025-12-10,Europe,Electronics,Crypto,True,Tablet,17
+bac042e3,Jordan Garcia,jordan.garcia.16@example.com,1486.92,2025-07-06,LATAM,Automotive,Crypto,False,Desktop,73
+8fe7cb21,Alex Brown,alex.brown.24@example.com,3357.98,2025-09-27,North America,Home & Garden,Crypto,True,Tablet,56
+4afd2a4f,Riley Wong,riley.wong.42@example.com,2198.51,2026-01-24,North America,Home & Garden,Apple Pay,True,Desktop,5
+936db503,Avery Smith,avery.smith.38@example.com,3092.08,2025-06-17,EMEA,Fashion,Credit Card,False,Tablet,35
+c336949a,Casey Garcia,casey.garcia.32@example.com,382.41,2025-07-07,North America,Automotive,Credit Card,False,Mobile,8
+fdc46bdb,Jordan Johnson,jordan.johnson.97@example.com,3918.43,2025-10-24,EMEA,Electronics,Apple Pay,False,Desktop,2
+90d6ffb8,Jamie Johnson,jamie.johnson.50@example.com,4125.66,2025-08-26,APAC,Electronics,Crypto,False,Smart Watch,3
+9d1e3ec4,Casey Johnson,casey.johnson.91@example.com,1924.15,2025-12-20,LATAM,Electronics,Credit Card,False,Desktop,1
+e92a4f58,Jordan Johnson,jordan.johnson.50@example.com,2089.14,2025-06-15,Europe,Electronics,Crypto,False,Mobile,80
+44c41922,Casey Smith,casey.smith.92@example.com,3739.75,2025-02-26,APAC,Home & Garden,Credit Card,True,Desktop,97
+61e47908,Alex Smith,alex.smith.92@example.com,932.38,2025-06-13,Europe,Electronics,Bank Transfer,False,Mobile,94
+6710c900,Riley Doe,riley.doe.49@example.com,175.7,2025-04-15,LATAM,Home & Garden,Apple Pay,False,Smart Watch,81
+c8a80b53,Jordan Johnson,jordan.johnson.10@example.com,4936.12,2025-03-09,Europe,Books,PayPal,True,Smart Watch,34
+89ec0839,Morgan Lee,morgan.lee.57@example.com,1685.13,2025-09-08,North America,Automotive,Credit Card,False,Tablet,5
+a75d0be5,Casey Doe,casey.doe.10@example.com,4413.04,2025-04-20,Europe,Home & Garden,Credit Card,False,Tablet,72
+430f5b5a,Avery Martinez,avery.martinez.57@example.com,4949.4,2025-06-19,EMEA,Books,PayPal,False,Tablet,64
+6eba76bc,Avery Lee,avery.lee.95@example.com,907.9,2025-03-21,EMEA,Electronics,Credit Card,True,Mobile,70
+03361282,Alex Doe,alex.doe.40@example.com,1739.9,2025-03-28,North America,Fashion,Bank Transfer,True,Mobile,57
+86e22003,Riley Brown,riley.brown.25@example.com,3390.27,2025-03-04,EMEA,Home & Garden,Apple Pay,False,Mobile,27
+b2e25828,Avery Brown,avery.brown.67@example.com,458.85,2025-10-08,Europe,Books,Apple Pay,False,Desktop,72
+c9b161af,Taylor Martinez,taylor.martinez.90@example.com,3139.0,2025-10-30,EMEA,Books,Credit Card,True,Mobile,30
+d4b0444c,Jamie Wong,jamie.wong.95@example.com,2967.85,2025-08-17,North America,Home & Garden,Apple Pay,True,Mobile,18
+082443ee,Alex Smith,alex.smith.44@example.com,4218.72,2025-06-18,North America,Automotive,Apple Pay,True,Mobile,80
+c21be2f2,Casey Wong,casey.wong.61@example.com,2362.62,2025-12-12,EMEA,Automotive,Credit Card,True,Mobile,54
+774a5996,Riley Johnson,riley.johnson.77@example.com,2737.79,2025-06-22,Europe,Automotive,Bank Transfer,False,Smart Watch,92
+0d15ee71,Morgan Garcia,morgan.garcia.41@example.com,3768.14,2025-08-25,APAC,Home & Garden,Apple Pay,False,Desktop,91
+90a09117,Jordan Smith,jordan.smith.40@example.com,1351.87,2025-11-28,North America,Fashion,Bank Transfer,True,Desktop,61
+84c7b499,Taylor Martinez,taylor.martinez.40@example.com,824.97,2025-10-28,LATAM,Fashion,Credit Card,False,Mobile,4
+4ebf2b33,Jordan Garcia,jordan.garcia.82@example.com,4307.31,2025-09-04,North America,Home & Garden,Apple Pay,False,Tablet,97
+749893d9,Casey Wong,casey.wong.52@example.com,932.49,2025-02-11,EMEA,Automotive,PayPal,False,Tablet,72
+bd7290a0,Jordan Johnson,jordan.johnson.31@example.com,3600.89,2025-05-22,LATAM,Electronics,Apple Pay,False,Smart Watch,22
+64e57c50,Morgan Garcia,morgan.garcia.77@example.com,3414.54,2025-03-01,LATAM,Home & Garden,Credit Card,True,Smart Watch,53
+58ed56ea,Casey Lee,casey.lee.18@example.com,2007.25,2025-03-31,LATAM,Fashion,Apple Pay,True,Desktop,11
+4acbac3a,Jamie Doe,jamie.doe.24@example.com,1528.29,2025-06-11,APAC,Books,PayPal,True,Mobile,97
+d387315b,Alex Johnson,alex.johnson.45@example.com,3951.18,2025-12-31,APAC,Automotive,Crypto,False,Desktop,16
+38e5436b,Alex Wong,alex.wong.18@example.com,2847.5,2025-05-24,EMEA,Books,PayPal,False,Mobile,12
+d8cb1bc6,Casey Brown,casey.brown.98@example.com,2767.36,2025-02-08,North America,Automotive,Crypto,False,Mobile,69
+43ee503f,Morgan Lee,morgan.lee.21@example.com,687.9,2025-03-29,LATAM,Automotive,Crypto,True,Smart Watch,86
+1f8790bb,Jamie Johnson,jamie.johnson.76@example.com,2551.0,2026-01-10,APAC,Books,Credit Card,True,Smart Watch,25
+ca240f41,Casey Brown,casey.brown.80@example.com,2005.95,2025-09-28,APAC,Electronics,PayPal,True,Tablet,35
+dad0bdc5,Taylor Johnson,taylor.johnson.91@example.com,4642.59,2025-12-11,APAC,Books,PayPal,False,Tablet,60
+8b810e35,Alex Martinez,alex.martinez.23@example.com,2397.18,2025-10-20,APAC,Automotive,Bank Transfer,False,Desktop,18
+2b7c008f,Riley Doe,riley.doe.99@example.com,1225.2,2025-08-17,Europe,Automotive,Crypto,True,Smart Watch,61
+82f2def7,Morgan Wong,morgan.wong.74@example.com,522.65,2025-02-23,EMEA,Electronics,Crypto,True,Tablet,39
+5385e3b7,Morgan Smith,morgan.smith.57@example.com,2970.11,2025-06-18,Europe,Electronics,Bank Transfer,True,Smart Watch,10
+643f7c31,Casey Brown,casey.brown.18@example.com,3289.28,2025-07-03,EMEA,Fashion,PayPal,True,Mobile,62
+34d3d6e4,Alex Brown,alex.brown.39@example.com,4698.48,2025-10-05,APAC,Electronics,Apple Pay,True,Smart Watch,90
+1810ad98,Taylor Brown,taylor.brown.59@example.com,4646.46,2025-06-10,Europe,Automotive,Credit Card,False,Smart Watch,1
+3de13234,Jamie Martinez,jamie.martinez.88@example.com,2482.63,2025-09-13,Europe,Electronics,Credit Card,False,Desktop,31
+029dff30,Avery Smith,avery.smith.30@example.com,4039.45,2025-03-19,APAC,Electronics,Bank Transfer,True,Smart Watch,73
+9f1f5efe,Avery Brown,avery.brown.76@example.com,4746.23,2025-08-28,APAC,Books,Bank Transfer,False,Tablet,65
+1cb57ced,Jamie Lee,jamie.lee.13@example.com,4262.0,2025-12-12,LATAM,Home & Garden,Crypto,True,Tablet,59
+867e72e9,Taylor Lee,taylor.lee.24@example.com,484.85,2025-12-18,EMEA,Automotive,Credit Card,True,Smart Watch,22
+6df7c6b1,Avery Johnson,avery.johnson.25@example.com,2967.42,2025-07-19,APAC,Automotive,Apple Pay,False,Mobile,49
+eca384e9,Morgan Brown,morgan.brown.91@example.com,3019.19,2025-03-29,APAC,Fashion,Bank Transfer,False,Tablet,13
+75415549,Morgan Garcia,morgan.garcia.17@example.com,633.3,2025-12-09,APAC,Electronics,Apple Pay,False,Tablet,56
+deafaf4c,Jordan Johnson,jordan.johnson.39@example.com,1041.3,2025-04-20,LATAM,Automotive,Bank Transfer,False,Tablet,61
+4c2a7e64,Morgan Brown,morgan.brown.84@example.com,1370.32,2025-04-24,Europe,Automotive,Bank Transfer,True,Mobile,58
+13912021,Morgan Wong,morgan.wong.98@example.com,935.91,2025-05-09,APAC,Home & Garden,Crypto,True,Mobile,47
+50c693e2,Morgan Wong,morgan.wong.80@example.com,3219.8,2025-06-16,North America,Home & Garden,Crypto,True,Smart Watch,46
+3273e4ee,Alex Smith,alex.smith.65@example.com,4981.15,2026-01-04,EMEA,Fashion,Apple Pay,True,Desktop,55
+6bd2d658,Taylor Johnson,taylor.johnson.17@example.com,4858.06,2025-05-21,EMEA,Home & Garden,Apple Pay,True,Desktop,81
+0cce4e98,Casey Smith,casey.smith.85@example.com,2258.39,2025-04-04,Europe,Fashion,Crypto,False,Mobile,66
+0c3ebf5d,Jamie Doe,jamie.doe.72@example.com,851.6,2025-03-01,EMEA,Electronics,Apple Pay,False,Tablet,90
+b44e4868,Jamie Garcia,jamie.garcia.72@example.com,2558.33,2025-08-25,LATAM,Books,Crypto,True,Tablet,53
+de858880,Jordan Smith,jordan.smith.71@example.com,654.62,2025-12-28,EMEA,Home & Garden,Crypto,True,Mobile,93
+626d1166,Alex Doe,alex.doe.40@example.com,1419.13,2026-01-29,North America,Books,Crypto,False,Smart Watch,59
+58ff5f92,Taylor Brown,taylor.brown.88@example.com,1636.7,2025-05-19,EMEA,Electronics,Bank Transfer,False,Smart Watch,18
+9f49b649,Avery Lee,avery.lee.61@example.com,2878.59,2026-01-11,North America,Fashion,Bank Transfer,True,Tablet,83
+16f2d55e,Avery Johnson,avery.johnson.22@example.com,1445.09,2025-03-11,APAC,Books,Crypto,False,Mobile,32
+805ca3e1,Riley Martinez,riley.martinez.33@example.com,2114.56,2025-05-12,LATAM,Fashion,Crypto,False,Mobile,28
+a8bd3f1e,Avery Wong,avery.wong.19@example.com,3643.47,2025-04-08,EMEA,Fashion,Apple Pay,False,Tablet,89
+9a71ae09,Casey Johnson,casey.johnson.70@example.com,1638.82,2026-01-15,Europe,Automotive,Apple Pay,True,Tablet,67
+e7988ae9,Casey Garcia,casey.garcia.17@example.com,3183.32,2025-04-13,APAC,Automotive,Bank Transfer,False,Smart Watch,15
+eee0ae1e,Morgan Lee,morgan.lee.97@example.com,4807.97,2025-09-22,North America,Electronics,PayPal,False,Tablet,7
+38eab2be,Casey Smith,casey.smith.14@example.com,548.79,2025-07-28,LATAM,Electronics,Bank Transfer,False,Tablet,76
+cdbe8d0b,Taylor Garcia,taylor.garcia.97@example.com,1445.9,2025-11-15,North America,Home & Garden,Crypto,False,Smart Watch,50
+3c0c0ee9,Avery Doe,avery.doe.44@example.com,4937.51,2025-03-09,EMEA,Fashion,Bank Transfer,False,Desktop,90
+cbb5ffcb,Morgan Brown,morgan.brown.26@example.com,769.52,2025-10-17,North America,Fashion,PayPal,True,Mobile,28
+81fc7abb,Alex Brown,alex.brown.52@example.com,3831.07,2026-01-13,LATAM,Automotive,Credit Card,False,Smart Watch,67
+ca61982b,Casey Brown,casey.brown.92@example.com,4014.2,2025-08-08,APAC,Fashion,Credit Card,False,Desktop,93
+14504bea,Taylor Smith,taylor.smith.87@example.com,2559.32,2025-11-01,North America,Fashion,Bank Transfer,True,Mobile,30
+9a7648a2,Riley Smith,riley.smith.74@example.com,2161.65,2026-01-04,EMEA,Books,Apple Pay,False,Smart Watch,11
+e7a89d1d,Taylor Wong,taylor.wong.70@example.com,3282.51,2025-12-25,APAC,Automotive,PayPal,True,Tablet,86
+d5dc3fd7,Casey Martinez,casey.martinez.53@example.com,4327.86,2025-03-06,North America,Automotive,Crypto,True,Tablet,71
+5778f93c,Taylor Martinez,taylor.martinez.96@example.com,937.44,2025-11-28,LATAM,Automotive,Credit Card,True,Smart Watch,44
+1bd01199,Casey Doe,casey.doe.44@example.com,3661.76,2025-03-21,APAC,Electronics,Crypto,False,Tablet,42
+5391df18,Riley Lee,riley.lee.70@example.com,3154.82,2025-06-22,Europe,Fashion,Crypto,True,Smart Watch,77
+1377f13b,Avery Lee,avery.lee.11@example.com,1539.76,2025-12-02,Europe,Home & Garden,Crypto,True,Tablet,92
+cf438a63,Jordan Garcia,jordan.garcia.61@example.com,2026.88,2025-11-30,North America,Home & Garden,PayPal,False,Desktop,2
+fe8cb1e0,Avery Wong,avery.wong.89@example.com,3432.89,2025-02-12,EMEA,Automotive,PayPal,False,Mobile,62
+476802df,Casey Brown,casey.brown.19@example.com,2270.83,2025-07-31,APAC,Home & Garden,Apple Pay,True,Smart Watch,78
+7ac496e1,Jamie Brown,jamie.brown.53@example.com,3763.73,2025-09-30,North America,Books,Apple Pay,True,Mobile,88
+092cb8f4,Avery Wong,avery.wong.27@example.com,3640.35,2025-11-07,Europe,Electronics,PayPal,False,Smart Watch,90
+44a134e7,Jamie Martinez,jamie.martinez.33@example.com,4371.81,2025-11-28,Europe,Books,Apple Pay,False,Tablet,56
+6658994e,Jordan Wong,jordan.wong.79@example.com,3108.71,2025-12-26,LATAM,Books,Credit Card,False,Tablet,99
+fb45ba76,Jamie Johnson,jamie.johnson.83@example.com,3035.1,2025-12-11,North America,Books,Apple Pay,False,Desktop,30
+560d899a,Avery Johnson,avery.johnson.47@example.com,4623.06,2025-11-30,Europe,Fashion,Apple Pay,True,Tablet,40
+3e17c52a,Taylor Lee,taylor.lee.51@example.com,4126.92,2025-08-03,North America,Automotive,PayPal,True,Tablet,49
+ddfda991,Jordan Garcia,jordan.garcia.75@example.com,3177.37,2025-12-26,North America,Automotive,Apple Pay,True,Mobile,87
+0cd3e7d8,Jamie Smith,jamie.smith.46@example.com,4862.34,2025-10-11,LATAM,Electronics,Credit Card,True,Mobile,97
+a381d8c7,Alex Garcia,alex.garcia.15@example.com,1881.49,2026-01-28,North America,Electronics,PayPal,False,Mobile,61
+23b452ff,Jordan Doe,jordan.doe.76@example.com,2070.56,2025-02-05,APAC,Home & Garden,Crypto,False,Mobile,20
+e4056730,Avery Lee,avery.lee.78@example.com,4559.85,2025-11-21,APAC,Automotive,Credit Card,False,Smart Watch,72
+c0f89d86,Avery Lee,avery.lee.11@example.com,4899.13,2025-05-07,North America,Fashion,Crypto,False,Desktop,1
+dc7be39d,Avery Johnson,avery.johnson.93@example.com,2809.22,2025-09-02,North America,Books,Credit Card,False,Tablet,49
+afcb6c4d,Jordan Doe,jordan.doe.25@example.com,1689.64,2025-03-06,EMEA,Electronics,Credit Card,False,Mobile,47
+870c4b8d,Jamie Brown,jamie.brown.91@example.com,403.85,2025-08-12,LATAM,Electronics,Bank Transfer,True,Mobile,8
+d097050f,Morgan Smith,morgan.smith.93@example.com,779.6,2025-10-25,North America,Electronics,Apple Pay,False,Tablet,95
+07f8a0b3,Jordan Brown,jordan.brown.48@example.com,974.21,2025-06-28,EMEA,Home & Garden,Bank Transfer,True,Tablet,15
+e9c40444,Casey Johnson,casey.johnson.85@example.com,1468.54,2025-11-20,LATAM,Electronics,Bank Transfer,False,Smart Watch,77
+22f5c67d,Taylor Johnson,taylor.johnson.79@example.com,1662.46,2026-01-09,North America,Books,Bank Transfer,False,Tablet,10
+7f237afc,Morgan Wong,morgan.wong.24@example.com,948.29,2025-10-10,EMEA,Electronics,Bank Transfer,True,Desktop,85
+b8371bd6,Jamie Brown,jamie.brown.66@example.com,960.43,2025-05-19,North America,Home & Garden,Crypto,True,Mobile,41
+535b2ad8,Alex Martinez,alex.martinez.91@example.com,2683.65,2025-12-13,Europe,Home & Garden,Credit Card,True,Tablet,4
+6fe80c2f,Morgan Smith,morgan.smith.20@example.com,3939.17,2025-10-27,Europe,Fashion,Credit Card,True,Desktop,79
+01084e03,Jamie Wong,jamie.wong.60@example.com,3424.45,2025-03-05,EMEA,Books,Credit Card,True,Smart Watch,63
+ee987e6b,Jamie Doe,jamie.doe.61@example.com,4669.6,2025-07-27,Europe,Automotive,Crypto,False,Desktop,87
+db9220b4,Avery Johnson,avery.johnson.50@example.com,567.61,2025-11-07,North America,Automotive,PayPal,False,Smart Watch,48
+94ec8888,Alex Johnson,alex.johnson.59@example.com,1100.06,2025-08-29,LATAM,Electronics,Apple Pay,False,Desktop,29
+5baf1359,Jamie Garcia,jamie.garcia.77@example.com,4106.12,2025-11-21,APAC,Electronics,PayPal,True,Mobile,18
+ab5af77e,Casey Smith,casey.smith.26@example.com,4337.52,2026-01-27,North America,Electronics,Crypto,True,Tablet,72
+7c6d59a0,Casey Martinez,casey.martinez.29@example.com,3155.36,2025-06-06,North America,Books,Credit Card,False,Desktop,48
+ad5261c2,Riley Wong,riley.wong.43@example.com,3086.76,2025-10-07,Europe,Home & Garden,PayPal,False,Desktop,82
+1b0594fb,Riley Lee,riley.lee.53@example.com,4789.0,2025-10-10,EMEA,Home & Garden,Credit Card,False,Tablet,21
+375e8313,Riley Martinez,riley.martinez.50@example.com,3594.2,2025-12-29,North America,Automotive,PayPal,False,Smart Watch,65
+a38d363a,Riley Martinez,riley.martinez.14@example.com,2213.15,2025-11-15,APAC,Automotive,Credit Card,True,Tablet,5
+3851d8a8,Jordan Wong,jordan.wong.60@example.com,1693.18,2025-09-20,LATAM,Home & Garden,Bank Transfer,True,Mobile,71
+ca711ffa,Jamie Johnson,jamie.johnson.84@example.com,2262.04,2026-01-20,EMEA,Automotive,PayPal,False,Smart Watch,37
+61536d87,Jordan Garcia,jordan.garcia.76@example.com,2959.57,2026-01-21,North America,Electronics,Credit Card,False,Smart Watch,16
+e20367f7,Jamie Martinez,jamie.martinez.93@example.com,4751.85,2026-01-01,North America,Fashion,Apple Pay,False,Tablet,97
+dffa14b8,Morgan Garcia,morgan.garcia.24@example.com,3309.28,2025-09-17,North America,Electronics,PayPal,True,Mobile,14
+cc23f1d9,Jamie Brown,jamie.brown.25@example.com,2595.08,2025-06-04,EMEA,Home & Garden,Bank Transfer,True,Desktop,35
+84d332b3,Jordan Lee,jordan.lee.52@example.com,4518.17,2025-09-29,EMEA,Books,PayPal,True,Desktop,97
+239d6cc9,Taylor Wong,taylor.wong.23@example.com,1956.24,2025-11-24,APAC,Home & Garden,Bank Transfer,True,Mobile,76
+d8212afb,Jamie Smith,jamie.smith.44@example.com,2661.2,2025-11-09,EMEA,Fashion,Credit Card,True,Mobile,14
+80399701,Casey Garcia,casey.garcia.55@example.com,4039.38,2025-09-15,LATAM,Electronics,Bank Transfer,True,Desktop,68
+5835d24c,Avery Brown,avery.brown.66@example.com,2840.17,2025-08-17,EMEA,Automotive,Apple Pay,True,Desktop,5
+293b4db6,Jordan Doe,jordan.doe.10@example.com,696.98,2025-07-25,Europe,Home & Garden,PayPal,True,Mobile,65
+fdf01ccf,Riley Smith,riley.smith.20@example.com,1646.76,2025-07-26,LATAM,Fashion,Bank Transfer,False,Tablet,80
+98c0295d,Morgan Smith,morgan.smith.19@example.com,1968.3,2026-01-14,EMEA,Fashion,Crypto,False,Desktop,43
+379fc127,Avery Doe,avery.doe.59@example.com,3927.71,2025-08-02,Europe,Electronics,Bank Transfer,False,Smart Watch,91
+79900f42,Avery Smith,avery.smith.83@example.com,1517.04,2025-05-06,North America,Books,Bank Transfer,False,Tablet,80
+07999dfb,Alex Smith,alex.smith.91@example.com,3834.79,2025-07-25,Europe,Books,PayPal,True,Mobile,56
+dbbbf8e8,Jordan Martinez,jordan.martinez.31@example.com,3131.2,2025-04-16,Europe,Automotive,PayPal,False,Desktop,96
+d69dd2cd,Casey Smith,casey.smith.95@example.com,2414.87,2025-08-01,Europe,Automotive,PayPal,False,Mobile,18
+ad4569c2,Avery Smith,avery.smith.11@example.com,2255.65,2025-12-08,North America,Automotive,Bank Transfer,False,Mobile,70
+1dc4e615,Taylor Garcia,taylor.garcia.54@example.com,2651.34,2025-07-16,Europe,Automotive,Bank Transfer,True,Mobile,98
+6b3ffce0,Alex Lee,alex.lee.44@example.com,2152.63,2025-02-12,EMEA,Automotive,Crypto,False,Smart Watch,17
+cb1458c5,Jamie Johnson,jamie.johnson.46@example.com,2195.04,2025-09-22,North America,Books,Bank Transfer,False,Tablet,76
+02d95f7b,Jamie Wong,jamie.wong.77@example.com,4049.33,2025-01-31,APAC,Automotive,Crypto,True,Desktop,69
+16d626cb,Riley Lee,riley.lee.33@example.com,349.25,2025-04-27,Europe,Automotive,Credit Card,False,Tablet,40
+0bd29056,Riley Lee,riley.lee.34@example.com,2638.18,2025-02-21,APAC,Automotive,Credit Card,True,Smart Watch,90
+81eeccda,Alex Lee,alex.lee.46@example.com,3210.86,2025-05-25,EMEA,Fashion,PayPal,True,Tablet,97
+81de0256,Jamie Doe,jamie.doe.60@example.com,1461.99,2025-10-01,North America,Home & Garden,Credit Card,False,Smart Watch,7
+7d385c7b,Alex Brown,alex.brown.43@example.com,1943.39,2025-03-08,LATAM,Books,Crypto,False,Mobile,38
+e1aa1e42,Morgan Martinez,morgan.martinez.24@example.com,654.56,2025-12-23,EMEA,Electronics,PayPal,True,Desktop,94
+51b37eaa,Taylor Lee,taylor.lee.14@example.com,4156.45,2025-12-16,LATAM,Home & Garden,Bank Transfer,False,Desktop,4
+2cb42bdc,Riley Garcia,riley.garcia.70@example.com,4436.5,2025-05-14,EMEA,Automotive,Apple Pay,True,Smart Watch,52
+b900ee03,Jordan Doe,jordan.doe.78@example.com,430.77,2025-08-15,LATAM,Books,Credit Card,False,Tablet,36
+2d727d39,Jamie Garcia,jamie.garcia.56@example.com,128.17,2026-01-11,Europe,Automotive,Bank Transfer,True,Mobile,71
+5be65f7e,Avery Martinez,avery.martinez.99@example.com,705.97,2025-08-20,APAC,Fashion,Apple Pay,False,Mobile,7
+112f6877,Alex Lee,alex.lee.11@example.com,64.16,2025-02-21,EMEA,Books,Crypto,False,Tablet,84
+f4cb11cb,Jamie Garcia,jamie.garcia.42@example.com,3501.38,2025-05-02,North America,Fashion,Apple Pay,False,Smart Watch,81
+1fe28caf,Casey Martinez,casey.martinez.96@example.com,21.04,2025-03-15,APAC,Fashion,Crypto,True,Desktop,86
+9d3f17c0,Avery Wong,avery.wong.22@example.com,1641.89,2025-12-24,LATAM,Automotive,Bank Transfer,True,Smart Watch,14
+3a6d988a,Jamie Johnson,jamie.johnson.64@example.com,4041.76,2025-02-24,Europe,Home & Garden,PayPal,True,Tablet,77
+4cc5e19e,Taylor Martinez,taylor.martinez.77@example.com,4438.37,2026-01-22,North America,Fashion,Credit Card,False,Tablet,89
+0bd8c125,Casey Doe,casey.doe.73@example.com,1868.06,2025-09-02,EMEA,Home & Garden,Credit Card,True,Tablet,70
+1ebd211a,Jordan Johnson,jordan.johnson.95@example.com,1840.07,2025-03-24,APAC,Fashion,Crypto,False,Smart Watch,8
+06a2ed54,Riley Johnson,riley.johnson.70@example.com,4032.03,2025-02-18,Europe,Fashion,Credit Card,False,Tablet,6
+9319fa8b,Casey Garcia,casey.garcia.35@example.com,2484.16,2025-08-09,EMEA,Books,Apple Pay,True,Smart Watch,78
+37530c8e,Morgan Brown,morgan.brown.74@example.com,2775.22,2025-08-02,Europe,Books,PayPal,True,Tablet,27
+f3b20838,Casey Lee,casey.lee.17@example.com,317.32,2025-06-07,LATAM,Books,Apple Pay,False,Smart Watch,17
+45e9ad33,Morgan Wong,morgan.wong.27@example.com,4047.58,2025-07-27,North America,Automotive,Credit Card,True,Mobile,71
+cf56930a,Casey Wong,casey.wong.38@example.com,3401.65,2025-12-18,LATAM,Electronics,Bank Transfer,False,Desktop,84
+cd947abf,Morgan Smith,morgan.smith.53@example.com,2381.91,2025-02-16,LATAM,Automotive,Credit Card,False,Tablet,71
+b2d39308,Riley Garcia,riley.garcia.21@example.com,4686.91,2025-03-12,LATAM,Books,Bank Transfer,True,Desktop,55
+c4278a96,Jamie Doe,jamie.doe.96@example.com,1154.6,2026-01-23,LATAM,Fashion,Bank Transfer,False,Mobile,71
+9bfe14e5,Taylor Brown,taylor.brown.93@example.com,1032.98,2025-12-11,EMEA,Fashion,Apple Pay,False,Mobile,40
+efd058fa,Morgan Brown,morgan.brown.13@example.com,2717.78,2025-05-03,Europe,Books,Apple Pay,True,Tablet,37
+5e1999d5,Taylor Smith,taylor.smith.18@example.com,3943.54,2025-10-17,APAC,Fashion,Bank Transfer,True,Smart Watch,79
+50ef710b,Morgan Garcia,morgan.garcia.30@example.com,4785.65,2026-01-26,North America,Home & Garden,Crypto,False,Tablet,44
+14acff65,Casey Brown,casey.brown.72@example.com,956.82,2025-09-25,APAC,Automotive,Apple Pay,True,Smart Watch,47
+9ea1367f,Alex Smith,alex.smith.32@example.com,3326.74,2025-10-09,North America,Automotive,Crypto,True,Desktop,12
+dda43ac2,Jordan Johnson,jordan.johnson.64@example.com,4177.8,2025-08-03,EMEA,Books,Credit Card,False,Mobile,51
+a676924d,Casey Martinez,casey.martinez.49@example.com,2278.2,2025-10-17,North America,Electronics,Apple Pay,True,Mobile,71
+dab84b18,Jamie Garcia,jamie.garcia.93@example.com,2919.28,2025-12-09,LATAM,Electronics,Apple Pay,False,Smart Watch,74
+0b8993f4,Morgan Martinez,morgan.martinez.66@example.com,3594.49,2025-08-17,North America,Fashion,Crypto,False,Tablet,82
+5bb54659,Jordan Lee,jordan.lee.11@example.com,895.12,2025-02-24,APAC,Books,Apple Pay,False,Smart Watch,35
+01e2fd6c,Alex Johnson,alex.johnson.30@example.com,804.86,2025-08-31,Europe,Fashion,Credit Card,True,Smart Watch,69
+9cf22344,Avery Garcia,avery.garcia.49@example.com,3891.06,2025-12-15,Europe,Home & Garden,Bank Transfer,False,Tablet,20
+1be886a2,Avery Martinez,avery.martinez.17@example.com,654.27,2025-07-26,North America,Electronics,Bank Transfer,True,Desktop,82
+7bc2f655,Casey Smith,casey.smith.86@example.com,4496.93,2025-08-12,EMEA,Automotive,Credit Card,True,Tablet,34
+03db8125,Jamie Wong,jamie.wong.74@example.com,3739.94,2025-10-02,APAC,Automotive,Credit Card,False,Tablet,4
+41b447d6,Jordan Johnson,jordan.johnson.80@example.com,1329.87,2025-11-21,Europe,Fashion,Bank Transfer,False,Mobile,1
+440ddace,Jordan Lee,jordan.lee.36@example.com,649.12,2025-04-27,EMEA,Automotive,Bank Transfer,True,Desktop,35
+bf8b29a3,Alex Garcia,alex.garcia.80@example.com,2615.62,2025-10-24,APAC,Home & Garden,Crypto,False,Mobile,33
+a1dcf35a,Jamie Garcia,jamie.garcia.25@example.com,2155.9,2025-10-13,Europe,Electronics,Credit Card,True,Desktop,85
+ed6911dd,Avery Brown,avery.brown.90@example.com,2030.65,2025-08-06,APAC,Home & Garden,Apple Pay,False,Smart Watch,2
+8b74d3bd,Jamie Doe,jamie.doe.98@example.com,550.25,2025-10-15,EMEA,Electronics,Credit Card,True,Mobile,70
+a1dcc25f,Jordan Martinez,jordan.martinez.51@example.com,1556.86,2025-12-03,EMEA,Books,Credit Card,True,Smart Watch,78
+d2fa557e,Casey Wong,casey.wong.17@example.com,827.72,2025-11-03,LATAM,Fashion,Crypto,True,Mobile,15
+20ea004c,Morgan Lee,morgan.lee.93@example.com,1045.4,2025-10-08,LATAM,Automotive,Bank Transfer,True,Desktop,56
+9efaca7c,Taylor Martinez,taylor.martinez.75@example.com,1413.49,2025-06-12,North America,Automotive,PayPal,False,Mobile,4
+78c07d25,Casey Johnson,casey.johnson.91@example.com,1047.34,2025-04-24,EMEA,Home & Garden,Crypto,True,Tablet,91
+83eb2cb5,Alex Doe,alex.doe.92@example.com,2759.4,2025-05-13,North America,Automotive,Apple Pay,True,Mobile,60
+eecb3192,Riley Johnson,riley.johnson.35@example.com,2575.9,2025-11-01,North America,Automotive,Apple Pay,True,Smart Watch,80
+40835e92,Jordan Brown,jordan.brown.69@example.com,1899.16,2025-04-07,North America,Home & Garden,PayPal,False,Smart Watch,50
+2c8607e8,Casey Martinez,casey.martinez.30@example.com,2507.85,2025-10-19,Europe,Electronics,Apple Pay,False,Smart Watch,48
+fef60d25,Alex Doe,alex.doe.31@example.com,3535.7,2025-07-05,LATAM,Books,Bank Transfer,False,Smart Watch,78
+5b30cb0f,Casey Brown,casey.brown.62@example.com,1061.92,2025-03-24,APAC,Fashion,Apple Pay,True,Mobile,48
+222a3326,Morgan Wong,morgan.wong.34@example.com,1068.64,2025-12-27,EMEA,Fashion,Bank Transfer,True,Mobile,4
+5b1c0041,Taylor Smith,taylor.smith.43@example.com,4364.23,2025-08-12,North America,Electronics,Bank Transfer,True,Desktop,33
+e7a4995e,Jamie Johnson,jamie.johnson.18@example.com,4014.59,2026-01-27,North America,Home & Garden,Credit Card,False,Smart Watch,20
+e87bd23c,Taylor Martinez,taylor.martinez.62@example.com,1021.96,2025-03-29,Europe,Automotive,Apple Pay,True,Mobile,87
+68d1d45f,Morgan Martinez,morgan.martinez.62@example.com,3460.15,2025-06-20,North America,Fashion,Credit Card,True,Smart Watch,81
+fab8e5bd,Riley Johnson,riley.johnson.27@example.com,4597.48,2025-06-20,LATAM,Books,PayPal,True,Mobile,88
+12e6e81a,Avery Garcia,avery.garcia.50@example.com,4466.3,2025-05-17,North America,Books,Apple Pay,True,Mobile,96
+a7b6193d,Avery Smith,avery.smith.65@example.com,2010.66,2025-12-14,EMEA,Books,Apple Pay,False,Desktop,56
+8568fdab,Avery Martinez,avery.martinez.18@example.com,3767.19,2025-05-12,North America,Fashion,Crypto,False,Mobile,96
+6f5163fe,Alex Lee,alex.lee.84@example.com,1049.2,2025-12-29,North America,Electronics,PayPal,False,Tablet,29
+30d71353,Casey Johnson,casey.johnson.49@example.com,1609.75,2025-02-20,Europe,Fashion,Apple Pay,True,Smart Watch,91
+46c39fd7,Morgan Johnson,morgan.johnson.98@example.com,4085.02,2025-11-19,APAC,Fashion,Bank Transfer,True,Mobile,9
+f7a3c987,Alex Garcia,alex.garcia.48@example.com,3433.25,2025-10-05,EMEA,Home & Garden,Crypto,False,Desktop,37
+c3090b1d,Riley Wong,riley.wong.84@example.com,819.79,2025-04-15,EMEA,Electronics,Credit Card,True,Mobile,73
+410e9944,Jamie Lee,jamie.lee.84@example.com,1760.48,2025-03-21,North America,Electronics,PayPal,False,Tablet,32
+c5e79352,Avery Brown,avery.brown.69@example.com,1202.63,2025-10-12,North America,Books,PayPal,True,Smart Watch,38
+3ff7f5eb,Morgan Johnson,morgan.johnson.35@example.com,1813.11,2025-11-03,APAC,Books,Crypto,False,Mobile,32
+eed28b48,Jordan Brown,jordan.brown.60@example.com,4640.78,2025-08-05,LATAM,Fashion,Crypto,True,Smart Watch,4
+507b5c34,Avery Garcia,avery.garcia.86@example.com,1121.82,2025-06-30,APAC,Home & Garden,Apple Pay,True,Desktop,60
+e320a74c,Jordan Martinez,jordan.martinez.44@example.com,633.62,2025-02-16,APAC,Fashion,Bank Transfer,True,Desktop,54
+80a963fc,Alex Brown,alex.brown.97@example.com,712.31,2025-05-25,Europe,Electronics,Bank Transfer,True,Desktop,90
+2b2987f3,Jordan Wong,jordan.wong.27@example.com,2160.38,2025-08-06,EMEA,Automotive,Apple Pay,True,Mobile,44
+fca82d8c,Morgan Brown,morgan.brown.77@example.com,1924.98,2025-05-07,LATAM,Fashion,PayPal,False,Desktop,19
+f0c5c3cb,Morgan Garcia,morgan.garcia.57@example.com,4677.21,2025-02-03,APAC,Automotive,Apple Pay,False,Mobile,62
+c60a1274,Taylor Brown,taylor.brown.76@example.com,4118.41,2025-06-30,LATAM,Electronics,Credit Card,True,Mobile,53
+2ad198ac,Taylor Lee,taylor.lee.65@example.com,3391.38,2026-01-11,North America,Automotive,PayPal,True,Tablet,81
+bd251fab,Taylor Smith,taylor.smith.99@example.com,166.04,2025-04-06,North America,Automotive,Bank Transfer,False,Tablet,99
+e44f50b2,Casey Lee,casey.lee.35@example.com,2727.18,2025-03-08,North America,Electronics,PayPal,False,Desktop,11
+0d527e50,Jordan Smith,jordan.smith.70@example.com,652.73,2025-07-29,APAC,Fashion,Credit Card,False,Smart Watch,2
+37047c89,Alex Johnson,alex.johnson.82@example.com,130.86,2025-09-19,APAC,Books,Apple Pay,False,Smart Watch,71
+c403dc8a,Jordan Lee,jordan.lee.42@example.com,294.22,2025-03-18,APAC,Books,Crypto,True,Desktop,96
+16eff930,Taylor Lee,taylor.lee.96@example.com,2785.69,2025-03-16,EMEA,Books,PayPal,True,Mobile,14
+8a6dbf98,Jordan Doe,jordan.doe.47@example.com,1866.37,2026-01-22,North America,Automotive,Apple Pay,True,Desktop,57
+7799bea7,Morgan Lee,morgan.lee.35@example.com,3497.88,2025-03-26,North America,Electronics,Bank Transfer,True,Tablet,40
+ed730d08,Jordan Martinez,jordan.martinez.66@example.com,3806.22,2025-12-11,Europe,Electronics,PayPal,True,Tablet,7
+90086eea,Jamie Brown,jamie.brown.59@example.com,643.68,2025-10-09,North America,Electronics,Credit Card,True,Smart Watch,7
+3118f406,Avery Wong,avery.wong.34@example.com,2426.07,2025-03-29,EMEA,Electronics,Apple Pay,False,Desktop,54
+12dd1816,Jordan Brown,jordan.brown.85@example.com,3951.68,2025-09-15,EMEA,Fashion,Bank Transfer,True,Smart Watch,31
+7decdfd5,Jordan Wong,jordan.wong.45@example.com,968.62,2025-03-02,APAC,Electronics,Credit Card,False,Smart Watch,4
+3904af97,Jamie Johnson,jamie.johnson.10@example.com,1867.23,2025-03-19,EMEA,Fashion,Credit Card,False,Tablet,100
+21bd6e10,Alex Smith,alex.smith.51@example.com,3055.76,2025-03-30,APAC,Electronics,PayPal,True,Tablet,35
+e1133216,Riley Wong,riley.wong.41@example.com,1298.02,2025-12-30,LATAM,Home & Garden,Crypto,True,Desktop,10
+8146bd29,Riley Smith,riley.smith.28@example.com,359.77,2025-11-14,Europe,Fashion,Bank Transfer,True,Smart Watch,84
+6e12ebcf,Jamie Brown,jamie.brown.95@example.com,1569.38,2025-07-08,North America,Books,Apple Pay,False,Desktop,66
+1c9dc47e,Jamie Johnson,jamie.johnson.98@example.com,3349.55,2025-03-25,APAC,Electronics,Apple Pay,True,Mobile,76
+e8285140,Casey Johnson,casey.johnson.18@example.com,3665.76,2025-10-02,North America,Fashion,Credit Card,True,Mobile,23
+d5aaaf61,Alex Doe,alex.doe.90@example.com,120.04,2025-05-01,Europe,Books,Credit Card,False,Tablet,28
+f15d2e80,Avery Johnson,avery.johnson.30@example.com,3487.91,2025-06-25,APAC,Books,Apple Pay,True,Desktop,5
+00b2b53d,Jamie Doe,jamie.doe.93@example.com,4233.28,2025-09-03,North America,Books,PayPal,True,Desktop,89
+9a4fb4a4,Riley Martinez,riley.martinez.44@example.com,731.56,2025-08-09,Europe,Fashion,PayPal,True,Desktop,80
+3e265921,Casey Brown,casey.brown.43@example.com,486.61,2025-02-20,LATAM,Electronics,Bank Transfer,False,Smart Watch,85
+f882a216,Casey Doe,casey.doe.57@example.com,3398.68,2026-01-21,LATAM,Electronics,Apple Pay,True,Desktop,46
+27ebde98,Jordan Smith,jordan.smith.49@example.com,433.74,2025-07-29,North America,Books,PayPal,False,Smart Watch,61
+9ab3eacd,Casey Johnson,casey.johnson.75@example.com,1670.34,2025-08-25,North America,Home & Garden,Apple Pay,False,Smart Watch,52
+ad382a22,Morgan Doe,morgan.doe.72@example.com,4208.48,2025-01-31,EMEA,Books,Crypto,False,Desktop,24
+d561782b,Jordan Smith,jordan.smith.33@example.com,1784.11,2025-07-07,EMEA,Home & Garden,Apple Pay,False,Desktop,18
+70d62126,Avery Martinez,avery.martinez.75@example.com,2379.29,2025-01-31,North America,Fashion,PayPal,True,Desktop,22
+07d08310,Alex Johnson,alex.johnson.55@example.com,4935.14,2025-06-20,EMEA,Fashion,Crypto,True,Tablet,43
+98d7536d,Jamie Johnson,jamie.johnson.97@example.com,2673.14,2025-06-18,Europe,Books,Apple Pay,False,Mobile,20
+06eda42e,Casey Smith,casey.smith.67@example.com,3766.62,2025-03-24,Europe,Automotive,Bank Transfer,False,Mobile,10
+380fccb7,Casey Doe,casey.doe.49@example.com,1290.54,2025-02-27,North America,Automotive,Credit Card,True,Mobile,39
+a64165be,Taylor Wong,taylor.wong.78@example.com,2894.63,2025-06-19,Europe,Automotive,Bank Transfer,False,Smart Watch,16
+27b71a43,Jordan Garcia,jordan.garcia.79@example.com,3305.8,2025-07-22,EMEA,Electronics,Crypto,True,Desktop,8
+81f2a248,Morgan Martinez,morgan.martinez.90@example.com,1259.42,2025-08-19,EMEA,Home & Garden,PayPal,True,Desktop,28
+9ea131a1,Jordan Garcia,jordan.garcia.82@example.com,1557.76,2025-12-19,EMEA,Fashion,Crypto,True,Tablet,41
+9c4ff2b9,Alex Doe,alex.doe.31@example.com,1463.66,2025-10-15,EMEA,Fashion,Bank Transfer,False,Mobile,4
+8c747ca0,Casey Martinez,casey.martinez.70@example.com,3717.7,2026-01-25,EMEA,Books,Crypto,True,Desktop,33
+956a2b89,Jamie Johnson,jamie.johnson.32@example.com,1029.14,2025-03-27,North America,Electronics,Apple Pay,True,Mobile,97
+89ec9e69,Riley Doe,riley.doe.34@example.com,2405.1,2025-10-08,EMEA,Books,Apple Pay,False,Mobile,100
+4cdcd2e5,Taylor Lee,taylor.lee.29@example.com,3389.21,2025-04-27,APAC,Books,PayPal,False,Tablet,38
+ea2259f3,Avery Lee,avery.lee.12@example.com,1591.18,2025-06-18,APAC,Automotive,Apple Pay,True,Mobile,65
+0a252f8e,Jordan Johnson,jordan.johnson.32@example.com,2786.04,2025-10-16,APAC,Books,Bank Transfer,False,Tablet,5
+089d9ca9,Jamie Doe,jamie.doe.56@example.com,1927.7,2025-11-22,APAC,Electronics,Crypto,True,Desktop,39
+12e27386,Casey Brown,casey.brown.99@example.com,2207.5,2025-04-05,EMEA,Electronics,Credit Card,False,Mobile,38
+39b7b6e4,Avery Wong,avery.wong.70@example.com,3795.61,2025-09-26,LATAM,Automotive,Bank Transfer,True,Smart Watch,73
+fb99e8d3,Riley Doe,riley.doe.83@example.com,2689.13,2026-01-25,North America,Electronics,Crypto,False,Mobile,97
+59981fda,Alex Doe,alex.doe.30@example.com,4168.98,2025-06-17,EMEA,Electronics,Crypto,True,Desktop,72
+1461c335,Casey Johnson,casey.johnson.69@example.com,1516.22,2025-06-29,LATAM,Electronics,PayPal,False,Mobile,55
+b067d528,Morgan Johnson,morgan.johnson.50@example.com,2208.99,2025-07-22,EMEA,Books,Crypto,True,Smart Watch,98
+cbe657b2,Jamie Martinez,jamie.martinez.61@example.com,3635.67,2025-08-12,North America,Automotive,PayPal,False,Smart Watch,76
+d0394cdf,Jordan Garcia,jordan.garcia.53@example.com,2296.16,2025-04-14,LATAM,Books,PayPal,True,Mobile,27
+6f1f6ddd,Morgan Smith,morgan.smith.85@example.com,2737.49,2025-12-10,EMEA,Home & Garden,Apple Pay,True,Desktop,39
+cb71db1b,Morgan Brown,morgan.brown.60@example.com,572.23,2025-09-15,North America,Fashion,PayPal,True,Smart Watch,18
+8db02678,Casey Wong,casey.wong.30@example.com,4301.13,2025-11-15,EMEA,Books,Apple Pay,False,Desktop,2
+be048dee,Jordan Doe,jordan.doe.91@example.com,2515.52,2025-04-19,Europe,Home & Garden,Apple Pay,True,Mobile,65
+200ffee1,Avery Lee,avery.lee.82@example.com,1178.84,2025-11-05,APAC,Electronics,Credit Card,False,Tablet,87
+f7451400,Jamie Smith,jamie.smith.29@example.com,2890.27,2025-09-27,Europe,Fashion,Credit Card,True,Tablet,15
+bfbef24f,Casey Smith,casey.smith.29@example.com,1373.14,2025-06-13,Europe,Books,Crypto,False,Desktop,82
+b73906b6,Taylor Martinez,taylor.martinez.77@example.com,1004.52,2025-03-04,LATAM,Automotive,Bank Transfer,False,Smart Watch,96
+e58d07ff,Taylor Doe,taylor.doe.52@example.com,734.38,2025-09-14,EMEA,Books,Bank Transfer,False,Tablet,99
+3075a79f,Alex Lee,alex.lee.54@example.com,2714.7,2025-12-30,North America,Electronics,Apple Pay,False,Smart Watch,100
+75ece38e,Jamie Lee,jamie.lee.81@example.com,4087.37,2025-08-22,Europe,Electronics,Credit Card,True,Desktop,65
+dcf29bcc,Alex Doe,alex.doe.75@example.com,4845.76,2025-08-16,APAC,Automotive,PayPal,False,Tablet,89
+9ef3d9d9,Alex Lee,alex.lee.71@example.com,4754.41,2025-02-24,Europe,Home & Garden,Apple Pay,True,Mobile,87
+4042fc9a,Taylor Brown,taylor.brown.76@example.com,117.71,2025-03-27,North America,Electronics,Apple Pay,True,Desktop,42
+14d39317,Jamie Wong,jamie.wong.15@example.com,811.81,2025-02-22,North America,Automotive,Apple Pay,False,Tablet,19
+d330fb7a,Alex Martinez,alex.martinez.31@example.com,4122.34,2025-03-10,North America,Books,Credit Card,True,Smart Watch,11
+7528e7b0,Jordan Martinez,jordan.martinez.51@example.com,1986.14,2025-10-26,APAC,Home & Garden,Apple Pay,False,Desktop,28
+372f532d,Casey Smith,casey.smith.27@example.com,2205.92,2025-12-23,Europe,Electronics,Apple Pay,False,Smart Watch,29
+68f13967,Morgan Johnson,morgan.johnson.93@example.com,2989.56,2025-12-22,Europe,Automotive,Crypto,False,Smart Watch,70
+9927b295,Taylor Brown,taylor.brown.63@example.com,3291.84,2025-04-04,EMEA,Fashion,PayPal,True,Tablet,17
+539e3721,Alex Martinez,alex.martinez.24@example.com,1769.53,2025-07-26,North America,Books,Apple Pay,False,Tablet,64
+a372624b,Riley Lee,riley.lee.17@example.com,2500.57,2025-06-28,Europe,Automotive,Apple Pay,True,Smart Watch,51
+a0246e1a,Casey Johnson,casey.johnson.97@example.com,4824.81,2025-09-18,North America,Electronics,Crypto,False,Tablet,52
+2ae580d0,Jordan Martinez,jordan.martinez.18@example.com,3997.07,2025-07-24,North America,Automotive,PayPal,True,Mobile,1
+519cb1f2,Riley Johnson,riley.johnson.35@example.com,609.71,2025-03-09,LATAM,Electronics,Crypto,True,Desktop,4
+c74e591e,Morgan Wong,morgan.wong.12@example.com,431.16,2025-11-30,EMEA,Books,PayPal,True,Smart Watch,75
+2c411c40,Alex Wong,alex.wong.60@example.com,2259.95,2025-02-09,Europe,Automotive,PayPal,True,Mobile,82
+7703f351,Jordan Wong,jordan.wong.89@example.com,1227.64,2025-05-15,North America,Automotive,PayPal,True,Desktop,57
+a3b8aa59,Casey Smith,casey.smith.31@example.com,4120.6,2025-09-06,APAC,Electronics,Crypto,False,Mobile,44
+b05b73d8,Alex Johnson,alex.johnson.77@example.com,4227.64,2025-02-06,North America,Fashion,PayPal,False,Mobile,55
+29085ded,Casey Brown,casey.brown.56@example.com,4902.04,2025-10-19,North America,Books,Apple Pay,True,Desktop,45
+6f126850,Jamie Brown,jamie.brown.68@example.com,4783.36,2025-08-26,Europe,Books,Crypto,False,Tablet,29
+6b4ca936,Morgan Brown,morgan.brown.25@example.com,1328.95,2025-10-29,Europe,Fashion,Crypto,False,Desktop,7
+2ca5e6a3,Avery Smith,avery.smith.15@example.com,4889.65,2025-07-12,LATAM,Home & Garden,PayPal,False,Mobile,99

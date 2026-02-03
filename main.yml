@@ -1,0 +1,39 @@
+name: Data Sync Pipeline
+
+on:
+  # Botón manual para probar ahora mismo
+  workflow_dispatch:
+  # Ejecución automática diaria (12:00 UTC)
+  schedule:
+    - cron: '0 12 * * *'
+
+jobs:
+  run-sync:
+    runs-on: ubuntu-latest
+    
+    # Permisos necesarios para autenticarse con Google
+    permissions:
+      contents: read
+      id-token: write
+
+    steps:
+      - name: Bajar código
+        uses: actions/checkout@v3
+
+      - name: Instalar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar librerías
+        run: pip install -r requirements.txt
+
+      - name: Autenticación Google Cloud
+        run: echo '${{ secrets.GCP_SA_KEY }}' > gcp_key.json
+
+      - name: Ejecutar ETL
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          GOOGLE_APPLICATION_CREDENTIALS: ./gcp_key.json
+        run: python import_pandas_as_pd_neon.py
