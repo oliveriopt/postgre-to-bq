@@ -355,6 +355,6 @@ db-dtypes>=1.0.0        # BigQuery type support
 
 <div align="center">
 
-**PostgreSQL to BigQuery Module** · RXO Data Integration Platform
+**PostgreSQL to BigQuery Module**
 
 </div>
